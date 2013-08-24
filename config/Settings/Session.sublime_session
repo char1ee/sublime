@@ -198,6 +198,14 @@
 			},
 			"buffers":
 			[
+				{
+					"contents": "",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"command_palette":
@@ -243,6 +251,7 @@
 			},
 			"file_history":
 			[
+				"/usr/lib/Sublime2/sublime_text_copy",
 				"/opt/lampp/apache2/conf/httpd.conf",
 				"/usr/lib/Sublime2/config/Packages/Default/Preferences.sublime-settings",
 				"/usr/lib/Sublime2/config/Packages/User/Preferences.sublime-settings",
@@ -291,8 +300,35 @@
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
 					]
 				}
 			],
