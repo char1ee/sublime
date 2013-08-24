@@ -1,10 +1,13 @@
 {
 	"folder_history":
 	[
+		"/opt/lampp",
+		"/opt/lampp/apache2/conf",
+		"/media/TOSHIBA/_STORAGE/marking",
 		"/usr/lib/goagent/local",
 		"/usr/lib/Sublime2"
 	],
-	"last_window_id": 3,
+	"last_window_id": 10,
 	"settings":
 	{
 		"new_window_height": 0.0,
@@ -19,9 +22,17 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 96.0,
+				"height": 341.0,
 				"selected_items":
 				[
+					[
+						"user",
+						"Preferences: Settings - User"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
 					[
 						"insta",
 						"Package Control: Install Package"
@@ -52,10 +63,14 @@
 			},
 			"file_history":
 			[
+				"/opt/lampp/apache2/conf/httpd.conf",
+				"/usr/lib/Sublime2/config/Packages/Default/Preferences.sublime-settings",
+				"/usr/lib/Sublime2/config/Packages/User/Preferences.sublime-settings",
+				"/etc/apt/sources.list"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 40.0
 			},
 			"find_in_files":
 			{
@@ -69,6 +84,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"NameVirtualHost",
+					"b.com",
+					"a.com",
+					"oneiric"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -124,6 +143,30 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"vhosts.cof",
+						"etc/extra/httpd-vhosts.conf"
+					],
+					[
+						"extra/httpd-vhosts.conf",
+						"etc/extra/httpd-vhosts.conf"
+					],
+					[
+						"conf/httpd.conf",
+						"apache2/conf/httpd.conf"
+					],
+					[
+						"vhost",
+						"etc/original/extra/httpd-vhosts.conf"
+					],
+					[
+						"vhosts.con",
+						"etc/extra/httpd-vhosts.conf"
+					],
+					[
+						"httpd-vhosts.conf",
+						"etc/extra/httpd-vhosts.conf"
+					]
 				],
 				"width": 0.0
 			},
@@ -155,29 +198,21 @@
 			},
 			"buffers":
 			[
-				{
-					"file": "/home/jerry/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 193,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/etc/apt/sources.list",
-					"settings":
-					{
-						"buffer_size": 4125,
-						"line_ending": "Unix"
-					}
-				}
 			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 96.0,
+				"height": 341.0,
 				"selected_items":
 				[
+					[
+						"user",
+						"Preferences: Settings - User"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
 					[
 						"insta",
 						"Package Control: Install Package"
@@ -208,6 +243,10 @@
 			},
 			"file_history":
 			[
+				"/opt/lampp/apache2/conf/httpd.conf",
+				"/usr/lib/Sublime2/config/Packages/Default/Preferences.sublime-settings",
+				"/usr/lib/Sublime2/config/Packages/User/Preferences.sublime-settings",
+				"/etc/apt/sources.list"
 			],
 			"find":
 			{
@@ -225,6 +264,9 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"NameVirtualHost",
+					"b.com",
+					"a.com",
 					"oneiric"
 				],
 				"highlight": true,
@@ -243,67 +285,14 @@
 			"folders":
 			[
 				{
-					"path": "/usr/lib/Sublime2"
+					"path": "/opt/lampp"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 1,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/home/jerry/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-							"settings":
-							{
-								"buffer_size": 193,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										193,
-										193
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JSON.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/etc/apt/sources.list",
-							"settings":
-							{
-								"buffer_size": 4125,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										351,
-										1242
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -338,7 +327,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,1,0,0,0,0,0,0,0,1366,768",
+			"position": "0,0,0,0,0,472,259,1112,739,1366,768",
 			"replace":
 			{
 				"height": 0.0
@@ -349,6 +338,30 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"vhosts.cof",
+						"etc/extra/httpd-vhosts.conf"
+					],
+					[
+						"extra/httpd-vhosts.conf",
+						"etc/extra/httpd-vhosts.conf"
+					],
+					[
+						"conf/httpd.conf",
+						"apache2/conf/httpd.conf"
+					],
+					[
+						"vhost",
+						"etc/original/extra/httpd-vhosts.conf"
+					],
+					[
+						"vhosts.con",
+						"etc/extra/httpd-vhosts.conf"
+					],
+					[
+						"httpd-vhosts.conf",
+						"etc/extra/httpd-vhosts.conf"
+					]
 				],
 				"width": 0.0
 			},
@@ -366,7 +379,7 @@
 			"side_bar_visible": true,
 			"side_bar_width": 150.0,
 			"status_bar_visible": true,
-			"window_id": 2,
+			"window_id": 10,
 			"workspace_name": ""
 		}
 	],

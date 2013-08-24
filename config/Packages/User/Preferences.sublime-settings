@@ -1,11 +1,13 @@
 {
-	"draw_minimap_border": true,
-	"font_face": "YaHei Consolas Hybrid",
-	"font_size": 13,
-	"highlight_line": true,
-	"ignored_packages":
-	[
-		"Toggle Css Format"
-	],
-	"save_on_focus_lost": true
+    "draw_minimap_border": true,
+    "font_face": "YaHei Consolas Hybrid",
+    "font_size": 13,
+    "highlight_line": true,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "ignored_packages":
+    [
+        "Toggle Css Format"
+    ],
+    "save_on_focus_lost": true
 }
