@@ -1,0 +1,4 @@
+[
+	{ "keys": ["alt+u"], "command": "rabbit_up" },
+	{ "keys": ["alt+c"], "command": "rabbit_commit" }
+]

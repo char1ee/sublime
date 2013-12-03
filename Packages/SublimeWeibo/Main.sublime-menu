@@ -1,0 +1,41 @@
+[
+	{
+ 		"id": "tools",
+ 		"children":
+ 			[
+ 				{
+					 "caption": "weibo",
+					 "id": "weibo",
+					 "command": "weibo",
+					 "children" :
+					 	[
+					 		{
+					 			"caption": "Access",
+					 			"id": "weibo-access",
+					 			"command": "weiboaccess"
+					 		},
+					 		{
+					 			"caption": "Send",
+					 			"id": "weibo-send",
+					 			"command": "weibosend"
+					 		},
+					 		{
+					 			"caption": "Home Timeline",
+					 			"id": "weibo-timeline",
+					 			"command": "weibogettimeline"
+					 		},
+					 		{
+					 			"caption": "@me",
+					 			"id": "weibo-at-me",
+					 			"command": "weibogetatme"
+					 		},
+					 		{
+					 			"caption": "Comments",
+					 			"id": "weibo-comments",
+					 			"command": "weibocomments"
+					 		}
+					 	]
+ 				}
+ 			]
+ 	}
+]

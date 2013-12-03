@@ -1,0 +1,34 @@
+{
+	"installed_packages":
+	[
+		"3024 Color Scheme",
+		"Alignment",
+		"AutoFileName",
+		"DocBlockr",
+		"Dummy Image Generator",
+		"Emmet",
+		"GBK Encoding Support",
+		"Highlight",
+		"Highlighter",
+		"HTML Mustache",
+		"HTML-CSS-JS Prettify",
+		"InsertDate",
+		"Jade",
+		"JsFormat",
+		"JSHint",
+		"Keymaps",
+		"LESS",
+		"LineEndings",
+		"Markdown Preview",
+		"Package Control",
+		"RabbitVCS",
+		"SFTP",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"Smarty",
+		"Sublime V8",
+		"SublimeWeibo",
+		"SyncedSideBar",
+		"Toggle Css Format"
+	]
+}

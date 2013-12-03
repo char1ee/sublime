@@ -1,0 +1,10 @@
+[
+	{
+		"keys": ["alt+x"],
+		"command": "weibosend"
+	},
+	{
+		"keys": ["ctrl+alt+x"],
+		"command": "weibogettimeline"
+	}
+]

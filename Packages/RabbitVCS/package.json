@@ -1,0 +1,20 @@
+{
+	"schema_version": "1.1",
+	"packages": [
+		{
+			"name": "RabbitVCS",
+			"description": "An Easy way that use RabbitVCS on linux like subclipse",
+			"author": "Lerous",
+			"homepage": "https://github.com/lerous/sublime-RabbitVCS",
+			"last_modified": "2013-09-05 23:13:00",
+			"platforms": {
+				"Linux": [
+					{
+						"version": "1.0.0",
+						"url": "https://nodeload.github.com/lerous/sublime-RabbitVCS/zipball/master"
+					}
+				]
+			}
+		}
+	]
+}
