@@ -1122,8 +1122,32 @@
 				"selected_items":
 				[
 					[
+						"ov",
+						"overflow"
+					],
+					[
+						"hi",
+						"hidden"
+					],
+					[
 						"no",
-						"no-repeat"
+						"none"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"pa",
+						"padding-left"
+					],
+					[
+						"lin",
+						"line-height"
+					],
+					[
+						"font",
+						"font-size"
 					],
 					[
 						"mar",
@@ -1166,10 +1190,6 @@
 						"border"
 					],
 					[
-						"ma",
-						"margin"
-					],
-					[
 						"margin",
 						"margin-bottom"
 					],
@@ -1190,18 +1210,10 @@
 			"buffers":
 			[
 				{
-					"file": "/home/liyongjian/Website/class/src/application/views/front/scripts/course/detail.phtml",
+					"file": "/home/liyongjian/Website/class/demo.prj",
 					"settings":
 					{
-						"buffer_size": 10495,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/liyongjian/Website/class/src/www/front/static/asset/css/detail.css",
-					"settings":
-					{
-						"buffer_size": 5158,
+						"buffer_size": 2638,
 						"line_ending": "Unix"
 					}
 				}
@@ -1212,6 +1224,18 @@
 				"height": 392.0,
 				"selected_items":
 				[
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"css",
+						"CSSLint: Run CSSLint"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
 					[
 						"install",
 						"Package Control: Install Package"
@@ -1255,10 +1279,6 @@
 					[
 						"date",
 						"InsertDate: Custom"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
 					],
 					[
 						"remove",
@@ -1334,13 +1354,20 @@
 			},
 			"file_history":
 			[
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/course/tmp.html",
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/gwy/news.phtml",
+				"/home/liyongjian/Website/class/src/www/front/static/asset/css/detail.css",
 				"/home/liyongjian/Website/class/src/application/views/front/scripts/course/detail.phtml",
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/course/tmp",
+				"/media/D/Website/char1ee.github.io/slide/nproxy.js",
+				"/home/liyongjian/Website/class/src/www/front/static/images/jquery_ht.js",
+				"/home/liyongjian/Website/class/src/www/front/static/resource/css/skin.css",
+				"/home/liyongjian/Website/class/src/www/front/static/asset/css/skin.css",
 				"/home/liyongjian/Website/class/.jshintrc",
 				"/home/liyongjian/Website/class/sftp-config.json",
 				"/home/liyongjian/Website/class/ins.sh",
 				"/home/liyongjian/Website/class/build.sh",
 				"/home/liyongjian/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-				"/home/liyongjian/Website/class/src/www/front/static/asset/css/detail.css",
 				"/home/liyongjian/Website/class/src/application/views/front/scripts/course/detail2.phtml",
 				"/home/liyongjian/Website/class/src/application/views/front/scripts/course/list.phtml",
 				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/js.phtml",
@@ -1353,7 +1380,6 @@
 				"/home/liyongjian/Website/class/src/application/views/front/scripts/course/search.phtml",
 				"/home/liyongjian/Website/class/src/application/views/front/scripts/english/index.phtml",
 				"/home/liyongjian/Website/class/src/application/views/front/scripts/gwy/index.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/gwy/news.phtml",
 				"/home/liyongjian/Website/class/src/application/views/front/scripts/medicine/index.phtml",
 				"/home/liyongjian/Website/class/output/src/application/views/front/scripts/gwy/index.phtml",
 				"/home/liyongjian/Website/class/config.php",
@@ -1381,7 +1407,6 @@
 				"/home/liyongjian/Website/class/src/www/front/static/asset/css/g.css",
 				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/css.phtml",
 				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/subnav.phtml",
-				"/home/liyongjian/Website/class/src/www/front/static/asset/css/skin.css",
 				"/home/liyongjian/Website/class/src/www/front/static/asset/css/index.css",
 				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/course_category.phtml",
 				"/home/liyongjian/Website/class (copy)/src/www/front/static/resource/css/index.css",
@@ -1415,6 +1440,15 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"huatu.com",
+					"script",
+					"http://v.huatu.com/htnews/js/jquery-1.7.1.min.js",
+					"kfivtwin",
+					"课程咨询",
+					"col-1 md md-redline entry",
+					"col-2",
+					"id=\"counsel_",
+					"ui-btn-red-2",
 					"div",
 					"50",
 					"player",
@@ -1538,77 +1572,35 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/liyongjian/Website/class/src/application/views/front/scripts/course/detail.phtml",
+							"file": "/home/liyongjian/Website/class/demo.prj",
 							"settings":
 							{
-								"buffer_size": 10495,
+								"buffer_size": 2638,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1655,
-										1655
-									],
-									[
-										1683,
-										1683
-									],
-									[
-										1709,
-										1709
-									],
-									[
-										1716,
-										1716
+										607,
+										607
 									]
 								],
 								"settings":
 								{
 									"incomplete_sync": null,
 									"synced": true,
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 4,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 240.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/liyongjian/Website/class/src/www/front/static/asset/css/detail.css",
-							"settings":
-							{
-								"buffer_size": 5158,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										4031,
-										4031
-									]
-								],
-								"settings":
-								{
-									"incomplete_sync": null,
-									"synced": true,
-									"syntax": "Packages/CSS/CSS.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 3685.0,
+								"translation.y": 285.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -1647,6 +1639,10 @@
 				]
 			},
 			"menu_visible": true,
+			"output.csslint_result_view":
+			{
+				"height": 124.0
+			},
 			"output.exec":
 			{
 				"height": 142.0
@@ -1667,7 +1663,7 @@
 			{
 				"height": 130.0
 			},
-			"position": "0,0,0,0,0,0,19,1198,1918,1200,1920",
+			"position": "0,0,0,0,0,600,969,1198,1918,1200,1920",
 			"replace":
 			{
 				"height": 64.0
@@ -1683,12 +1679,16 @@
 						"src/www/front/static/asset/css/detail.css"
 					],
 					[
-						"de",
-						"src/application/views/front/scripts/course/detail.phtml"
+						"jquery.js",
+						"src/www/front/static/images/jquery_ht.js"
 					],
 					[
 						"detail",
-						"src/www/front/static/asset/css/detail.css"
+						"src/application/views/front/scripts/course/detail.phtml"
+					],
+					[
+						"de",
+						"src/application/views/front/scripts/course/detail.phtml"
 					],
 					[
 						"js.phtml",
@@ -1829,7 +1829,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 221.0,
+			"side_bar_width": 121.0,
 			"status_bar_visible": true,
 			"window_id": 24,
 			"workspace_name": "/home/liyongjian/sublime project/class.sublime-project"
@@ -1840,8 +1840,8 @@
 		"recent_workspaces":
 		[
 			"/home/liyongjian/sublime project/class.sublime-project",
-			"/home/liyongjian/sublime project/mydev.sublime-project",
 			"/home/liyongjian/sublime project/QTiger.sublime-project",
+			"/home/liyongjian/sublime project/mydev.sublime-project",
 			"/home/liyongjian/sublime project/360edu.sublime-project"
 		]
 	}
