@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/home/liyongjian/Website/open_api_reader",
 		"/media/D/Website/QTiger",
 		"/home/liyongjian/Website/mydev",
 		"/home/liyongjian/Website/mydev/fe/exam",
@@ -10,10 +11,10 @@
 		"/home/liyongjian/Website/360edu",
 		"/home/liyongjian"
 	],
-	"last_window_id": 24,
+	"last_window_id": 32,
 	"settings":
 	{
-		"new_window_height": 0.0,
+		"new_window_height": 949.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -21,228 +22,104 @@
 				"selected_items":
 				[
 					[
-						"bor",
-						"border"
-					],
-					[
-						"mar",
-						"margin-left"
-					],
-					[
-						"te",
-						"text-decoration"
-					],
-					[
-						"fon",
-						"font-weight"
-					],
-					[
-						"co",
-						"color"
-					],
-					[
-						"pa",
-						"padding"
-					],
-					[
-						"margin",
-						"margin"
-					],
-					[
-						"ma",
-						"margin-right"
-					],
-					[
-						"pad",
-						"padding-left"
-					],
-					[
-						"font",
-						"font-weight"
-					],
-					[
-						"st",
-						"strong	Tag"
-					],
-					[
-						"tex",
-						"text-indent"
-					],
-					[
-						"wid",
-						"width"
-					],
-					[
-						"len",
-						"length"
-					],
-					[
-						"t",
-						"txt"
-					],
-					[
-						"con",
-						"container"
-					],
-					[
-						"p",
-						"p	padding"
-					],
-					[
-						"a",
-						"assert"
-					],
-					[
-						"f",
-						"f	Anonymous Function"
-					],
-					[
-						"text",
-						"text-decoration"
-					],
-					[
-						"padding",
-						"padding"
-					],
-					[
-						"padd",
-						"padding"
-					],
-					[
-						"d",
-						"display"
-					],
-					[
-						"paddin",
-						"padding"
-					],
-					[
-						"inlin",
-						"inline-block"
-					],
-					[
-						"marg",
-						"margin-left"
-					],
-					[
-						"wi",
-						"width"
-					],
-					[
-						"paddi",
-						"padding"
-					],
-					[
-						"fo",
-						"font-weight"
-					],
-					[
-						"cur",
-						"cursor"
-					],
-					[
-						"inl",
-						"inline-block"
+						"al",
+						"allowTags"
 					],
 					[
 						"re",
-						"registerTask"
+						"replace"
 					],
 					[
-						"my",
-						"mydev_bak"
+						"html",
+						"htmlString"
 					],
 					[
-						"w",
-						"Website/"
+						"ht",
+						"htmlString"
 					],
 					[
-						"s",
-						"shell"
+						"en",
+						"encoding"
+					],
+					[
+						"fi",
+						"fileProgress"
+					],
+					[
+						"pro",
+						"uploadProgress"
+					],
+					[
+						"by",
+						"bytesComplete"
+					],
+					[
+						"swf",
+						"swfupload"
+					],
+					[
+						"mar",
+						"margin-bottom"
 					],
 					[
 						"in",
 						"inline-block"
 					],
 					[
-						"ov",
-						"overflow"
+						"i",
+						"inline"
 					],
 					[
-						"bo",
-						"bottom"
+						"exte",
+						"extendedField"
 					],
 					[
-						"pos",
-						"position"
+						"add",
+						"addmore"
+					],
+					[
+						"show",
+						"show"
+					],
+					[
+						"fix",
+						"fixedFieldMore"
+					],
+					[
+						"fixed",
+						"fixedField"
+					],
+					[
+						"func",
+						"function"
+					],
+					[
+						"handleD",
+						"handleDateTypeCreate"
+					],
+					[
+						"ha",
+						"handleUniform"
 					],
 					[
 						"margi",
 						"margin-top"
 					],
 					[
-						"impr",
-						"@import	@import url(${0});"
+						"pos",
+						"position"
 					],
 					[
-						"to",
-						"toString"
+						"pre",
+						"preventDefault"
 					],
 					[
-						"me",
-						"methods"
+						"sea",
+						"searchbox"
 					],
 					[
-						"pr",
-						"prototype"
-					],
-					[
-						"exa",
-						"examData"
-					],
-					[
-						"ta",
-						"tabNav"
-					],
-					[
-						"thi",
-						"this"
-					],
-					[
-						"this",
-						"_this"
-					],
-					[
-						"fi",
-						"filter"
-					],
-					[
-						"get",
-						"getExamList"
-					],
-					[
-						"tr",
-						"triggerType"
-					],
-					[
-						"tab",
-						"tabContent"
-					],
-					[
-						"i",
-						"index"
-					],
-					[
-						"h",
-						"_handle"
-					],
-					[
-						"fun",
-						"function"
-					],
-					[
-						"file",
-						"files"
+						"ser",
+						"searchbox"
 					],
 					[
 						"fl",
@@ -251,6 +128,22 @@
 					[
 						"inline",
 						"inline"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"fon",
+						"font-size"
 					],
 					[
 						"inli",
@@ -265,15 +158,15 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 264.0,
+				"height": 306.0,
 				"selected_items":
 				[
 					[
-						"time",
-						"Dummy Image: Insert Image"
+						"prety",
+						"HTMLPrettify"
 					],
 					[
-						"prety",
+						"htm",
 						"HTMLPrettify"
 					],
 					[
@@ -281,55 +174,103 @@
 						"HTMLPrettify"
 					],
 					[
-						"sshtm",
-						"Set Syntax: HTML"
-					],
-					[
-						"ctt",
-						"Indentation: Convert to Tabs"
-					],
-					[
-						"cts",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"CTT",
-						"Indentation: Convert to Tabs"
-					],
-					[
-						"ssht",
-						"Set Syntax: HTML"
-					],
-					[
 						"sshtml",
 						"Set Syntax: HTML"
-					],
-					[
-						"ssjs",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"pretyy",
-						"HTMLPrettify: Set Keyboard Shortcuts"
-					],
-					[
-						"htm",
-						"HTMLPrettify"
 					],
 					[
 						"fo",
 						"Format: Javascript"
 					],
 					[
-						"ssjso",
-						"Set Syntax: JSON"
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ssphp",
+						"Set Syntax: PHP"
+					],
+					[
+						"ss sm",
+						"Set Syntax: Smarty"
+					],
+					[
+						"ssht",
+						"Set Syntax: HTML"
+					],
+					[
+						"ssph",
+						"Set Syntax: PHP"
+					],
+					[
+						"USER",
+						"Preferences: Settings - User"
+					],
+					[
+						"ctt",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"ctta",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"ctsp",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"sssma",
+						"Set Syntax: Smarty"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"date",
+						"InsertDate: Default"
+					],
+					[
+						"ssh",
+						"Set Syntax: HTML"
+					],
+					[
+						"insa",
+						"InsertDate: Default"
 					],
 					[
 						"foma",
 						"Format: Javascript"
 					],
 					[
-						"install",
+						"svn",
+						"SVN: Checkout…"
+					],
+					[
+						"ssl",
+						"Set Syntax: LESS"
+					],
+					[
+						"instal",
 						"Package Control: Install Package"
 					],
 					[
@@ -337,24 +278,774 @@
 						"Set Syntax: CSS"
 					],
 					[
-						"remov",
-						"Package Control: Remove Package"
+						"prettyp",
+						"Preferences: Alignment File Settings – Syntax Specific – User"
 					],
 					[
-						"ssjade",
-						"Set Syntax: Jade"
+						"ssjson",
+						"Set Syntax: JSON"
 					],
 					[
-						"ssjad",
-						"Set Syntax: JavaDoc"
+						":q",
+						"Set Syntax: SQL"
 					],
 					[
-						"remo",
-						"Package Control: Remove Package"
+						":w",
+						":w - Save"
 					],
 					[
-						"insta",
+						"user",
+						"Preferences: Settings - User"
+					],
+					[
+						"align",
+						"Preferences: Alignment Key Bindings – User"
+					],
+					[
+						"alig",
+						"Preferences: Alignment File Settings – User"
+					],
+					[
+						"ali",
+						"Preferences: Alignment File Settings – Default"
+					],
+					[
+						"defau",
+						"Preferences: Settings - Default"
+					],
+					[
+						"markdown",
+						"Set Syntax: Markdown"
+					]
+				],
+				"width": 647.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/media/D/Website/jsdom/jquery.js",
+				"/media/D/Website/QTiger/framework/YiiBase.php",
+				"/media/D/Website/char1ee.github.io/slide/javascript.html",
+				"/home/liyongjian/Downloads/jquery-1.10.2.js",
+				"/media/D/Website/QTiger/sftp-config.json",
+				"/media/D/Website/QTiger/.gitignore",
+				"/media/D/Website/QTiger/src/assets/__tmp.php",
+				"/media/D/Website/QTiger/src/protected/views/dataType/addData.html",
+				"/media/D/Website/QTiger/src/protected/views/include/footer.html",
+				"/media/D/Website/QTiger/src/protected/config-dist/config-online/server_conf.php",
+				"/media/D/Website/QTiger/src/assets/js/modules/swfupload/2.2/Flash/ExternalCall.as",
+				"/media/D/Website/QTiger/src/protected/controllers/UploadController.php",
+				"/media/D/Website/QTiger/src/protected/views/include/header.html",
+				"/media/D/Website/QTiger/src/protected/controllers/IndexController.php",
+				"/media/D/Website/QTiger/src/protected/controllers/RoleController.php",
+				"/media/D/Website/QTiger/src/protected/components/RootController.php",
+				"/media/D/Website/QTiger/src/assets/test",
+				"/media/D/Website/QTiger/__tmp.html",
+				"/home/liyongjian/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/media/D/Website/QTiger/src/protected/views/user/index.html",
+				"/media/D/Website/QTiger/src/protected/views/index/index.html",
+				"/media/D/Website/QTiger/src/protected/views/include/____template_init.html",
+				"/media/D/Website/QTiger/framework/yii.php",
+				"/media/D/Website/QTiger/src/protected/views/site/msg.html",
+				"/media/D/Website/QTiger/src/protected/views/site/login.html",
+				"/media/D/Website/QTiger/src/protected/views/site/login_2.html",
+				"/media/D/Website/QTiger/src/protected/views/site/index.html",
+				"/media/D/Website/QTiger/src/protected/views/site/errorMsg.html",
+				"/media/D/Website/QTiger/src/protected/views/role/update.html",
+				"/media/D/Website/QTiger/src/protected/views/role/add.html",
+				"/media/D/Website/QTiger/src/protected/views/dataType/list.html",
+				"/media/D/Website/QTiger/src/protected/views/dataType/datalist.html",
+				"/media/D/Website/QTiger/src/protected/views/include/sidebar.html",
+				"/media/D/Website/QTiger/src/protected/views/include/pageheader.html",
+				"/media/D/Website/QTiger/src/assets/metronic/admin/resources/glyphicons_pro/__MACOSX/glyphicons_pro/glyphicons/._png",
+				"/media/D/Website/QTiger/src/assets/metronic/admin/template_content/assets/img/flags/readme.txt",
+				"/media/D/Website/QTiger/src/assets/metronic/admin/template_content/assets/img/logo.png",
+				"/media/D/Website/QTiger/src/protected/views/dataType/create.html",
+				"/media/D/Website/QTiger/src/assets/metronic/admin/template_content/assets/scripts/app.js",
+				"/media/D/Website/QTiger/src/protected/views/dataType/index.html",
+				"/media/D/Website/QTiger/src/protected/views/user/list.html",
+				"/media/D/Website/QTiger/src/assets/metronic/Readme.url",
+				"/media/D/Website/QTiger/src/assets/test.txt",
+				"/media/D/Website/QTiger/src/html/form.html",
+				"/media/D/Website/QTiger/.idea/modules.xml",
+				"/media/D/Website/QTiger/src/assets/test2.html",
+				"/media/D/Website/QTiger/.idea/vcs.xml",
+				"/home/liyongjian/Website/QTiger/sftp-config.json",
+				"/media/D/Website/QTiger/src/index.php",
+				"/home/liyongjian/Website/QTiger/.gitignore",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zhijiao/hqzj.html",
+				"/home/liyongjian/Website/360edu/src/www/front/css/index/new_head.css",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/zhijiao/index.html",
+				"/home/liyongjian/Website/360edu/branches/hao360_edu_1.1/src/www/front/css/index/new_head.css",
+				"/home/liyongjian/Documents/360edu上线脚本",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/sitemap/zhijiao.html",
+				"/home/liyongjian/Website/360edu/sftp-config.json",
+				"/home/liyongjian/Website/360edu/src/www/front/other/hqzj/css/index.css",
+				"/home/liyongjian/Website/360edu/index.html",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zhijiao/navbar.html",
+				"/home/liyongjian/Downloads/index.temp",
+				"/home/liyongjian/hqzj.html",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zhijiao/index.temp",
+				"/home/liyongjian/Website/360edu/src/www/front/other/hqzj/js/index.js",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/common/base.html",
+				"/home/liyongjian/Website/360edu/src/application/views/front/templates_c/c1c4f5e646933273267bce0757a46db2aadd2d21.file.index.html.php",
+				"/home/liyongjian/Website/360edu/config/front/server_conf.php",
+				"/home/liyongjian/Website/360edu/src/www/front/other/hqzj/index.html",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/zhijiao/index2.html",
+				"/home/liyongjian/Website/class/sftp-config.json",
+				"/home/liyongjian/Website/360edu/src/www/front/js/zt/kaoyan/review.js",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_review.html",
+				"/home/liyongjian/Website/360edu/src/www/front/css/reset.css",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zt/kaoyan/kaoyan_review.html",
+				"/home/liyongjian/.config/sublime-text-2/Packages/User/SVN.errors.log",
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/english/index.phtml",
+				"/home/liyongjian/.config/awesome/rc.lua",
+				"/home/liyongjian/Website/class/src/www/front/static/asset/css/all.css",
+				"/home/liyongjian/Website/class/src/www/front/static/asset/css/g.css",
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/nav_doc_hd.phtml",
+				"/home/liyongjian/Website/class/src/www/front/static/asset/css/header.css",
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/account/index.phtml",
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/build/index.phtml",
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/course/list.phtml",
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/course/search.phtml",
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/index/index.phtml",
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/medicine/index.phtml",
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/css.phtml",
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/subnav.phtml",
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/gwy/index.phtml",
+				"/home/liyongjian/Website/class/src/www/front/static/asset/css/skin.css",
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/js.phtml",
+				"/home/liyongjian/Website/class/src/www/front/static/asset/css/index.css",
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/course_category.phtml",
+				"/home/liyongjian/Website/class (copy)/src/www/front/static/resource/css/index.css",
+				"/home/liyongjian/Website/class/ins.sh",
+				"/home/liyongjian/Website/class/src/www/front/static/resource/css/index.css",
+				"/home/liyongjian/Website/class/src/www/front/static/css/index.css",
+				"/home/liyongjian/.wine/system.reg",
+				"/home/liyongjian/.config/sublime-text-2/Packages/User/CSS.sublime-settings",
+				"/home/liyongjian/Website/class/data/store/run.dat",
+				"/home/liyongjian/Website/class/.jshintrc",
+				"/home/liyongjian/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/liyongjian/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+				"/home/liyongjian/.config/sublime-text-2/Packages/Alignment/Default (Linux).sublime-keymap",
+				"/home/liyongjian/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/liyongjian/.config/sublime-text-2/Packages/Terminal/Base File.sublime-settings",
+				"/home/liyongjian/Website/class/config.php",
+				"/usr/lib/Sublime2/sublime_imfix.c",
+				"/usr/share/applications/sublime.desktop"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"12课时名师1对1陪练（互动课程）",
+					"img",
+					"visibility",
+					"	  ",
+					"大图片",
+					"alert",
+					"file_post_name",
+					"            upload_url : \"http://liyongjian.tiger.edu.360.cn/upload/pic\",\n",
+					"upload_complete_function",
+					">",
+					" ",
+					";",
+					"\n",
+					"div",
+					"录入员资料",
+					"请先提交个人资料",
+					"&",
+					"\" ",
+					"fixed",
+					"_1",
+					"a",
+					"{i}",
+					"extendedField",
+					"Radio Buttons",
+					"_1",
+					"1",
+					"Filed",
+					"extendedFiled",
+					"fixed",
+					"_1",
+					" class=\"extension add\" ",
+					" <input  type=\"number\" maxlength=\"8\" ",
+					"<input  type=\"number\" maxlength=\"8\" value=\"6\" min=\"1\" style=\"width:2.5em\">",
+					"<input  type=\"number\" maxlength=\"8\" value=\"1\" min=\"1\" style=\"width:2.5em\">",
+					"showmore",
+					"handleTooltips",
+					"handleResponsiveOnResize",
+					"<button type=\"button\" class=\"btn\">\n                <i class=\"icon-angle-down\"></i>\n                显示更多\n            </button>",
+					"显示更多",
+					"            <br><br>\n            默认值\n            <input type=\"text\" maxlength=\"255\" style=\"width:483px\">\n            <label class=\"inline\"><input type=\"checkbox\">测长</label>",
+					"search",
+					"id=\"search\"",
+					"search",
+					"id=\"search\"",
+					"submitwenda",
+					"searchbox",
+					"class=\"searchbox\"",
+					"#header .le-nav li a",
+					"<!--广告图-->",
+					"src=\"http://p3.qhimg.com/t01e51427cfedc7d602.jpg\"",
+					"学历考试类",
+					"职业资格类",
+					"current_l",
+					"en",
+					"外语培训类",
+					"医药卫生类",
+					"jjmy",
+					"经济贸易类",
+					"财务会计类",
+					"建筑工程类",
+					"content center",
+					"#header .le-nav li a",
+					"#header .le-nav li a:hover",
+					"hreif",
+					"·一级建造师VIP套餐",
+					"style=\"float:left\"",
+					"一级建造师VIP套餐",
+					"float:left",
+					"·一级建造师VIP套餐",
+					"ifm-content",
+					"(<a[^>]*>)\\s*\\n*(.*)\\s*\\n*(<\\/a>)",
+					"<a[^>]*>",
+					"<img src=\"img/",
+					"(<a[^>]*>)\\s*\\n*(.*)\\s*\\n*(<\\/a>)",
+					"(<a[^>]*>)\\s*\\n*",
+					"src=\"img/",
+					"src=\"img/2",
+					"20131018034250468086",
+					"src=\"img/20131018034250468086",
+					"src=\"img/",
+					"img/20131018034250264961.jpg",
+					"(<a[^>]*>)\\s*\\n*(.*)\\s*\\n*(<\\/a>)",
+					"<a[^>]*>\\s*\\n*(.*)\\s*\\n*<\\/a>",
+					"<a[^>]*>\\s*\\n*.*",
+					"<a[^>]*>\\s*\\n*<\\/a>",
+					"<a[^>]*>\\s*\\n*<\\a>",
+					"<a[^>]*>\\s*\\n*[^(<\\/a)]*",
+					"<a[^>]*>\\s*\\n*[^<\\/a]*",
+					"<a[^>]*>\\s*\\n*[^<\\/]*",
+					"<a[^>]*>\\s*\\n*",
+					"<a[^>]*>",
+					"current_ctta",
+					"current_cttd",
+					"current_ctta",
+					"current_ctt",
+					"current_ctta",
+					"lz_ula",
+					"建筑工程类",
+					"lz_ula",
+					"外语培训类",
+					"\">",
+					"cwkj",
+					"<li class=\"current_l\">\n					<h1>\n						<dl>\n							<dt>\n								<em>",
+					"<div class=\"current_ctta\" style=\"display:none\">",
+					"<div class=\"current_ctta\">",
+					"\n						  ",
+					"						<div class=\"current_ctta\">\n",
+					"<div class=\"current_ctta\">",
+					"class=\"current_ctta\"",
+					"current_ctta",
+					"class=\"current_ctta\"",
+					"$k=>$item%}",
+					"<li {%if $k neq 0%} style=\"display:none\" {%/if%}>",
+					"li as $k=>$item%}",
+					"\n										",
+					"									<li {%if $k neq 0%} style=\"display:none\" {%/if%}>\n",
+					"<li {%if $k neq 0%} style=\"display:none\" {%/if%}>",
+					".li as $k=>$item%}",
+					"style",
+					"li as $item%}\n									<li {%if $k neq 0%} ",
+					"li as $item%}\n									<li {%if $k neq 0%}",
+					"<li {%if $k neq 0%} style=\"display:none\" {%/if%}>",
+					"as $k",
+					"as $k\\",
+					"as $k",
+					"zxmk.li",
+					"jzgc.zxmk.li",
+					"<span class=\"current_ctt\">\n								<ul>\n									{%foreach $data_hqzj"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"		",
+					" ",
+					"\\1\\2\\3",
+					"<img src=\"/other/hqzj/img/",
+					"\\1\\2\\3",
+					"src=\"/other/hqzj/img/",
+					"\\1\\2\\3",
+					"<a[^>]*>(.*)<\\/a>",
+					"<a[^>]*>\\1<\\/a>",
+					"<a[^>]*>$1<\\/a>",
+					"$1",
+					"\\1",
+					"<div class=\"current_ctta\" style=\"display:none\">",
+					"<\\/a>",
+					"\\1"
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": false,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 40.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 142.0
+			},
+			"output.find_results":
+			{
+				"height": 161.0
+			},
+			"output.jsconsole_view":
+			{
+				"height": 0.0
+			},
+			"output.jshint_view":
+			{
+				"height": 154.0
+			},
+			"output.sftp":
+			{
+				"height": 154.0
+			},
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"foot",
+						"src/protected/views/include/footer.html"
+					],
+					[
+						"assets/js/modules/swfupload/2.2/flash/",
+						"src/assets/js/modules/swfupload/2.2/Flash/ExternalCall.as"
+					],
+					[
+						"tmp",
+						"src/assets/__tmp.php"
+					],
+					[
+						"footer",
+						"src/protected/views/include/footer.html"
+					],
+					[
+						"include/header.html",
+						"src/protected/views/include/header.html"
+					],
+					[
+						"root",
+						"src/protected/components/RootController.php"
+					],
+					[
+						"upload",
+						"src/protected/controllers/UploadController.php"
+					],
+					[
+						"indexc",
+						"src/protected/controllers/IndexController.php"
+					],
+					[
+						"rootcontroller",
+						"src/protected/components/RootController.php"
+					],
+					[
+						"assets/js/modules/swfupload/",
+						"src/assets/js/modules/swfupload/2.2/Flash/ExternalCall.as"
+					],
+					[
+						"assets/js/modules/swfupload/2.2/flash",
+						"src/assets/js/modules/swfupload/2.2/Flash/ExternalCall.as"
+					],
+					[
+						"index",
+						"src/protected/views/index/index.html"
+					],
+					[
+						"__",
+						"src/protected/views/include/____template_init.html"
+					],
+					[
+						"index/",
+						"src/protected/views/index/index.html"
+					],
+					[
+						"header",
+						"src/protected/views/include/header.html"
+					],
+					[
+						"page",
+						"src/protected/views/include/pageheader.html"
+					],
+					[
+						"datatype/",
+						"src/protected/views/dataType/list.html"
+					],
+					[
+						"sidebar",
+						"src/protected/views/include/sidebar.html"
+					],
+					[
+						"img/",
+						"src/assets/metronic/admin/template_content/assets/img/flags/readme.txt"
+					],
+					[
+						"logo.png",
+						"src/assets/metronic/admin/resources/glyphicons_pro/__MACOSX/glyphicons_pro/glyphicons/._png"
+					],
+					[
+						"app.js",
+						"src/assets/metronic/admin/template_content/assets/scripts/app.js"
+					],
+					[
+						"create",
+						"src/protected/views/dataType/create.html"
+					],
+					[
+						"protected/views/user/list.html",
+						"src/protected/views/user/list.html"
+					],
+					[
+						"headr",
+						"src/protected/views/include/header.html"
+					],
+					[
+						"heade",
+						"src/protected/views/include/header.html"
+					],
+					[
+						"",
+						"src/application/views/front/tpls/inc/zhijiao/hqzj.html"
+					],
+					[
+						"zhijia",
+						"src/application/views/front/tpls/sitemap/zhijiao.html"
+					],
+					[
+						"new_head.css",
+						"src/www/front/css/index/new_head.css"
+					],
+					[
+						"hq",
+						"src/application/views/front/tpls/inc/zhijiao/hqzj.html"
+					],
+					[
+						"hqz",
+						"src/application/views/front/tpls/inc/zhijiao/hqzj.html"
+					],
+					[
+						"src/application/views/front/tpls/inc/zhijiao/",
+						"src/application/views/front/tpls/inc/zhijiao/hqzj.html"
+					],
+					[
+						"index.js",
+						"src/www/front/other/hqzj/js/index.js"
+					],
+					[
+						"inc/zhijiao/hqzj.html",
+						"src/application/views/front/tpls/inc/zhijiao/hqzj.html"
+					],
+					[
+						"base.htm",
+						"src/application/views/front/tpls/common/base.html"
+					],
+					[
+						"src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_review.html",
+						"src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_review.html"
+					],
+					[
+						"nav_doc_hd",
+						"src/application/views/front/scripts/include/nav_doc_hd.phtml"
+					],
+					[
+						"front/scripts/course/list.phtml",
+						"src/application/views/front/scripts/course/list.phtml"
+					],
+					[
+						"all.css",
+						"src/www/front/static/asset/css/all.css"
+					],
+					[
+						"css.phtml",
+						"src/application/views/front/scripts/include/css.phtml"
+					],
+					[
+						"head",
+						"src/www/front/static/asset/css/header.css"
+					],
+					[
+						"js.phtml",
+						"src/application/views/front/scripts/include/js.phtml"
+					],
+					[
+						"skin",
+						"src/www/front/static/asset/css/skin.css"
+					],
+					[
+						"account/",
+						"src/application/views/front/scripts/account/index.phtml"
+					],
+					[
+						"hea",
+						"src/www/front/static/asset/css/header.css"
+					],
+					[
+						"index.css",
+						"src/www/front/static/asset/css/index.css"
+					],
+					[
+						"index/index",
+						"src/application/views/front/scripts/index/index.phtml"
+					],
+					[
+						"all.",
+						"src/www/front/static/asset/css/all.css"
+					],
+					[
+						"all",
+						"src/www/front/static/asset/css/all.css"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"",
+						"/home/liyongjian/sublime project/360edu.sublime-project"
+					],
+					[
+						"c",
+						"/home/liyongjian/sublime project/class.sublime-project"
+					],
+					[
+						"class",
+						"/home/liyongjian/sublime project/class.sublime-project"
+					],
+					[
+						"my",
+						"/home/liyongjian/sublime project/mydev.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 310.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1198.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"img",
+						"imgSrc"
+					],
+					[
+						"tr",
+						"trdata"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"pre",
+						"preventDefault"
+					],
+					[
+						"sea",
+						"searchbox"
+					],
+					[
+						"ser",
+						"searchbox"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"inline",
+						"inline"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"mar",
+						"margin-right"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"inli",
+						"inline"
+					],
+					[
+						"for",
+						"foreach	foreach …"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"cts",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"ssht",
+						"Set Syntax: HTML"
+					],
+					[
+						"prety",
+						"HTMLPrettify"
+					],
+					[
+						"sssmar",
+						"Set Syntax: Smarty"
+					],
+					[
+						"sshtm",
+						"Set Syntax: HTML"
+					],
+					[
+						"ss",
+						"Set Syntax: HTML"
+					],
+					[
+						"sshtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"pret",
+						"HTMLPrettify"
+					],
+					[
+						"htm",
+						"HTMLPrettify"
+					],
+					[
+						"pretty",
+						"HTMLPrettify"
+					],
+					[
+						"ssphp",
+						"Set Syntax: PHP"
+					],
+					[
+						"sscss",
+						"Set Syntax: CSS"
+					],
+					[
+						"install",
 						"Package Control: Install Package"
+					],
+					[
+						"date",
+						"InsertDate: Default"
+					],
+					[
+						"ssh",
+						"Set Syntax: HTML"
 					],
 					[
 						"insa",
@@ -365,8 +1056,16 @@
 						"Set Syntax: Smarty"
 					],
 					[
-						"date",
-						"InsertDate: Custom"
+						"foma",
+						"Format: Javascript"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
 					],
 					[
 						"remove",
@@ -429,7 +1128,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 647.0
+				"width": 449.0
 			},
 			"console":
 			{
@@ -446,123 +1145,67 @@
 			},
 			"file_history":
 			[
-				"/home/liyongjian/Website/mydev/fe/asset/html/class/index.html",
-				"/home/liyongjian/Website/mydev/fe/asset/html/cipin/index.html",
-				"/home/liyongjian/Website/mydev/fe/asset/css/class/style.css",
-				"/home/liyongjian/Website/mydev/node_modules/grunt/lib/grunt/file.js",
-				"/home/liyongjian/Website/mydev/fe/asset/html/file/index.html",
-				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/swfupload/2.5.0/swfupload.js",
-				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/tab/tab.js",
-				"/home/liyongjian/Website/mydev/fe/asset/css/360eduindex/style.less",
-				"/home/liyongjian/Website/mydev/fe/asset/html/360eduindex/index.html",
-				"/home/liyongjian/Website/mydev/fe/asset/css/ratyle/util.less",
-				"/home/liyongjian/Website/mydev/fe/asset/css/ratyle/config.less",
-				"/home/liyongjian/Website/mydev/fe/asset/css/ratyle/ratyle.less",
-				"/media/D/Website/mydev/shell/cp.sh",
-				"/home/liyongjian/Website/mydev/fe/asset/css/ratyle/reset.less",
-				"/home/liyongjian/Website/mydev/fe/output/css/ratyle/util.less",
-				"/home/liyongjian/Website/mydev_bak/fe/asset/html/360eduindex/index.html",
-				"/home/liyongjian/Website/mydev/affdsa",
-				"/home/liyongjian/Website/mydev/fe/asset/css/360eduindex/style.css",
-				"/home/liyongjian/Website/mydev/fe/asset/css/360eduindex/home.less",
-				"/home/liyongjian/Website/mydev/Gruntfile.js",
-				"/home/liyongjian/Website/mydev/aaa.html",
-				"/home/liyongjian/Website/mydev/fe/asset/css/login/style.css",
-				"/home/liyongjian/Website/mydev/fe/asset/js/login/reg.js",
-				"/home/liyongjian/Website/mydev/fe/asset/html/login/reg.html",
-				"/media/D/Website/char1ee.github.io/cat.html",
-				"/home/liyongjian/.config/sublime-text-2/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
-				"/home/liyongjian/Website/mydev_bak/Gruntfile.js",
-				"/home/liyongjian/Website/mydev/m.html",
-				"/home/liyongjian/Website/mydev/package.json",
-				"/home/liyongjian/Website/mydev/m.md",
-				"/home/liyongjian/Website/mydev/fe/asset/html/kiddesk/index.html",
-				"/home/liyongjian/Website/mydev/shell/cp.sh",
-				"/home/liyongjian/Website/mydev/shell/clearn.sh",
-				"/home/liyongjian/Documents/360edu上线脚本",
-				"/home/liyongjian/Website/mydev/shell/config.sh",
-				"/home/liyongjian/Website/mydev/fe/asset/html/login/yuan.html",
-				"/home/liyongjian/Website/mydev/fe/asset/css/kiddesk/kiddesk.css",
-				"/home/liyongjian/Website/mydev/.gitignore",
-				"/home/liyongjian/Website/mydev/_tmp/kiddesk.zip",
-				"/home/liyongjian/Website/mydev/fe/asset/html/login/index.html",
-				"/media/D/Website/metronic/admin/template_content/index.html",
-				"/home/liyongjian/Website/mydev/fe/asset/html/eduadmin/index.html",
-				"/home/liyongjian/Website/mydev/app.js",
-				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/slide/qwrap_slide.js",
-				"/home/liyongjian/Website/mydev/fe/asset/html/_start/start.html",
-				"/media/D/Website/mydev/fe/asset/js/amd_modules/slide/slide.js",
-				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/slide/test.html",
-				"/home/liyongjian/Website/mydev/_tmp/css/zyz/style.css",
-				"/home/liyongjian/Website/mydev/fe/asset/html/zyz/zyz.html",
-				"/home/liyongjian/Website/mydev/fe/asset/css/zyz/style.less",
-				"/home/liyongjian/Website/mydev/fe/asset/css/zyz/style.css",
-				"/media/D/Website/mydev_bak/fe/asset/css/zyz/style.less",
-				"/home/liyongjian/Website/mydev/_tmp/html/zyz/zyz.html",
-				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/slide/slide.js",
-				"/home/liyongjian/Website/mydev/_tmp/zyz.zip",
-				"/home/liyongjian/.config/sublime-text-2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
-				"/home/liyongjian/Website/mydev/cp.sh",
-				"/home/liyongjian/Website/mydev/_tmp/a.zip",
-				"/home/liyongjian/Website/mydev/_tmp/css/aaaaa.css",
-				"/home/liyongjian/Website/mydev/_tmp.zip",
-				"/home/liyongjian/Website/mydev/_tmp/css/aaaaa",
-				"/home/liyongjian/Website/mydev/fe/asset/html/hello/index.html",
-				"/home/liyongjian/Website/mydev/start.sh",
-				"/home/liyongjian/Website/mydev/clearn.sh",
-				"/home/liyongjian/Website/mydev/fe/start.html",
-				"/home/liyongjian/Website/mydev/fe/asset/js/zyz/zyz.js",
-				"/home/liyongjian/Website/mydev/fe/asset/css/ratyle/function.less",
-				"/home/liyongjian/Website/mydev/fe/asset/img/zyz/网络关爱青少年行动专题页——新_MarkMan.png",
-				"/home/liyongjian/Website/mydev/fe/asset/html/wgq/wgq.html",
-				"/home/liyongjian/Website/mydev/fe/asset/css/wgq/style.less",
-				"/home/liyongjian/Website/mydev/fe/asset/js/vendor/qutil/qutil.js",
-				"/home/liyongjian/Website/mydev/fe/asset/js/vendor/qutil/log.js",
-				"/home/liyongjian/Website/mydev/fe/asset/js/page/home.js",
-				"/home/liyongjian/Website/mydev/fe/asset/js/vendor/jquery/jquery.js",
-				"/home/liyongjian/Website/mydev/fe/asset/js/nmd.js",
-				"/home/liyongjian/Website/mydev/fe/asset/js/vendor/requirejs/require.js",
-				"/home/liyongjian/Website/mydev/fe/asset/js/vendor/requirejs/require.config.js",
-				"/home/liyongjian/Website/mydev/fe/asset/js/page/home-r.js",
-				"/home/liyongjian/Website/mydev/fe/asset/js/require-jquery-config.js",
-				"/home/liyongjian/Website/mydev/fe/asset/js/vendor/qutil/ecma5.js",
-				"/home/liyongjian/Website/mydev/fe/asset/js/vendor/ecma5/ecma5.js",
-				"/home/liyongjian/Website/mydev/fe/asset/js/ecma5.js",
-				"/home/liyongjian/Website/mydev/fe/asset/js/page/alert.js",
-				"/home/liyongjian/Website/mydev/fe/asset/js/page/optimized.js",
-				"/home/liyongjian/Website/mydev/optimized.js",
-				"/home/liyongjian/Website/mydev/fe/asset/js/require-jquery.js",
-				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/jquery/jquery.js",
-				"/home/liyongjian/Website/mydev/fe/asset/js/require.js",
-				"/home/liyongjian/Website/mydev/fe/exam/exam.js",
-				"/home/liyongjian/Website/mydev/fe/exam/index.html",
-				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/jquery/jquery-1.8.1.min.js",
-				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/handlebars/handlebars.js",
-				"/home/liyongjian/Website/mydev/fe/mp3player/mp3player.js",
-				"/home/liyongjian/Website/mydev/fe/kind/index.html",
-				"/home/liyongjian/Website/mydev/fe/asset/css/all.less",
-				"/home/liyongjian/Website/mydev/fe/exam/exam.data",
-				"/home/liyongjian/Website/mydev/views/index.jade",
-				"/home/liyongjian/Website/mydev/fe/asset/css/all.css",
-				"/home/liyongjian/Website/yeomanapp/Gruntfile.js",
-				"/home/liyongjian/Downloads/index.html",
-				"/home/liyongjian/Website/mydev/fe/asset/css/1.less",
-				"/home/liyongjian/Website/mydev/fe/asset/css/2.less",
-				"/home/liyongjian/Website/mydev/fe/asset/css/1.css",
-				"/home/liyongjian/Website/mydev/src",
-				"/home/liyongjian/Website/mydev/fe/asset/css/.lessrc",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zhijiao/hqzj.html",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/common/base.html",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/zt/2014hj/zxx.html",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/zt/2014hj/qz.html",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/exam/navbar.html",
+				"/home/liyongjian/Website/360edu/src/www/front/zt/_2014hj/static/js/xueba.js",
+				"/home/liyongjian/Website/360edu/src/www/front/zt/_2014hj/static/js/nmd.js",
+				"/home/liyongjian/Website/360edu/src/application/controllers/front/ZtController.php",
+				"/home/liyongjian/Website/360edu/src/application/controllers/admin/BaseController.php",
+				"/home/liyongjian/Website/360edu/project/autoload_builder.sh",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/yingyu/tmp.html",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/index/index.html",
+				"/home/liyongjian/Website/360edu/src/www/front/css/yingyu/org.css",
+				"/home/liyongjian/Website/360edu/src/application/views/front/scripts/index/index.phtml",
 				"/home/liyongjian/Website/360edu/src/application/views/front/templates_c/c1c4f5e646933273267bce0757a46db2aadd2d21.file.index.html.php",
+				"/home/liyongjian/Website/360edu/src/application/views/front/templates_c/e0b935c7754ac6d4882ec35a5912189705062236.file.index.html.php",
+				"/home/liyongjian/Website/360edu/sftp-config.json",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/common/base.html",
+				"/home/liyongjian/Documents/360edu上线脚本",
+				"/home/liyongjian/Website/360edu/branches/hao360_edu_1.1/src/application/views/front/tpls/common/base.html",
+				"/home/liyongjian/Website/360edu/branches/hao360_edu_1.1/src/application/views/front/tpls/daxue/211.html",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/zt/kaoyan.html",
+				"/home/liyongjian/Website/360edu/gwy/index2.html",
+				"/home/liyongjian/Website/360edu/src/www/front/monitor.php",
+				"/home/liyongjian/Website/360edu/gwy/360/index.htm",
+				"/home/liyongjian/Website/360edu/gwy/index.html",
+				"/home/liyongjian/Website/360edu/gwy/bijiao.html",
+				"/home/liyongjian/Website/360edu/src/www/front/auto_load.php",
+				"/home/liyongjian/Website/360edu/mydev.zip",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/yingyu/english.html",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/yingyu/index/main.html",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_website.html",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_schedule.html",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_review.html",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_news.html",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_mid_ads.html",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_course.html",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/zt/gongwuyuan.html",
+				"/home/liyongjian/Website/360edu/branches/hao360_edu_1.1/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_news.html",
+				"/home/liyongjian/Website/360edu/branches/hao360_edu_1.1/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_website.html",
+				"/home/liyongjian/Website/360edu/branches/hao360_edu_1.1/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_schedule.html",
+				"/home/liyongjian/Website/360edu/branches/hao360_edu_1.1/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_review.html",
+				"/home/liyongjian/Website/360edu/branches/hao360_edu_1.1/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_mid_ads.html",
+				"/home/liyongjian/Website/360edu/branches/hao360_edu_1.1/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_course.html",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/yingyu/__tmp.html",
+				"/home/liyongjian/Website/360edu/src/application/controllers/front/YingyuController.php",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/zhijiao/index.html",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zhijiao/hqzj.html",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/sitemap/zhijiao.html",
+				"/home/liyongjian/Website/360edu/src/www/front/css/index/new_head.css",
+				"/home/liyongjian/Website/360edu/branches/hao360_edu_1.1/src/www/front/css/index/new_head.css",
+				"/home/liyongjian/Website/360edu/src/www/front/other/hqzj/css/index.css",
+				"/home/liyongjian/Website/360edu/index.html",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zhijiao/navbar.html",
+				"/home/liyongjian/Downloads/index.temp",
+				"/home/liyongjian/hqzj.html",
+				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zhijiao/index.temp",
 				"/home/liyongjian/Website/360edu/src/www/front/other/hqzj/js/index.js",
 				"/home/liyongjian/Website/360edu/config/front/server_conf.php",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/zhijiao/index.html",
 				"/home/liyongjian/Website/360edu/src/www/front/other/hqzj/index.html",
-				"/home/liyongjian/Website/360edu/sftp-config.json",
 				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/zhijiao/index2.html",
 				"/home/liyongjian/Website/class/sftp-config.json",
 				"/home/liyongjian/Website/360edu/src/www/front/js/zt/kaoyan/review.js",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_review.html",
 				"/home/liyongjian/Website/360edu/src/www/front/css/reset.css",
 				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zt/kaoyan/kaoyan_review.html",
 				"/home/liyongjian/.config/sublime-text-2/Packages/User/SVN.errors.log",
@@ -573,169 +1216,210 @@
 				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/nav_doc_hd.phtml",
 				"/home/liyongjian/Website/class/src/www/front/static/asset/css/header.css",
 				"/home/liyongjian/Website/class/src/application/views/front/scripts/account/index.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/build/index.phtml"
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/build/index.phtml",
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/course/list.phtml",
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/course/search.phtml",
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/index/index.phtml",
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/medicine/index.phtml",
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/css.phtml",
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/subnav.phtml",
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/gwy/index.phtml",
+				"/home/liyongjian/Website/class/src/www/front/static/asset/css/skin.css",
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/js.phtml",
+				"/home/liyongjian/Website/class/src/www/front/static/asset/css/index.css",
+				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/course_category.phtml",
+				"/home/liyongjian/Website/class (copy)/src/www/front/static/resource/css/index.css",
+				"/home/liyongjian/Website/class/ins.sh",
+				"/home/liyongjian/Website/class/src/www/front/static/resource/css/index.css",
+				"/home/liyongjian/Website/class/src/www/front/static/css/index.css",
+				"/home/liyongjian/.wine/system.reg",
+				"/home/liyongjian/.config/sublime-text-2/Packages/User/CSS.sublime-settings",
+				"/home/liyongjian/Website/class/data/store/run.dat",
+				"/home/liyongjian/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/liyongjian/Website/class/.jshintrc",
+				"/home/liyongjian/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/liyongjian/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+				"/home/liyongjian/.config/sublime-text-2/Packages/Alignment/Default (Linux).sublime-keymap",
+				"/home/liyongjian/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/liyongjian/.config/sublime-text-2/Packages/Terminal/Base File.sublime-settings",
+				"/home/liyongjian/Website/class/config.php",
+				"/usr/lib/Sublime2/sublime_imfix.c",
+				"/usr/share/applications/sublime.desktop"
 			],
 			"find":
 			{
-				"height": 39.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
 				"height": 0.0,
 				"where_history":
 				[
+					"",
+					"<open files>",
 					""
 				]
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
-					"grid-1c2",
-					"grid-4c3",
-					"grid-1c2",
-					"f00",
-					"container",
-					"txt.length",
-					"p",
-					"div",
-					"                <h2>适用人群",
-					"<h2>",
-					"                <h2>适用人群",
-					"<h2>",
-					"质量工程师",
-					"i-order-pic-list",
-					"i-order-pic",
-					"列表列表列表列表列表列表列表列表列表列表列表列表列表列表列表列表列表列表列表",
-					"寒假出国寒假出国寒假出国寒假出国寒假出国寒假出国寒假出国寒假出国寒假出国",
-					".tab",
-					"9999em",
-					" <li class=\"u-piclist-item\">\n								<a href=\"#\">\n									<img class=\"u-piclist-pic\" alt=\"\" src=\"http://dummyimage.com/140x100/0eafff/ffffff.png\" />\n									<span class=\"u-piclist-title\">商务英语30天流利表达</span>\n								</a>\n							</li>",
-					"<li class=\"u-piclist-item\">\n								<a href=\"#\">\n									<img class=\"u-piclist-pic\" alt=\"\" src=\"http://dummyimage.com/140x100/0eafff/ffffff.png\" />\n									<span class=\"u-piclist-title\">商务英语30天流利表达</span>\n								</a>\n							</li>\n							 <li class=\"u-piclist-item\">\n								<a href=\"#\">\n									<img class=\"u-piclist-pic\" alt=\"\" src=\"http://dummyimage.com/140x100/0eafff/ffffff.png\" />\n									<span class=\"u-piclist-title\">商务英语30天流利表达</span>\n								</a>\n							</li>\n							 <li class=\"u-piclist-item\">\n								<a href=\"#\">\n									<img class=\"u-piclist-pic\" alt=\"\" src=\"http://dummyimage.com/140x100/0eafff/ffffff.png\" />\n									<span class=\"u-piclist-title\">商务英语30天流利表达</span>\n								</a>\n							</li>\n							 <li class=\"u-piclist-item\">\n								<a href=\"#\">\n									<img class=\"u-piclist-pic\" alt=\"\" src=\"http://dummyimage.com/140x100/0eafff/ffffff.png\" />\n									<span class=\"u-piclist-title\">商务英语30天流利表达</span>\n								</a>\n							</li>\n							 <li class=\"u-piclist-item\">\n								<a href=\"#\">\n									<img class=\"u-piclist-pic\" alt=\"\" src=\"http://dummyimage.com/140x100/0eafff/ffffff.png\" />\n									<span class=\"u-piclist-title\">商务英语30天流利表达</span>\n								</a>\n							</li>",
-					"00a03c",
-					" #00a03c",
-					"#00a03c",
-					"00a03c",
-					"<span class=\"u-piclist-title\">商务英语30天流利表达</span>",
-					"140x100",
-					"教育网站",
-					"mt5",
-					"centetwrap",
-					"i-order-list",
-					"i-zone-list-pic",
-					"<div class=\"u-block-bd",
-					"current",
-					"button",
-					"15",
-					"pr20",
-					"margin-",
-					"u-m",
-					"20",
-					"10",
-					"table",
-					"u-block-bd",
-					"middledot",
-					"middleDot",
-					" ",
-					"回复",
-					"\n水晶 张春香 :",
-					" class=\"cur\"",
-					"<a href=\"#\">首页</a>",
-					"\n",
-					"src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_news.html",
-					"div",
-					"	   ",
-					"regConfig",
-					"loginAfterSetName",
-					"http://tf.360.cn/",
-					".i-reg .ipt1",
-					"code",
-					"yz",
-					"'",
-					"\\\"",
-					"label",
-					"item\\\"><",
-					"\\\"",
-					"label",
-					"item\\\"><",
-					"\\\"",
-					"	   ",
-					"\\\"",
-					"\\\"([^\"])*\\\"\\s*:\\s*\\\"([^,]*)",
-					"\\\"[^\"]*\\\"\\s*:\\s*\\\"([^,]*)",
-					"\\\"[^\"]*\\\"\\s*:\\s*\\\"([^\\\",]*)",
-					"\\\"[^\"]*\\\"\\s*:\\s*\\\"([^\",]*)",
-					"\\\"[^\"]*\\\"\\s*:\\s*\\\"([^\",])",
-					"\\\"[^\"]*\\\"\\s*:\\s*\\\"",
-					"\\\"[^\"]*\\\"\\s*:",
-					"\\\"",
-					"uglify",
-					"\n#",
-					"btn-register",
-					"立即注册",
-					"value=\"立即注册\"",
-					"padding",
-					" type=\"text/css\"/",
-					"assets/plugins/bootstrap/css/",
-					"style",
-					"left",
-					"solidli",
-					"style",
-					"solid-target",
-					"style",
-					"container",
-					"slide",
-					"fil",
-					"4c",
-					"Opacity",
-					"backgroundOpacity",
-					"1000",
-					"1000\n",
-					"alwaysOne",
-					"solidtarget",
-					"fff",
-					"getElementsByClass",
-					"el",
-					".",
-					"fe/asset",
-					"debug",
-					"border",
-					"debug",
+					"static",
+					"<title>360教育搜索_最安全便捷的学习与课程查询平台</title>",
+					"/home/liyongjian/Website/360edu/src/application/views/front/tpls/common/base.html",
+					"common/base.html",
+					"  ",
 					"	 ",
-					"2.png",
-					"/zyz/zyz/",
-					"/asset/img/",
-					"/asset/img",
-					"=\"/asset/img",
-					"/asset/",
-					"asset/",
-					"p",
-					"./",
-					"css",
-					"img",
-					";\n",
-					"255",
-					"background",
-					"bg",
+					"	  ",
+					"	   ",
+					">\n",
+					"	 ",
+					"	  ",
+					"	   ",
+					"monitor-v1.1.1.min.js",
+					"setUrl",
+					"monitor_js",
+					"monitor.setId",
+					"monitor.setId(['hd',",
+					"monitor_js",
+					"zodiac.dwproxy.loadAdZone()",
+					"zodiac.dwproxy.loadAdZone();",
+					"monitor.setUrl",
+					"monitor_js",
+					"monitor-v1.1.1.min.js",
+					"   ",
+					"monitor-v1.1.1.min.js",
+					"monitor_js",
+					"monitor-v1.1.1.min.js",
+					"monito",
+					"monitor-v1.1.1.min.js",
+					"qhimg.com/js/monitor",
+					"<script src=\" http://h1.qhimg.com/js/monitor-v1.1.1.min.js\" ></script>",
+					"<div class=\"related\">\n				<ul class=\"text\">",
+					"地方省市公务员教材",
+					"http://open.union.360.cn/go?bid=2012316481&qihoo_id=36080&url=http%3A%2F%2Fwww.gjgwy.org%2F201304%2F5569.html&sign=78f54d8f9c",
+					"./images/教材中心短信广告.jpg",
+					"jpg",
+					"=\"./images/教材中心短信广告.jpg",
+					"./images/教材中心短信广告.jpg",
+					"教材中心短信广告",
+					"<img src=\"./images/教材中心短信广告.jpg\" style=\"margin-top:10px;\">",
+					"教材中心短信广告",
+					"<img src=\"./images/qrcode_for_gjgwy.jpg\">",
+					"\">\n",
+					"./images/qrcode_for_gjgwy.jpg",
+					"<img src=\"./images/qrcode_for_gjgwy.jpg\">",
+					"<img src=\"./images/gwyscs_logo_9060.jpg\">",
+					"中心",
+					"<img src=\"./images/gwy_logo_9060.jpg\">",
+					"./images/备考教材.jpg",
+					"<div id=\"slide",
+					"<div id=\"eduWebsite\" class=\"edu-website\">",
+					" <div class=\"review\"",
+					"<div class=\"side-left\">",
+					" <div class=\"hot-area gclearfix\" id=\"M-course\">",
+					"<h2>国家公务员</h2>",
+					"什么是公务员“凡进必考”制度？",
+					"===========================",
+					"div class=\"mid-banner\" id=\"M-banner\">",
+					"======================",
+					"===========================",
+					"<div id=\"eduWebsite\"",
+					"<div id=\"eduWebsite\" class=\"edu-website\" id=\"M-edu-website\">",
+					"<div class=\"schedule gclearfix\">",
+					"class=\"review\" style=\"",
+					"class=\"review\" style=\"height:368px;",
+					"<div class=\"college\" style=\"background-color:#fff;\">",
+					"<div class=\"hot-area gclearfix\" id=\"M-course\">",
+					"2014年国家公务员考试_国考资讯_国考课程_国考资料",
+					"saved",
+					"<!-- saved from url=(0033)http://edu.360.cn/exam/gongwuyuan -->",
+					"http://tiger.edu.360.cn/data/get/id/30",
+					"img_url",
+					"少儿英语",
+					"托福",
+					"http://tiger.edu.360.cn/data/get/id/1",
+					"考研英语",
+					"<?php $qcmsData",
+					"$trdata['link']",
+					"imgSrc",
+					"trdata",
+					";",
+					"; ",
+					"trdata",
+					"$trdata => $i",
+					"trdata['title']",
+					"data",
+					"<?php $qcmsData",
+					"<ul class=\"J-childen ",
+					"<ul class=\"J-childen on\">",
+					"item",
+					"右侧",
+					"<ul class=\"text\">",
+					"{%foreach $data_english.oral_eng_word as $item%}\n                    {%if $item@index gt 9%}\n                        {%break%}\n                    {%/if%}\n                    <li class=\"gclearfix {%if $item@index lt 3%}top{%/if%}\"><span>{%if $item@index eq 9%}10{%else%}0{%$item@index+1%}{%/if%}</span><a href=\"{%$item.url%}\" title=\"{%$item.title%}\">{%$item.title%}</a></li>\n                {%/foreach%}",
+					"<div class=\"image\">",
+					"echo ",
+					"{%$item",
+					"{%foreach",
+					"{%*",
+					" {%foreach",
+					"{%foreach",
+					"{%foreach $data_xdf.gre as $item%}\n                        {%if $item@index gt 9%}\n                            {%break%}\n                        {%/if%}\n                        <li><a href=\"{%$item.url%}\" title=\"{%$item.title%}\">{%$item.title%}</a></li>\n                    {%/foreach%}",
+					"{%foreach $data_xdf.toefl as $item%}\n                        {%if $item@index gt 9%}\n                            {%break%}\n                        {%/if%}\n                        <li><a href=\"{%$item.url%}\" title=\"{%$item.title%}\">{%$item.title%}</a></li>\n                    {%/foreach%}",
+					"(\\{\\%\\*[^\\*\\%\\}]*\\*\\%\\})",
+					"\\{\\%\\*[^\\*\\%\\}]*\\*\\%\\}",
+					"\\{\\%\\*",
+					"{\\%\\*",
+					"{%\\*",
+					"{%\\*[^\\*%}]*\\*%}",
+					"{%*[^*%}]*%}",
+					"{%*",
+					"\" ",
+					"http://edu.360.cn",
+					"{%*",
+					"{%*第一个TAB内容*%}",
+					" ",
+					"===",
+					"<a class=\"arrow arrow-right\"></a>",
+					"<div class=\"recommand-section\" id=\"M-recommand\">",
+					"<div id=\"navBar\">",
+					"迈迪德语翻译",
+					"<!--GMAT end-->",
+					"<div class=\"xdf\">",
+					"<!--导航开始 -->",
 					"slide",
-					";\n"
+					"http://www.hjenglish.com/new/p538280",
+					"http://www.hjenglish.com/new/p543757",
+					"slide",
+					"-->"
 				],
 				"highlight": false,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": false,
+				"regex": true,
 				"replace_history":
 				[
-					"\"",
-					"'\\1*'\\s*:\\s*\\\"\\2",
-					"\"",
-					"/zyz/",
-					"../../img/zyz/",
 					"		",
+					"	",
+					"		",
+					"http://p8.qhimg.com/t01fc05660311f3521f.jpg",
+					"<!-- \\1 -->",
+					" ",
 					"",
 					" ",
-					"        ",
+					"&\\n",
+					"\\1\\2\\3",
+					"<img src=\"/other/hqzj/img/",
+					"\\1\\2\\3",
+					"src=\"/other/hqzj/img/",
+					"\\1\\2\\3",
+					"<a[^>]*>(.*)<\\/a>",
+					"<a[^>]*>\\1<\\/a>",
+					"<a[^>]*>$1<\\/a>",
+					"$1",
+					"\\1",
+					"<div class=\"current_ctta\" style=\"display:none\">",
 					"<\\/a>",
 					"\\1"
 				],
@@ -745,6 +1429,14 @@
 				"whole_word": false,
 				"wrap": false
 			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
 			"incremental_find":
 			{
 				"height": 40.0
@@ -776,13 +1468,17 @@
 				]
 			},
 			"menu_visible": true,
+			"output.csslint_result_view":
+			{
+				"height": 124.0
+			},
 			"output.exec":
 			{
 				"height": 142.0
 			},
 			"output.find_results":
 			{
-				"height": 501.0
+				"height": 402.0
 			},
 			"output.jsconsole_view":
 			{
@@ -796,6 +1492,7 @@
 			{
 				"height": 112.0
 			},
+			"position": "0,0,0,0,0,0,969,1198,1917,1200,1920",
 			"replace":
 			{
 				"height": 70.0
@@ -807,216 +1504,120 @@
 				"selected_items":
 				[
 					[
-						"class/",
-						"fe/asset/css/class/style.css"
-					],
-					[
-						"class/index.html",
-						"fe/asset/html/class/index.html"
-					],
-					[
-						"cipin/index.html",
-						"fe/asset/html/cipin/index.html"
-					],
-					[
-						"js/amd_modules/swfupload/2.5.0/swfupload.js",
-						"fe/asset/js/amd_modules/swfupload/2.5.0/swfupload.js"
-					],
-					[
-						"js/amd_module/",
-						"fe/asset/js/amd_modules/tab/tab.js"
-					],
-					[
-						"file/",
-						"fe/asset/html/file/index.html"
-					],
-					[
-						"file",
-						"node_modules/grunt/lib/grunt/file.js"
-					],
-					[
-						"uti",
-						"fe/asset/css/ratyle/util.less"
-					],
-					[
-						"style",
-						"fe/asset/css/360eduindex/style.less"
-					],
-					[
-						"config.",
-						"fe/asset/css/ratyle/config.less"
-					],
-					[
-						"ratyle/ratyle.less",
-						"fe/asset/css/ratyle/ratyle.less"
-					],
-					[
-						"360",
-						"fe/asset/html/360eduindex/index.html"
-					],
-					[
-						"ut",
-						"fe/output/css/ratyle/util.less"
-					],
-					[
-						"reset",
-						"fe/asset/css/ratyle/reset.less"
-					],
-					[
-						"360ed",
-						"fe/asset/css/360eduindex/style.less"
-					],
-					[
-						"asset/html/360eduindex/index.html",
-						"fe/asset/html/360eduindex/index.html"
-					],
-					[
-						"360edu",
-						"fe/asset/html/360eduindex/index.html"
-					],
-					[
-						"affdsa",
-						"affdsa"
-					],
-					[
-						"360e",
-						"fe/asset/css/360eduindex/style.css"
-					],
-					[
-						"util.l",
-						"fe/asset/css/ratyle/util.less"
-					],
-					[
-						"gr",
-						"Gruntfile.js"
-					],
-					[
-						"/login/reg.js",
-						"fe/asset/js/login/reg.js"
-					],
-					[
-						"login",
-						"fe/asset/html/login/reg.html"
-					],
-					[
-						"m.",
-						"m.html"
-					],
-					[
-						"mk.ht",
-						"fe/asset/html/kiddesk/index.html"
-					],
-					[
-						"cp",
-						"shell/cp.sh"
-					],
-					[
-						"shell/c",
-						"shell/clearn.sh"
-					],
-					[
-						"kin",
-						"fe/asset/html/kiddesk/index.html"
-					],
-					[
-						"grun",
-						"Gruntfile.js"
-					],
-					[
-						"cp.sh",
-						"shell/cp.sh"
-					],
-					[
-						"kid",
-						"fe/asset/css/kiddesk/kiddesk.css"
-					],
-					[
-						"yuan",
-						"fe/asset/html/login/yuan.html"
-					],
-					[
-						"login/s",
-						"fe/asset/css/login/style.css"
-					],
-					[
-						"login/",
-						"fe/asset/css/login/style.css"
-					],
-					[
-						"app",
-						"app.js"
-					],
-					[
-						"style.less",
-						"fe/asset/css/zyz/style.less"
-					],
-					[
-						"zyz",
-						"fe/asset/html/zyz/zyz.html"
-					],
-					[
-						"_start",
-						"fe/asset/html/_start/start.html"
-					],
-					[
-						"grunt",
-						"Gruntfile.js"
-					],
-					[
-						"app.js",
-						"app.js"
-					],
-					[
-						"sta",
-						"fe/start.html"
-					],
-					[
-						"jquery",
-						"fe/asset/js/vendor/jquery/jquery.js"
-					],
-					[
-						"home",
-						"fe/asset/js/page/home.js"
+						"zxx",
+						"src/application/views/front/tpls/zt/2014hj/zxx.html"
 					],
 					[
 						"nmd",
-						"fe/asset/js/nmd.js"
+						"src/www/front/zt/_2014hj/static/js/nmd.js"
 					],
 					[
-						"qu",
-						"fe/asset/js/vendor/qutil/qutil.js"
+						"zt",
+						"src/application/controllers/front/ZtController.php"
 					],
 					[
-						"g",
-						"Gruntfile.js"
+						"auto",
+						"project/autoload_builder.sh"
 					],
 					[
-						"ecma",
-						"fe/asset/js/ecma5.js"
+						"croller",
+						"src/application/controllers/admin/BaseController.php"
 					],
 					[
-						"exam",
-						"fe/exam/exam.js"
+						"application/viewv",
+						"src/application/views/front/tpls/inc/exam/navbar.html"
 					],
 					[
-						"hand",
-						"fe/asset/js/amd_modules/handlebars/handlebars.js"
+						"src/application/views/front/tpls/yingyu/tmp.html",
+						"src/application/views/front/tpls/yingyu/tmp.html"
 					],
 					[
-						"asset/js/amd_modules/tab/tab.js",
-						"fe/asset/js/amd_modules/tab/tab.js"
+						"yinyu/",
+						"src/www/front/css/yingyu/org.css"
 					],
 					[
-						"tab",
-						"fe/asset/js/amd_modules/tab/tab.js"
+						"index/",
+						"src/application/views/front/scripts/index/index.phtml"
 					],
 					[
-						"all.less",
-						"fe/asset/css/all.less"
+						"base",
+						"src/application/views/front/tpls/common/base.html"
+					],
+					[
+						"monitor",
+						"src/www/front/monitor.php"
+					],
+					[
+						"src/application/views/front/tpls/inc/yingyu/index/main.html",
+						"src/application/views/front/tpls/inc/yingyu/index/main.html"
+					],
+					[
+						"english",
+						"src/application/views/front/tpls/yingyu/english.html"
+					],
+					[
+						"gwy",
+						"gwy/index2.html"
+					],
+					[
+						"gongwu",
+						"src/application/views/front/tpls/zt/gongwuyuan.html"
+					],
+					[
+						"inc/zt/gongwuyuan/gongwuyuan_schedule.html",
+						"src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_schedule.html"
+					],
+					[
+						"inc/zt",
+						"src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_course.html"
+					],
+					[
+						"englist",
+						"src/application/views/front/tpls/yingyu/english.html"
+					],
+					[
+						"tmp",
+						"src/application/views/front/tpls/yingyu/tmp.html"
+					],
+					[
+						"yinyu",
+						"src/application/controllers/front/YingyuController.php"
+					],
+					[
+						"zhi",
+						"src/application/views/front/tpls/sitemap/zhijiao.html"
+					],
+					[
+						"",
+						"src/application/views/front/tpls/inc/zhijiao/hqzj.html"
+					],
+					[
+						"zhijia",
+						"src/application/views/front/tpls/sitemap/zhijiao.html"
+					],
+					[
+						"new_head.css",
+						"src/www/front/css/index/new_head.css"
+					],
+					[
+						"index",
+						"src/www/front/other/hqzj/css/index.css"
+					],
+					[
+						"hq",
+						"src/application/views/front/tpls/inc/zhijiao/hqzj.html"
 					],
 					[
 						"hqz",
 						"src/application/views/front/tpls/inc/zhijiao/hqzj.html"
+					],
+					[
+						"src/application/views/front/tpls/inc/zhijiao/",
+						"src/application/views/front/tpls/inc/zhijiao/hqzj.html"
+					],
+					[
+						"index.js",
+						"src/www/front/other/hqzj/js/index.js"
 					],
 					[
 						"inc/zhijiao/hqzj.html",
@@ -1096,730 +1697,22 @@
 				[
 					[
 						"",
+						"/home/liyongjian/sublime project/mydev.sublime-project"
+					],
+					[
+						"my",
+						"/home/liyongjian/sublime project/mydev.sublime-project"
+					],
+					[
+						"ny",
+						"/home/liyongjian/sublime project/mydev.sublime-project"
+					],
+					[
+						"q",
 						"/home/liyongjian/sublime project/QTiger.sublime-project"
 					],
 					[
-						"ed",
-						"/home/liyongjian/sublime project/360edu.sublime-project"
-					]
-				],
-				"width": 380.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 226.0,
-			"status_bar_visible": true
-		},
-		"new_window_width": 0.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"ov",
-						"overflow"
-					],
-					[
-						"hi",
-						"hidden"
-					],
-					[
-						"no",
-						"none"
-					],
-					[
-						"ma",
-						"margin"
-					],
-					[
-						"pa",
-						"padding-left"
-					],
-					[
-						"lin",
-						"line-height"
-					],
-					[
-						"font",
-						"font-size"
-					],
-					[
-						"mar",
-						"margin-top"
-					],
-					[
-						"var",
-						"var_dump"
-					],
-					[
-						"pos",
-						"position"
-					],
-					[
-						"off",
-						"offTop"
-					],
-					[
-						"fun",
-						"function"
-					],
-					[
-						"fu",
-						"function"
-					],
-					[
-						"wid",
-						"width"
-					],
-					[
-						"fl",
-						"float"
-					],
-					[
-						"inline",
-						"inline"
-					],
-					[
-						"bor",
-						"border"
-					],
-					[
-						"margin",
-						"margin-bottom"
-					],
-					[
-						"fon",
-						"font-size"
-					],
-					[
-						"inli",
-						"inline"
-					],
-					[
-						"for",
-						"foreach	foreach …"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/home/liyongjian/Website/class/demo.prj",
-					"settings":
-					{
-						"buffer_size": 2638,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "Packages/JSHint/JSHint.sublime-build",
-			"command_palette":
-			{
-				"height": 392.0,
-				"selected_items":
-				[
-					[
-						"html",
-						"HTMLPrettify"
-					],
-					[
-						"css",
-						"CSSLint: Run CSSLint"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"bar",
-						"Side Bar: Refresh"
-					],
-					[
-						"ssjson",
-						"Set Syntax: JSON"
-					],
-					[
-						"user",
-						"Preferences: Settings - User"
-					],
-					[
-						"us",
-						"Preferences: Settings - User"
-					],
-					[
-						"cts",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"htm",
-						"HTMLPrettify"
-					],
-					[
-						"prety",
-						"HTMLPrettify"
-					],
-					[
-						"markdown",
-						"Markdown Preview: Python Markdown: Preview in Browser"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"date",
-						"InsertDate: Custom"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"svn",
-						"SVN: Checkout…"
-					],
-					[
-						"sshtml",
-						"Set Syntax: HTML"
-					],
-					[
-						"ssl",
-						"Set Syntax: LESS"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"sscss",
-						"Set Syntax: CSS"
-					],
-					[
-						"prettyp",
-						"Preferences: Alignment File Settings – Syntax Specific – User"
-					],
-					[
-						":q",
-						"Set Syntax: SQL"
-					],
-					[
-						":w",
-						":w - Save"
-					],
-					[
-						"align",
-						"Preferences: Alignment Key Bindings – User"
-					],
-					[
-						"alig",
-						"Preferences: Alignment File Settings – User"
-					],
-					[
-						"ali",
-						"Preferences: Alignment File Settings – Default"
-					],
-					[
-						"defau",
-						"Preferences: Settings - Default"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 647.0
-			},
-			"console":
-			{
-				"height": 139.0
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/course/tmp.html",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/gwy/news.phtml",
-				"/home/liyongjian/Website/class/src/www/front/static/asset/css/detail.css",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/course/detail.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/course/tmp",
-				"/media/D/Website/char1ee.github.io/slide/nproxy.js",
-				"/home/liyongjian/Website/class/src/www/front/static/images/jquery_ht.js",
-				"/home/liyongjian/Website/class/src/www/front/static/resource/css/skin.css",
-				"/home/liyongjian/Website/class/src/www/front/static/asset/css/skin.css",
-				"/home/liyongjian/Website/class/.jshintrc",
-				"/home/liyongjian/Website/class/sftp-config.json",
-				"/home/liyongjian/Website/class/ins.sh",
-				"/home/liyongjian/Website/class/build.sh",
-				"/home/liyongjian/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/course/detail2.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/course/list.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/js.phtml",
-				"/home/liyongjian/Website/class/src/www/front/static/asset/css/all.css",
-				"/home/liyongjian/Website/class/src/www/front/static/asset/css/ui/detail.css",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/index/index.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/build/index.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/career/index.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/account/index.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/course/search.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/english/index.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/gwy/index.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/medicine/index.phtml",
-				"/home/liyongjian/Website/class/output/src/application/views/front/scripts/gwy/index.phtml",
-				"/home/liyongjian/Website/class/config.php",
-				"/home/liyongjian/Website/class/src/www/front/static/asset/js/amd_modules/pin/pin.js",
-				"/home/liyongjian/Website/class/src/www/front/static/asset/js/all.js",
-				"/home/liyongjian/Website/class/src/www/front/static/asset/js/result.js",
-				"/home/liyongjian/Website/class/src/www/front/static/asset/css/result.css",
-				"/home/liyongjian/Website/class/src/application/models/course_model.php",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/index/index_category.html",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/index/index_top.html",
-				"/home/liyongjian/Website/class/src/www/front/static/asset/css/header.css",
-				"/etc/hosts",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/nav_doc_hd.phtml",
-				"/home/liyongjian/Website/规范/css编码规范.md",
-				"/home/liyongjian/.jshintrc",
-				"/home/liyongjian/.hintrc",
-				"/home/liyongjian/Website/360edu/sftp-config.json",
-				"/home/liyongjian/Website/360edu/src/www/front/js/zt/kaoyan/review.js",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_review.html",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/common/base.html",
-				"/home/liyongjian/Website/360edu/src/www/front/css/reset.css",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zt/kaoyan/kaoyan_review.html",
-				"/home/liyongjian/.config/sublime-text-2/Packages/User/SVN.errors.log",
-				"/home/liyongjian/.config/awesome/rc.lua",
-				"/home/liyongjian/Website/class/src/www/front/static/asset/css/g.css",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/css.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/subnav.phtml",
-				"/home/liyongjian/Website/class/src/www/front/static/asset/css/index.css",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/course_category.phtml",
-				"/home/liyongjian/Website/class (copy)/src/www/front/static/resource/css/index.css",
-				"/home/liyongjian/Website/class/src/www/front/static/resource/css/index.css",
-				"/home/liyongjian/Website/class/src/www/front/static/css/index.css",
-				"/home/liyongjian/.wine/system.reg",
-				"/home/liyongjian/.config/sublime-text-2/Packages/User/CSS.sublime-settings",
-				"/home/liyongjian/Website/class/data/store/run.dat",
-				"/home/liyongjian/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
-				"/home/liyongjian/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
-				"/home/liyongjian/.config/sublime-text-2/Packages/Alignment/Default (Linux).sublime-keymap",
-				"/home/liyongjian/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
-				"/home/liyongjian/.config/sublime-text-2/Packages/Terminal/Base File.sublime-settings",
-				"/usr/lib/Sublime2/sublime_imfix.c",
-				"/usr/share/applications/sublime.desktop"
-			],
-			"find":
-			{
-				"height": 45.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"huatu.com",
-					"script",
-					"http://v.huatu.com/htnews/js/jquery-1.7.1.min.js",
-					"kfivtwin",
-					"课程咨询",
-					"col-1 md md-redline entry",
-					"col-2",
-					"id=\"counsel_",
-					"ui-btn-red-2",
-					"div",
-					"50",
-					"player",
-					"html",
-					".right",
-					"M       ",
-					"M",
-					"	  ",
-					"  ",
-					"	   ",
-					"md md-redline edu-service",
-					"	 ",
-					"	   ",
-					"M      ",
-					"M",
-					"m",
-					"M",
-					"m",
-					"M",
-					"m",
-					"M",
-					"m",
-					"M",
-					"http://h1.qhimg.com/js/monitor-v1.1.1.min.js",
-					"\"",
-					"http://h1.qhimg.com/js/monitor-v1.1.1.min.js",
-					"<script src=\" http://h1.qhimg.com/js/monitor-v1.1.1.min.js\" ></script>",
-					"http://h1.qhimg.com/js/monitor-v1.1.1.min.js",
-					"ui-crumb",
-					"建造工程",
-					"footer",
-					"amd_modules/require.js\"",
-					"all",
-					"all.js",
-					"http://p4.qhimg.com/t017cbe885a319f1054.jpg",
-					"id=\"slideshow-1\"",
-					"ui-slideshow",
-					"slide",
-					"<iframe src=\"http://class.edu.360.cn/gwy/news\" ",
-					"<iframe src=\"http://class.edu.360.cn/gwy/news\" width=\"1000\" height=\"1432\" scrolling=\"no\" frameborder=\"0\"></iframe>",
-					"<iframe src=\"http://class.edu.360.cn/gwy/news\" width=\"1000\" height=\"1452\" scrolling=\"no\" frameborder=\"0\"></iframe>",
-					"'m-pin-fixed'",
-					"m-pin-fixed",
-					"english",
-					"md md-redline-v c-b",
-					"class=\"md md-redborder top-news\"",
-					"topnew",
-					"m-subnav-wrap g-mb5",
-					"#bd .review",
-					"#bd .review\n            </div>\n            </div>\ndisplay:nonedisplay:none\n            </div>\n            </div>\ndisplay:none",
-					"display:none\n            </div>\n            </div>\ndisplay:none",
-					"display:none",
-					"ghide",
-					"display:none",
-					"display",
-					".gclearfix",
-					"gclear",
-					"<table>",
-					"table",
-					".slider-content-list ul li",
-					"mlns:wb=\"http://open.weibo.com/wb\" ",
-					"slider-contaner",
-					"src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_review.html",
-					"作者：李永新",
-					"class=\"slider-view\"",
-					"title>2014年国家公务员考试_国考资讯_国考课程_国考资料</title>",
-					"2014年国家公务员考试_国考资讯_国考课程_国考资料</title>",
-					"<h6>行测教材<a href=\"http://category.dangdang.com/all/?category_path=01.47.07.02.00.00\" class=\"more\">更多&gt;&gt;</a></h6>",
-					"<div class=\"slider-view\">\n				<h6>行测教材<a href=\"http://category.dangdang.com/all/?category_path=01.47.07.02.00.00\" class=\"more\">更多&gt;&gt;</a></h6>",
-					"slider-view",
-					"awful.key",
-					" awful.key",
-					"<a href=\"http://class.edu.360.cn/\" target=\"_blank\">360教育</a>",
-					"{",
-					";",
-					"pri",
-					"                            ",
-					"                         ",
-					"                        ",
-					"                     ",
-					"                    ",
-					"             ",
-					"            ",
-					"         ",
-					"        ",
-					"     ",
-					"slider-view",
-					"class=\"pri-nav\"",
-					"<div class=\"md md-redline md-side-nav\" id=\"side_nav\">\nclass=\"pri-nav\"",
-					"class=\"pri-nav\"",
-					"aaaaaaaaaaaa",
-					".i-home .ui-slideshow .no-list a{background:url(http://p5.qhimg.com/t0103c464545d6c0bd3.png) no-repeat;width:18px;height:18px;color:#fff;border:none;padding:0;\n.i-home .ui-slideshow .no-list a{background:url(http://p5.qhimg.com/t0103c464545d6c0bd3.png) no-repeat;width:18px;height:18px;color:#fff;border:none;padding:0;\naaaaaaaaaaaa",
-					"}",
-					".qbfl .cell-in",
-					"home",
-					"<<<",
-					">>>",
-					"    -- awful.key({ modkey, \"Shift\"   }, \"q\", awesome.quit),\n    -- awful.key({ modkey, \"Shift\"   }, \"q\", awesome.quit),\n    -- awful.key({ modkey, \"Shift\"   }, \"q\", awesome.quit),\nbeautiful.init",
-					"key",
-					"FontSubstitutes",
-					"false",
-					"\non_save",
-					"\n    ",
-					"autorun = true\n",
-					"jerrySoft"
-				],
-				"highlight": false,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"		"
-				],
-				"reverse": true,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": false
-			},
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/home/liyongjian/Website/class/demo.prj",
-							"settings":
-							{
-								"buffer_size": 2638,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										607,
-										607
-									]
-								],
-								"settings":
-								{
-									"incomplete_sync": null,
-									"synced": true,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 285.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 40.0
-			},
-			"input":
-			{
-				"height": 40.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.csslint_result_view":
-			{
-				"height": 124.0
-			},
-			"output.exec":
-			{
-				"height": 142.0
-			},
-			"output.find_results":
-			{
-				"height": 182.0
-			},
-			"output.jsconsole_view":
-			{
-				"height": 0.0
-			},
-			"output.jshint_view":
-			{
-				"height": 154.0
-			},
-			"output.sftp":
-			{
-				"height": 130.0
-			},
-			"position": "0,0,0,0,0,600,969,1198,1918,1200,1920",
-			"replace":
-			{
-				"height": 64.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"deta",
-						"src/www/front/static/asset/css/detail.css"
-					],
-					[
-						"jquery.js",
-						"src/www/front/static/images/jquery_ht.js"
-					],
-					[
-						"detail",
-						"src/application/views/front/scripts/course/detail.phtml"
-					],
-					[
-						"de",
-						"src/application/views/front/scripts/course/detail.phtml"
-					],
-					[
-						"js.phtml",
-						"src/application/views/front/scripts/include/js.phtml"
-					],
-					[
-						"all",
-						"src/www/front/static/asset/css/all.css"
-					],
-					[
-						"build",
-						"src/application/views/front/scripts/build/index.phtml"
-					],
-					[
-						"index",
-						"src/application/views/front/scripts/index/index.phtml"
-					],
-					[
-						"",
-						"build.sh"
-					],
-					[
-						"gwy/nes",
-						"src/application/views/front/scripts/gwy/news.phtml"
-					],
-					[
-						"result.js",
-						"src/www/front/static/asset/js/result.js"
-					],
-					[
-						"course",
-						"src/application/models/course_model.php"
-					],
-					[
-						"index_category",
-						"src/application/views/front/scripts/include/index/index_category.html"
-					],
-					[
-						"index/",
-						"src/application/views/front/scripts/index/index.phtml"
-					],
-					[
-						"gwy/",
-						"src/application/views/front/scripts/gwy/index.phtml"
-					],
-					[
-						"medicine/",
-						"src/application/views/front/scripts/medicine/index.phtml"
-					],
-					[
-						"hea",
-						"src/www/front/static/asset/css/header.css"
-					],
-					[
-						"hd",
-						"src/application/views/front/scripts/include/nav_doc_hd.phtml"
-					],
-					[
-						"sourse/",
-						"src/application/views/front/scripts/course/detail.phtml"
-					],
-					[
-						"header",
-						"src/www/front/static/asset/css/header.css"
-					],
-					[
-						"js",
-						"src/application/views/front/scripts/include/js.phtml"
-					],
-					[
-						"english/in",
-						"src/application/views/front/scripts/english/index.phtml"
-					],
-					[
-						"english/",
-						"src/application/views/front/scripts/english/index.phtml"
-					],
-					[
-						"src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_review.html",
-						"src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_review.html"
-					],
-					[
-						"nav_doc_hd",
-						"src/application/views/front/scripts/include/nav_doc_hd.phtml"
-					],
-					[
-						"front/scripts/course/list.phtml",
-						"src/application/views/front/scripts/course/list.phtml"
-					],
-					[
-						"all.css",
-						"src/www/front/static/asset/css/all.css"
-					],
-					[
-						"css.phtml",
-						"src/application/views/front/scripts/include/css.phtml"
-					],
-					[
-						"head",
-						"src/www/front/static/asset/css/header.css"
-					],
-					[
-						"skin",
-						"src/www/front/static/asset/css/skin.css"
-					],
-					[
-						"account/",
-						"src/application/views/front/scripts/account/index.phtml"
-					],
-					[
-						"index.css",
-						"src/www/front/static/asset/css/index.css"
-					],
-					[
-						"index/index",
-						"src/application/views/front/scripts/index/index.phtml"
-					],
-					[
-						"all.",
-						"src/www/front/static/asset/css/all.css"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"selected_items":
-				[
-					[
-						"",
+						"dev",
 						"/home/liyongjian/sublime project/mydev.sublime-project"
 					]
 				],
@@ -1829,20 +1722,21 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 121.0,
+			"side_bar_width": 245.0,
 			"status_bar_visible": true,
-			"window_id": 24,
-			"workspace_name": "/home/liyongjian/sublime project/class.sublime-project"
+			"window_id": 26,
+			"workspace_name": "/home/liyongjian/sublime project/360edu.sublime-project"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
-			"/home/liyongjian/sublime project/class.sublime-project",
-			"/home/liyongjian/sublime project/QTiger.sublime-project",
+			"/home/liyongjian/sublime project/360edu.sublime-project",
 			"/home/liyongjian/sublime project/mydev.sublime-project",
-			"/home/liyongjian/sublime project/360edu.sublime-project"
+			"/home/liyongjian/sublime project/QTiger.sublime-project",
+			"/home/liyongjian/sublime project/open_api_reader.sublime-project",
+			"/home/liyongjian/sublime project/class.sublime-project"
 		]
 	}
 }
