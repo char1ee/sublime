@@ -1,17 +1,24 @@
 # This loads the actual systems time local_tze, (None, None) otherwise.
-# Required for use with datetime.strftime("%x %x").
+# Required for use with datetime.strftime("%c %x %X").
 import locale
 locale.setlocale(locale.LC_TIME, '')
 
 from datetime import datetime, timedelta, tzinfo
 import time
 
-import pytz
-from pytz.exceptions import UnknownTimeZoneError
+try:
+    from . import pytz
+    from .pytz.exceptions import UnknownTimeZoneError
+except ValueError:
+    import pytz
+    from pytz.exceptions import UnknownTimeZoneError
 
-# import sys
-# if sys.versioninfo[0] != 2:
-#     basestring = str
+# Not using sublime.version here because it's supposed to be used externally too
+import sys
+ST2 = sys.version_info[0] == 2
+
+if not ST2:
+    basestring = str
 
 
 class LocalTimezone(tzinfo):
@@ -70,7 +77,7 @@ class FormatDate(object):
 
     local_tz = LocalTimezone()
     default = dict(
-        format="%x %X",
+        format="%c",
         tz_in="local"
     )
 
@@ -84,12 +91,29 @@ class FormatDate(object):
         if not default is None:
             self.set_default(default)
 
-    def set_default(self, default):
-        self.default.update(default)
+    def set_default(self, update):
+        # Update only the keys that are defined in self.default
+        for k, v in update.items():
+            if k in self.default:
+                self.default[k] = v
 
     def parse(self, format=None, tz_in=None, tz_out=None):
+        # 'unix'
+        if format == "unix":
+            return str(time.time())
+
+        # anything else
         dt = self.date_gen(tz_in, tz_out)
-        return self.date_format(dt, format)
+        text = self.date_format(dt, format)
+
+        # Fix potential unicode/codepage issues
+        if ST2 and isinstance(text, str):
+            try:
+                text = text.decode(locale.getpreferredencoding())
+            except UnicodeDecodeError:
+                text = text.decode('utf-8')
+
+        return text
 
     def check_tzparam(self, tz, name):
         if isinstance(tz, basestring):
@@ -148,11 +172,11 @@ class FormatDate(object):
         if format is None:
             format = self.default['format']
 
-        # 'iso:T'
+        # 'iso', 'iso:T'
         if format.startswith("iso"):
             sep = 'T'
             if len(format) == 5 and format[3] == ':':
-                sep = str(format[-1])  # convert from unicode
+                sep = str(format[-1])  # convert from unicode (ST2)
             return dt.isoformat(sep)
 
         return dt.strftime(format)

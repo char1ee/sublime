@@ -1,6 +1,13 @@
 {
 	"folder_history":
 	[
+		"/media/D/Website/char1ee.github.io",
+		"/media/D/Website/chenyiguo",
+		"/home/liyongjian/chenyiguo",
+		"/home/liyongjian/Website/hongbao",
+		"/media/D/Website/char1ee.github.io/tools",
+		"/media/D/Website/char1ee.github.io/gift",
+		"/media/D/Website/mydev",
 		"/home/liyongjian/Website/open_api_reader",
 		"/media/D/Website/QTiger",
 		"/home/liyongjian/Website/mydev",
@@ -11,10 +18,10 @@
 		"/home/liyongjian/Website/360edu",
 		"/home/liyongjian"
 	],
-	"last_window_id": 32,
+	"last_window_id": 48,
 	"settings":
 	{
-		"new_window_height": 949.0,
+		"new_window_height": 1899.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -22,172 +29,604 @@
 				"selected_items":
 				[
 					[
-						"al",
-						"allowTags"
+						"time",
+						"timeString"
+					],
+					[
+						"se",
+						"second"
+					],
+					[
+						"tim",
+						"timeString"
 					],
 					[
 						"re",
 						"replace"
 					],
 					[
-						"html",
-						"htmlString"
+						"o",
+						"o"
 					],
 					[
-						"ht",
-						"htmlString"
+						"cl",
+						"clear"
 					],
 					[
-						"en",
-						"encoding"
+						"ta",
+						"table-layout"
 					],
 					[
-						"fi",
-						"fileProgress"
+						"ge",
+						"getMyBcode"
 					],
 					[
-						"pro",
-						"uploadProgress"
+						"su",
+						"successCallback"
 					],
 					[
-						"by",
-						"bytesComplete"
-					],
-					[
-						"swf",
-						"swfupload"
-					],
-					[
-						"mar",
-						"margin-bottom"
-					],
-					[
-						"in",
-						"inline-block"
-					],
-					[
-						"i",
-						"inline"
-					],
-					[
-						"exte",
-						"extendedField"
-					],
-					[
-						"add",
-						"addmore"
-					],
-					[
-						"show",
-						"show"
-					],
-					[
-						"fix",
-						"fixedFieldMore"
-					],
-					[
-						"fixed",
-						"fixedField"
-					],
-					[
-						"func",
-						"function"
-					],
-					[
-						"handleD",
-						"handleDateTypeCreate"
-					],
-					[
-						"ha",
-						"handleUniform"
-					],
-					[
-						"margi",
-						"margin-top"
-					],
-					[
-						"pos",
-						"position"
-					],
-					[
-						"pre",
-						"preventDefault"
-					],
-					[
-						"sea",
-						"searchbox"
-					],
-					[
-						"ser",
-						"searchbox"
-					],
-					[
-						"fl",
-						"float"
-					],
-					[
-						"inline",
-						"inline"
-					],
-					[
-						"bor",
+						"border",
 						"border"
 					],
 					[
-						"ma",
-						"margin"
+						"go",
+						"gohome"
 					],
 					[
-						"margin",
-						"margin-bottom"
+						"dat",
+						"data"
+					],
+					[
+						"m",
+						"m.cookie.js"
+					],
+					[
+						"no",
+						"no"
+					],
+					[
+						"g",
+						"g"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"f",
+						"m.fun.baodi.js"
+					],
+					[
+						"da",
+						"data"
+					],
+					[
+						"suc",
+						"successCallback"
+					],
+					[
+						"d",
+						"data"
+					],
+					[
+						"goS",
+						"goShare"
+					],
+					[
+						"set",
+						"set"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"fu",
+						"m.fun.loginHandle.js"
+					],
+					[
+						"mar",
+						"margin-left"
+					],
+					[
+						"a",
+						"awardsname"
+					],
+					[
+						"data",
+						"data"
+					],
+					[
+						"H",
+						"HBGID"
+					],
+					[
+						"rig",
+						"right"
+					],
+					[
+						"bac",
+						"background-size"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"inc",
+						"inc.step.php"
 					],
 					[
 						"fon",
 						"font-size"
 					],
 					[
-						"inli",
+						"font",
+						"font-size"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"mo",
+						"mobile"
+					],
+					[
+						"paddin",
+						"padding"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"r",
+						"referrer"
+					],
+					[
+						"get",
+						"getElementById"
+					],
+					[
+						"log",
+						"logined"
+					],
+					[
+						"lo",
+						"logined"
+					],
+					[
+						"pic",
+						"picwall"
+					],
+					[
+						"cur",
+						"curX"
+					],
+					[
+						"off",
+						"offsetX"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"g-btn",
+						"g-btn-yellow"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"box",
+						"border-box"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"mai",
+						"margin-right"
+					],
+					[
+						"t",
+						"text-align"
+					],
+					[
+						"nh",
+						"nHome"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"webk",
+						"webkit-box"
+					],
+					[
+						"webki-bo",
+						"webkit-box-flex"
+					],
+					[
+						"g-b",
+						"g-btn-yellow"
+					],
+					[
+						"webkit",
+						"webkit-box-pack"
+					],
+					[
+						"lin",
+						"line-height"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"br",
+						"break"
+					],
+					[
+						"ca",
+						"canListen"
+					],
+					[
+						"sp",
+						"split"
+					],
+					[
+						"sett",
+						"setAttribute"
+					],
+					[
+						"hve",
+						"hoveTime"
+					],
+					[
+						"u",
+						"url()"
+					],
+					[
+						"n",
+						"num"
+					],
+					[
+						"sc",
+						"second"
+					],
+					[
+						"new",
+						"newYear"
+					],
+					[
+						"doc",
+						"document"
+					],
+					[
+						"hove",
+						"hoveTime"
+					],
+					[
+						"ths",
+						"_this"
+					],
+					[
+						"th",
+						"this"
+					],
+					[
+						"cont",
+						"concat"
+					],
+					[
+						"i",
+						"i"
+					],
+					[
+						"inl",
 						"inline"
 					],
 					[
-						"for",
-						"foreach	foreach …"
+						"con",
+						"concat"
+					],
+					[
+						"il",
+						"inline"
+					],
+					[
+						"str",
+						"str"
+					],
+					[
+						"prin",
+						"print"
+					],
+					[
+						"paddi",
+						"padding"
+					],
+					[
+						"ha",
+						"handlebars"
+					],
+					[
+						"ex",
+						"examApplyTimeTpl"
+					],
+					[
+						"thi",
+						"thisCtrlItem"
+					],
+					[
+						"car",
+						"carContItem"
+					],
+					[
+						"fix",
+						"fixed"
+					],
+					[
+						"s",
+						"s"
+					],
+					[
+						"marg",
+						"margin"
+					],
+					[
+						"tp",
+						"top	CSS - top: 0;"
+					],
+					[
+						"ine",
+						"inline-block"
+					],
+					[
+						"c",
+						"car"
+					],
+					[
+						"Car",
+						"Car"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"margi",
+						"margin-bottom"
+					],
+					[
+						"de",
+						"delay"
+					],
+					[
+						"el",
+						"el"
+					],
+					[
+						"this",
+						"this"
+					],
+					[
+						"ti",
+						"timer"
+					],
+					[
+						"wi",
+						"winWidth"
+					],
+					[
+						"pin",
+						"pinHtml"
+					],
+					[
+						"tabCt",
+						"tabCtrlItem"
+					],
+					[
+						"bar",
+						"background-position"
+					],
+					[
+						"inle",
+						"inline-block"
+					],
+					[
+						"mari",
+						"margin-left"
+					],
+					[
+						"hid",
+						"hidden"
+					],
+					[
+						"padding",
+						"padding-bottom"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"margint",
+						"margin-bottom"
+					],
+					[
+						"cen",
+						"center"
+					],
+					[
+						"bot",
+						"bottom"
+					],
+					[
+						"border-c",
+						"border-color"
+					],
+					[
+						"b",
+						"bianjiao.png	w:100 h:49"
+					],
+					[
+						"rel",
+						"relative"
+					],
+					[
+						"x",
+						"xueba/"
+					],
+					[
+						"min",
+						"min-width"
+					],
+					[
+						"non",
+						"none"
+					],
+					[
+						"fot",
+						"font-size"
+					],
+					[
+						"ce",
+						"center"
+					],
+					[
+						"blo",
+						"block"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"png",
+						"5.png	w:1372 h:420"
+					],
+					[
+						"swi",
+						"swingX"
+					],
+					[
+						"_sel",
+						"_self"
+					],
+					[
+						"cu",
+						"cursor"
 					]
 				]
 			},
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 306.0,
+				"height": 392.0,
 				"selected_items":
 				[
 					[
-						"prety",
-						"HTMLPrettify"
-					],
-					[
-						"htm",
-						"HTMLPrettify"
-					],
-					[
-						"html",
-						"HTMLPrettify"
-					],
-					[
 						"sshtml",
 						"Set Syntax: HTML"
+					],
+					[
+						"ssh",
+						"Set Syntax: HTML"
+					],
+					[
+						"prety",
+						"HTMLPrettify"
 					],
 					[
 						"fo",
 						"Format: Javascript"
 					],
 					[
-						"remov",
-						"Package Control: Remove Package"
+						"ssht",
+						"Set Syntax: HTML"
 					],
 					[
-						"insta",
-						"Package Control: Install Package"
+						"sscss",
+						"Set Syntax: CSS"
+					],
+					[
+						"ctt",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"inse",
+						"Dummy Image: Insert Image"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"sshtm",
+						"Set Syntax: HTML"
+					],
+					[
+						"cth",
+						"SublimeHighlight: convert to HTML"
+					],
+					[
+						"cts",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"fom",
+						"Format: Javascript"
+					],
+					[
+						"ssphp",
+						"Set Syntax: PHP"
+					],
+					[
+						"foma",
+						"Format: Javascript"
+					],
+					[
+						"insert",
+						"Dummy Image: Insert Custom Image"
+					],
+					[
+						"insertt",
+						"Dummy Image: Insert Custom Image"
+					],
+					[
+						"prexy",
+						"Preferences: Prefixr Key Bindings – User"
 					],
 					[
 						"remove",
@@ -198,8 +637,1724 @@
 						"Package Control: Install Package"
 					],
 					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						":W",
+						":w - Save"
+					],
+					[
+						"ssmar",
+						"Set Syntax: Markdown"
+					],
+					[
+						"snit",
+						"Snippet: CSS - top: 0;"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"ss sm",
+						"Set Syntax: Smarty"
+					],
+					[
+						"ssph",
+						"Set Syntax: PHP"
+					],
+					[
+						"USER",
+						"Preferences: Settings - User"
+					],
+					[
+						"ctta",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"ctsp",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"sssma",
+						"Set Syntax: Smarty"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"date",
+						"InsertDate: Default"
+					],
+					[
+						"insa",
+						"InsertDate: Default"
+					],
+					[
+						"svn",
+						"SVN: Checkout…"
+					],
+					[
+						"ssl",
+						"Set Syntax: LESS"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"prettyp",
+						"Preferences: Alignment File Settings – Syntax Specific – User"
+					],
+					[
+						"ssjson",
+						"Set Syntax: JSON"
+					],
+					[
+						":q",
+						"Set Syntax: SQL"
+					],
+					[
+						"user",
+						"Preferences: Settings - User"
+					],
+					[
+						"align",
+						"Preferences: Alignment Key Bindings – User"
+					],
+					[
+						"alig",
+						"Preferences: Alignment File Settings – User"
+					],
+					[
+						"ali",
+						"Preferences: Alignment File Settings – Default"
+					],
+					[
+						"defau",
+						"Preferences: Settings - Default"
+					],
+					[
+						"markdown",
+						"Set Syntax: Markdown"
+					]
+				],
+				"width": 647.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/liyongjian/Website/char1ee.github.io/demo/equalTime/1.html",
+				"/home/liyongjian/Website/char1ee.github.io/demo/equalTime/2.html",
+				"/home/liyongjian/Website/char1ee.github.io/demo/equalTime/3.html",
+				"/home/liyongjian/Website/hongbao/xinz/resource/css/m.hb.css",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/m.page.home.js",
+				"/home/liyongjian/Website/hongbao/xinz/application/views/mindex/inc.step.php",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/m.page.draw.js",
+				"/home/liyongjian/Website/hongbao/xinz/application/views/mindex/sign.php",
+				"/home/liyongjian/Website/hongbao/xinz/application/views/mindex/inc.head.php",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/m.page.sign.js",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/m.page.myhb.js",
+				"/home/liyongjian/Website/hongbao/xinz/application/library/Huid.php",
+				"/home/liyongjian/Website/hongbao/xinz/application/views/mindex/myhb.php",
+				"/home/liyongjian/Website/hongbao/xinz/application/views/mindex/login.php",
+				"/home/liyongjian/Website/hongbao/xinz/application/views/mindex/inc.foot.php",
+				"/home/liyongjian/Website/hongbao/xinz/application/controllers/Api.php",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/share.js",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/hongbao.js",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/action.hongbao.js",
+				"/home/liyongjian/Website/hongbao/sftp-config.json",
+				"/home/liyongjian/Website/hongbao/xinz/application/views/mindex/index.php",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/m.fun.loginHandle.js",
+				"/home/liyongjian/Website/hongbao/new_hongbao/application/views/mindex/sign.php",
+				"/home/liyongjian/Website/hongbao/new_hongbao/resource/js/m.page.sign.js",
+				"/home/liyongjian/Website/hongbao/new_hongbao/application/views/mindex/inc.foot.php",
+				"/home/liyongjian/Website/hongbao/new_hongbao/application/views/mindex/myhb.php",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/m.fun.baodi.js",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/m.hongbao.js",
+				"/home/liyongjian/Website/hongbao/new_hongbao/resource/js/m.page.home.js",
+				"/home/liyongjian/Website/hongbao/xinz/application/views/mindex/coupon.php",
+				"/home/liyongjian/Website/hongbao/new_hongbao/application/controllers/Mindex.php",
+				"/home/liyongjian/Website/hongbao/trunk/resource/css/m.picwall.css",
+				"/home/liyongjian/Website/hongbao/trunk/application/controllers/Mindex.php",
+				"/home/liyongjian/Website/hongbao/xinz/application/views/mindex/help.php",
+				"/home/liyongjian/Website/hongbao/xinz/application/views/mindex/draw.php",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/m.cookie.js",
+				"/home/liyongjian/Website/hongbao/new_hongbao/resource/css/m.hb.css",
+				"/home/liyongjian/Website/hongbao/new_hongbao/resource/css/m.picwall.css",
+				"/home/liyongjian/Website/hongbao/new_hongbao/resource/js/m.page.draw.js",
+				"/home/liyongjian/Website/hongbao/new_hongbao/resource/js/m.fun.loginHandle.js",
+				"/home/liyongjian/Website/hongbao/new_hongbao/resource/js/m.share.js",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/m.debug.js",
+				"/home/liyongjian/Website/hongbao/trunk/index.php",
+				"/home/liyongjian/rsublime",
+				"/home/liyongjian/Website/hongbao/trunk/application/models/Api.php",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/zepto&touch&seed.js",
+				"/home/liyongjian/Website/hongbao/trunk/application/models/User.php",
+				"/home/liyongjian/Website/hongbao/trunk/resource/js/hongbao.js",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/m.baodi.js",
+				"/home/liyongjian/Website/hongbao/xinz/application/models/Helper.php",
+				"/home/liyongjian/Website/hongbao/xinz/application/views/index/index.php",
+				"/home/liyongjian/Website/hongbao/xinz/resource/css/m.picwall.css",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/m.scroll.js",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/m.share.js",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/m.fun.saveanywhere.js",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/zepto.js",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/m.tmpl.js",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/m.page.help.js",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/m.ajax.js",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/m.fun.hbc.js",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/seed.js",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/m.picwall.js",
+				"/home/liyongjian/Website/hongbao/xinz/application/views/mindex/inc.morehb.php",
+				"/home/liyongjian/Website/hongbao/xinz/application/controllers/Mindex.php",
+				"/home/liyongjian/Website/hongbao/xinz/application/views/mindex/ua.php",
+				"/home/liyongjian/Website/hongbao/xinz/application/views/mindex/test.php",
+				"/home/liyongjian/Documents/api.md",
+				"/home/liyongjian/Website/hongbao/trunk/application/models/Helper.php",
+				"/home/liyongjian/Website/hongbao/xinz/application/views/mindex/lottery.php",
+				"/home/liyongjian/Website/hongbao/xinz/application/views/mindex/提交个人信息.html",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/zepto.touch.js",
+				"/home/liyongjian/Website/hongbao/xinz/resource/js/m.carousel.js",
+				"/home/liyongjian/Website/hongbao/trunk/application/controllers/Api.php",
+				"/home/liyongjian/Website/hongbao/xinz/application/models/Prize.php",
+				"/home/liyongjian/Website/hongbao/xinz/conf/hongbao.so.com.conf",
+				"/home/liyongjian/Website/hongbao/xinz/resource/css/m.carousel.css",
+				"/home/liyongjian/Website/hongbao/xinz/application/controllers/Index.php",
+				"/home/liyongjian/Website/hongbao/xinz/application/views/mindex/index.html",
+				"/home/liyongjian/Website/360edu/sftp-config.json",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/01活动主界面.html",
+				"/home/liyongjian/Website/mydev/fe/asset/js/page/xueba/xueba.js",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/css/style.css",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/style.css",
+				"/home/liyongjian/Website/mydev/fe/asset/css/360eduindex/style.css",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/提交个人信息.html",
+				"/home/liyongjian/Website/mydev/fe/asset/js/vendor/jquery/jquery.js",
+				"/media/D/Website/char1ee.github.io/gift/index.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/index.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/红包.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/js/dialog.js",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/hongbao.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/help.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/红包状态形式.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/提交个人信息",
+				"/home/liyongjian/Website/mydev/fe/asset/html/love/index.html",
+				"/home/liyongjian/Website/mydev/fe/asset/js/page/360eduindex/examCalendar.js",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/index.html",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/snow/snow.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/page/360eduindex/home-r.js",
+				"/home/liyongjian/Website/mydev/Gruntfile.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/page/360eduindex/home.js",
+				"/home/liyongjian/Website/mydev/fe/asset/html/360eduindex/index.html",
+				"/home/liyongjian/Website/mydev/fe/asset/js/nmd-r.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/360eduindex/home.js",
+				"/home/liyongjian/Website/mydev/fe/output/js/nmd.js",
+				"/home/liyongjian/Website/mydev/fe/asset/html/love/index2.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/love/wait.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/_start/start.html",
+				"/home/liyongjian/Website/mydev/fe/asset/css/xueba/style.css",
+				"/home/liyongjian/Website/mydev/sftp-config.json",
+				"/home/liyongjian/Website/mydev/fe/asset/js/vendor/qutil/qutil.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/juicer/juicer.js",
+				"/home/liyongjian/Website/mydev/fe/asset/html/moban/index.html",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/handlebars/hbs.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/index.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/360eduindex/juicer/juicer.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/handlebars/index.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/handbar",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/widget/Pin.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/widget/Carousel.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/ejs/ejs.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/Share/Share.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/360eduindex/examCalendar.js",
+				"/home/liyongjian/Downloads/underscore.js",
+				"/home/liyongjian/Website/mydev/fe/exam/exam.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/widget/Tab.js",
+				"/home/liyongjian/Documents/360edu上线脚本",
+				"/home/liyongjian/Website/mydev/fe/asset/js/page/xueba/xueba-r.js"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"2.html",
+					"(0 | ",
+					"超时",
+					"_awardsname",
+					"set",
+					"beforeunload",
+					"领取到",
+					"恭喜您！成功领取到",
+					"恭喜您！成功领取到麦圈网",
+					"抽",
+					"setcookie",
+					"您今天的抽奖次数已用完",
+					"上限",
+					"红包",
+					"上限",
+					"上线",
+					"php",
+					".list",
+					"http",
+					".list",
+					" .list",
+					".list",
+					"list",
+					"time",
+					"formatTime",
+					"o.prize_time",
+					"(o.prize_time",
+					"bcode",
+					"get",
+					"data.data",
+					"getAL",
+					"getL",
+					"getAL",
+					"getA",
+					"localStorage",
+					"myPrizeWrap",
+					"laborPrizeWrap",
+					"laborPrize",
+					"cash",
+					"ca",
+					"cash",
+					"get",
+					"Share",
+					"share",
+					"getMyBcode",
+					"cookie",
+					"bcode",
+					"tag",
+					"g-btn",
+					"down",
+					"_hb_pc",
+					"pcode",
+					"maximum-scale=1.0",
+					"initial-scale=1.0,",
+					"width=device-width",
+					"user-scalable=no",
+					"minimum-scale=1.0",
+					"initial-scale=1.0",
+					"zhihu",
+					"http://static.zhihu.com/static/",
+					"baodi",
+					"gohome",
+					"已经没有红包了,查看如何获取红包？",
+					"没有",
+					"i",
+					"	   ",
+					"唯品会优惠劵",
+					"isTodayShake",
+					"baodi",
+					"$baodi",
+					"baodi",
+					"n请明天再来",
+					"您今天的抽奖次数已用完",
+					"您今的抽奖次数已用完",
+					"alert('您今的抽奖次数已用完\\n请明天再来');",
+					"alert('您今天的抽奖次数已用完\\n请明天再来');",
+					"已有360账号，去登录",
+					"			' <div style=\"margin-top:20px;\"><a href=\"javascript:void(0)\" class=\"has-account\">已有360账号，去登录</a></div>',\n已有360账号，去登录",
+					"已有360账号，去登录",
+					"（我要用",
+					"（我要用手机号注册）",
+					"没有360账号，去",
+					"baodi",
+					"notice",
+					"getALottery",
+					"抽中",
+					"你抽中",
+					"你中了",
+					"undefined",
+					"this",
+					"明天再来",
+					"明天再来吧！",
+					"gohome",
+					"<meta name=viewport content=\"width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n<meta name=\"format-detection\" content=\"telephone=no\">",
+					"1",
+					"#nHome .sum-num-wrap",
+					"return 1",
+					"alert",
+					"out_of_times",
+					"$cookie('_awardsname')",
+					"saveUserPrize",
+					"baodi",
+					"$cookie('_awardsname')",
+					"doneWordWrap",
+					"notice",
+					"saveUserPrize",
+					"UserModel",
+					"writeUser",
+					"gohome\ngohome\nwriteUser",
+					"gohome",
+					"getBaodi",
+					"小时前",
+					"share",
+					"getUserInfo",
+					"fn",
+					"用户",
+					"<div class=\"title\">二等奖</div>",
+					"<div class=\"title\">一等奖</div>",
+					"<div>\n            <div class=\"detail\">",
+					".jpg\">",
+					"<img ",
+					"</li>",
+					"<li>",
+					"goLogin",
+					"<br/>",
+					"today_had",
+					"today_has",
+					"saveUserPrize"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"		",
+					";",
+					"	",
+					" ",
+					"		",
+					" ",
+					"\\1\\2\\3",
+					"<img src=\"/other/hqzj/img/",
+					"\\1\\2\\3",
+					"src=\"/other/hqzj/img/",
+					"\\1\\2\\3",
+					"<a[^>]*>(.*)<\\/a>",
+					"<a[^>]*>\\1<\\/a>",
+					"<a[^>]*>$1<\\/a>",
+					"$1",
+					"\\1",
+					"<div class=\"current_ctta\" style=\"display:none\">",
+					"<\\/a>",
+					"\\1"
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": false,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 40.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.csslint_result_view":
+			{
+				"height": 124.0
+			},
+			"output.exec":
+			{
+				"height": 144.0
+			},
+			"output.find_results":
+			{
+				"height": 650.0
+			},
+			"output.jsconsole_view":
+			{
+				"height": 0.0
+			},
+			"output.jshint_view":
+			{
+				"height": 154.0
+			},
+			"output.sftp":
+			{
+				"height": 154.0
+			},
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"3.html",
+						"demo/equalTime/3.html"
+					],
+					[
+						"m.hb",
+						"xinz/resource/css/m.hb.css"
+					],
+					[
+						"my",
+						"xinz/resource/js/m.page.myhb.js"
+					],
+					[
+						"draw",
+						"xinz/resource/js/m.page.draw.js"
+					],
+					[
+						"he",
+						"xinz/application/views/mindex/inc.head.php"
+					],
+					[
+						"hea",
+						"xinz/application/views/mindex/inc.head.php"
+					],
+					[
+						"sign",
+						"xinz/resource/js/m.page.sign.js"
+					],
+					[
+						"step",
+						"xinz/application/views/mindex/inc.step.php"
+					],
+					[
+						"myhb",
+						"xinz/resource/js/m.page.myhb.js"
+					],
+					[
+						"foot",
+						"xinz/application/views/mindex/inc.foot.php"
+					],
+					[
+						"home",
+						"xinz/resource/js/m.page.home.js"
+					],
+					[
+						"login",
+						"xinz/application/views/mindex/login.php"
+					],
+					[
+						"share",
+						"xinz/resource/js/share.js"
+					],
+					[
+						"myh",
+						"xinz/application/views/mindex/myhb.php"
+					],
+					[
+						"hongbao",
+						"xinz/resource/js/hongbao.js"
+					],
+					[
+						"m.home",
+						"xinz/resource/js/m.page.home.js"
+					],
+					[
+						"m.css",
+						"xinz/resource/css/m.hb.css"
+					],
+					[
+						"sig",
+						"xinz/application/views/mindex/sign.php"
+					],
+					[
+						"inde",
+						"xinz/application/views/mindex/index.php"
+					],
+					[
+						"sftp",
+						"sftp-config.json"
+					],
+					[
+						"head",
+						"xinz/application/views/mindex/inc.head.php"
+					],
+					[
+						"loginhandle",
+						"xinz/resource/js/m.fun.loginHandle.js"
+					],
+					[
+						"hom",
+						"xinz/resource/js/m.page.home.js"
+					],
+					[
+						"myhb.js",
+						"xinz/resource/js/m.page.myhb.js"
+					],
+					[
+						"m.hongbao.js",
+						"xinz/resource/js/m.hongbao.js"
+					],
+					[
+						"baodi",
+						"xinz/resource/js/m.fun.baodi.js"
+					],
+					[
+						"m.",
+						"xinz/resource/css/m.hb.css"
+					],
+					[
+						"",
+						"xinz/application/views/mindex/inc.step.php"
+					],
+					[
+						"mindex",
+						"trunk/application/controllers/Mindex.php"
+					],
+					[
+						"coupon",
+						"xinz/application/views/mindex/coupon.php"
+					],
+					[
+						"min",
+						"new_hongbao/application/controllers/Mindex.php"
+					],
+					[
+						"cookie",
+						"xinz/resource/js/m.cookie.js"
+					],
+					[
+						"m",
+						"new_hongbao/application/controllers/Mindex.php"
+					],
+					[
+						"mhb",
+						"new_hongbao/resource/css/m.hb.css"
+					],
+					[
+						"foo",
+						"xinz/application/views/mindex/inc.foot.php"
+					],
+					[
+						"myhb.ph",
+						"new_hongbao/application/views/mindex/myhb.php"
+					],
+					[
+						"sign.js",
+						"new_hongbao/resource/js/m.page.sign.js"
+					],
+					[
+						"share.js",
+						"new_hongbao/resource/js/m.share.js"
+					],
+					[
+						"index.",
+						"trunk/index.php"
+					],
+					[
+						"bao",
+						"xinz/resource/js/m.fun.baodi.js"
+					],
+					[
+						"ze",
+						"xinz/resource/js/zepto&touch&seed.js"
+					],
+					[
+						"dr",
+						"xinz/application/views/mindex/draw.php"
+					],
+					[
+						"si",
+						"xinz/application/views/mindex/sign.php"
+					],
+					[
+						"hong",
+						"trunk/resource/js/hongbao.js"
+					],
+					[
+						"ste",
+						"xinz/application/views/mindex/inc.step.php"
+					],
+					[
+						"scr",
+						"xinz/resource/js/m.scroll.js"
+					],
+					[
+						"pic",
+						"xinz/resource/css/m.picwall.css"
+					],
+					[
+						"index",
+						"xinz/application/views/mindex/index.php"
+					],
+					[
+						"draw.js",
+						"xinz/resource/js/m.page.draw.js"
+					],
+					[
+						"m.ha",
+						"xinz/resource/js/m.fun.loginHandle.js"
+					],
+					[
+						"myhb.",
+						"xinz/resource/js/m.page.myhb.js"
+					],
+					[
+						"hb",
+						"xinz/resource/css/m.hb.css"
+					],
+					[
+						"m.sha",
+						"xinz/resource/js/m.share.js"
+					],
+					[
+						"sign.",
+						"xinz/resource/js/m.page.sign.js"
+					],
+					[
+						"draw.p",
+						"xinz/application/views/mindex/draw.php"
+					],
+					[
+						"loginh",
+						"xinz/resource/js/m.fun.loginHandle.js"
+					],
+					[
+						"m.cookie",
+						"xinz/resource/js/m.cookie.js"
+					],
+					[
+						"page",
+						"xinz/resource/js/m.page.home.js"
+					],
+					[
+						"hbc",
+						"xinz/resource/js/m.fun.hbc.js"
+					],
+					[
+						"tmpl",
+						"xinz/resource/js/m.tmpl.js"
+					],
+					[
+						"picwall",
+						"xinz/resource/js/m.picwall.js"
+					],
+					[
+						"hon",
+						"trunk/resource/js/hongbao.js"
+					],
+					[
+						"dra",
+						"xinz/application/views/mindex/draw.php"
+					],
+					[
+						"help",
+						"xinz/application/views/mindex/help.php"
+					],
+					[
+						"in",
+						"trunk/index.php"
+					],
+					[
+						"drw",
+						"xinz/application/views/mindex/draw.php"
+					],
+					[
+						"hb.",
+						"xinz/resource/css/m.hb.css"
+					],
+					[
+						"coo",
+						"xinz/resource/js/m.cookie.js"
+					],
+					[
+						"m.tm",
+						"xinz/resource/js/m.tmpl.js"
+					],
+					[
+						"tmp",
+						"xinz/resource/js/m.tmpl.js"
+					],
+					[
+						"m.s",
+						"xinz/resource/js/m.scroll.js"
+					],
+					[
+						"hongbao.js",
+						"trunk/resource/js/hongbao.js"
+					],
+					[
+						"l",
+						"xinz/application/views/mindex/login.php"
+					],
+					[
+						"car",
+						"xinz/resource/js/m.carousel.js"
+					],
+					[
+						"action.hongbao.js",
+						"xinz/resource/js/action.hongbao.js"
+					],
+					[
+						"ajax",
+						"xinz/resource/js/m.ajax.js"
+					],
+					[
+						"picw",
+						"xinz/resource/css/m.picwall.css"
+					],
+					[
+						"m.h",
+						"xinz/resource/css/m.hb.css"
+					],
+					[
+						"dia",
+						"fe/asset/html/h5so/js/dialog.js"
+					],
+					[
+						"xueba",
+						"fe/asset/js/page/xueba/xueba.js"
+					],
+					[
+						"style",
+						"fe/asset/html/h5so/style.css"
+					],
+					[
+						"style.css",
+						"fe/asset/css/360eduindex/style.css"
+					],
+					[
+						"jquery",
+						"fe/asset/js/vendor/jquery/jquery.js"
+					],
+					[
+						"h5so/",
+						"fe/asset/html/h5so/提交个人信息.html"
+					],
+					[
+						"h5so",
+						"fe/asset/html/h5so/index.html"
+					],
+					[
+						"love",
+						"fe/asset/html/love/index.html"
+					],
+					[
+						"nmd",
+						"fe/asset/js/nmd-r.js"
+					],
+					[
+						"grunt",
+						"Gruntfile.js"
+					],
+					[
+						"360eduindex/home-r.js",
+						"fe/asset/js/page/360eduindex/home-r.js"
+					],
+					[
+						"gr",
+						"Gruntfile.js"
+					],
+					[
+						"360edu",
+						"fe/asset/js/360eduindex/home.js"
+					],
+					[
+						"360",
+						"fe/asset/html/360eduindex/index.html"
+					],
+					[
+						"love/",
+						"fe/asset/html/love/index.html"
+					],
+					[
+						"snow",
+						"fe/asset/js/amd_modules/snow/snow.js"
+					],
+					[
+						"xueba/",
+						"fe/asset/css/xueba/style.css"
+					],
+					[
+						"start",
+						"fe/asset/html/_start/start.html"
+					],
+					[
+						"qu",
+						"fe/asset/js/vendor/qutil/qutil.js"
+					],
+					[
+						"moban",
+						"fe/asset/html/moban/index.html"
+					],
+					[
+						"handbar",
+						"fe/asset/js/amd_modules/handlebars/hbs.js"
+					],
+					[
+						"handb",
+						"fe/asset/js/amd_modules/handbar"
+					],
+					[
+						"360h",
+						"fe/asset/html/360eduindex/index.html"
+					],
+					[
+						"eduhome",
+						"fe/asset/js/360eduindex/home.js"
+					],
+					[
+						"ejs",
+						"fe/asset/js/amd_modules/ejs/ejs.js"
+					],
+					[
+						"exam",
+						"fe/exam/exam.js"
+					],
+					[
+						"tab",
+						"fe/asset/js/amd_modules/widget/Tab.js"
+					],
+					[
+						"en",
+						"fe/asset/html/xueba/en.html"
+					],
+					[
+						"pin",
+						"fe/asset/js/amd_modules/widget/Pin.js"
+					],
+					[
+						"xue",
+						"fe/asset/js/page/xueba/xueba.js"
+					],
+					[
+						"xub",
+						"fe/asset/js/page/xueba/xueba-r.js"
+					],
+					[
+						"zxx",
+						"fe/asset/html/xueba/zxx.html"
+					],
+					[
+						"qz",
+						"fe/asset/html/xueba/qz.html"
+					],
+					[
+						"nmd.js",
+						"fe/asset/js/nmd.js"
+					],
+					[
+						"360edy",
+						"fe/asset/css/360eduindex/style.css"
+					],
+					[
+						"js/360eduindex/home",
+						"fe/asset/js/360eduindex/home.js"
+					],
+					[
+						"js/nmd.js",
+						"fe/asset/js/nmd.js"
+					],
+					[
+						"qcms",
+						"fe/asset/html/360eduindex/index.qcms"
+					],
+					[
+						"360ed",
+						"fe/asset/css/360eduindex/style.css"
+					],
+					[
+						"en.htm",
+						"fe/asset/html/xueba/en.html"
+					],
+					[
+						"xueba/s",
+						"fe/asset/css/xueba/style.css"
+					],
+					[
+						"nm",
+						"fe/asset/js/nmd.js"
+					],
+					[
+						"css/ratyle/reset.css",
+						"fe/asset/css/ratyle/reset.css"
+					],
+					[
+						"/js/vendor/dd_belatedpng/dd_belatedpng.js",
+						"fe/asset/js/vendor/DD_belatedPNG/DD_belatedPNG.js"
+					],
+					[
+						"q",
+						"fe/asset/js/vendor/qutil/qutil.js"
+					],
+					[
+						"xuebastyle",
+						"fe/asset/css/xueba/style.css"
+					],
+					[
+						"qun",
+						"fe/asset/css/plugins/bootstrap-datepicker/tests/assets/qunit.js"
+					],
+					[
+						"function.",
+						"fe/asset/css/ratyle/function.less"
+					],
+					[
+						"xueba/st",
+						"fe/asset/css/xueba/style.css"
+					],
+					[
+						"xiong",
+						"fe/asset/html/xiongchumo/index.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"my",
+						"/home/liyongjian/sublime project/mydev.sublime-project"
+					],
+					[
+						"myh",
+						"/home/liyongjian/sublime project/hongbao.sublime-project"
+					],
+					[
+						"myde",
+						"/home/liyongjian/sublime project/mydev.sublime-project"
+					],
+					[
+						"",
+						"/home/liyongjian/sublime project/360edu.sublime-project"
+					],
+					[
+						"mydev",
+						"/home/liyongjian/sublime project/mydev.sublime-project"
+					],
+					[
+						"m",
+						"/home/liyongjian/sublime project/mydev.sublime-project"
+					],
+					[
+						"myd",
+						"/home/liyongjian/sublime project/mydev.sublime-project"
+					],
+					[
+						"qti",
+						"/home/liyongjian/sublime project/QTiger.sublime-project"
+					],
+					[
+						"q",
+						"/home/liyongjian/sublime project/QTiger.sublime-project"
+					],
+					[
+						"edu",
+						"/home/liyongjian/sublime project/360edu.sublime-project"
+					],
+					[
+						"ed",
+						"/home/liyongjian/sublime project/360edu.sublime-project"
+					],
+					[
+						"e",
+						"/home/liyongjian/sublime project/360edu.sublime-project"
+					],
+					[
+						"cla",
+						"/home/liyongjian/sublime project/class.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 189.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1078.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ex",
+						"expires"
+					],
+					[
+						"set",
+						"setHbcCookie"
+					],
+					[
+						"exp",
+						"exports"
+					],
+					[
+						"e",
+						"e"
+					],
+					[
+						"par",
+						"parseDom"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"g-btn",
+						"g-btn-green"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"box",
+						"border-box"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"mai",
+						"margin-right"
+					],
+					[
+						"t",
+						"text-align"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"nh",
+						"nHome"
+					],
+					[
+						"re",
+						"remain"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"webk",
+						"webkit-box"
+					],
+					[
+						"webki-bo",
+						"webkit-box-flex"
+					],
+					[
+						"g-b",
+						"g-btn-yellow"
+					],
+					[
+						"webkit",
+						"webkit-box-pack"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"lin",
+						"line-height"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"br",
+						"break"
+					],
+					[
+						"ca",
+						"canListen"
+					],
+					[
+						"sp",
+						"split"
+					],
+					[
+						"sett",
+						"setAttribute"
+					],
+					[
+						"hve",
+						"hoveTime"
+					],
+					[
+						"u",
+						"url()"
+					],
+					[
+						"n",
+						"num"
+					],
+					[
+						"se",
+						"second"
+					],
+					[
+						"sc",
+						"second"
+					],
+					[
+						"m",
+						"minute"
+					],
+					[
+						"time",
+						"timer"
+					],
+					[
+						"new",
+						"newYear"
+					],
+					[
+						"doc",
+						"document"
+					],
+					[
+						"hove",
+						"hoveTime"
+					],
+					[
+						"ths",
+						"_this"
+					],
+					[
+						"th",
+						"this"
+					],
+					[
+						"get",
+						"getElementById"
+					],
+					[
+						"cont",
+						"concat"
+					],
+					[
+						"i",
+						"i"
+					],
+					[
+						"inl",
+						"inline"
+					],
+					[
+						"con",
+						"concat"
+					],
+					[
+						"il",
+						"inline"
+					],
+					[
+						"str",
+						"str"
+					],
+					[
+						"prin",
+						"print"
+					],
+					[
+						"paddi",
+						"padding"
+					],
+					[
+						"ha",
+						"handlebars"
+					],
+					[
+						"thi",
+						"thisCtrlItem"
+					],
+					[
+						"car",
+						"carContItem"
+					],
+					[
+						"fix",
+						"fixed"
+					],
+					[
+						"s",
+						"s"
+					],
+					[
+						"marg",
+						"margin"
+					],
+					[
+						"tp",
+						"top	CSS - top: 0;"
+					],
+					[
+						"ine",
+						"inline-block"
+					],
+					[
+						"c",
+						"car"
+					],
+					[
+						"Car",
+						"Car"
+					],
+					[
+						"a",
+						"amd_modules/"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"margi",
+						"margin-bottom"
+					],
+					[
+						"cur",
+						"cursor"
+					],
+					[
+						"de",
+						"delay"
+					],
+					[
+						"el",
+						"el"
+					],
+					[
+						"this",
+						"this"
+					],
+					[
+						"pic",
+						"pics"
+					],
+					[
+						"ti",
+						"timer"
+					],
+					[
+						"wi",
+						"winWidth"
+					],
+					[
+						"pin",
+						"pinHtml"
+					],
+					[
+						"tabCt",
+						"tabCtrlItem"
+					],
+					[
+						"bar",
+						"background-position"
+					],
+					[
+						"inle",
+						"inline-block"
+					],
+					[
+						"mari",
+						"margin-left"
+					],
+					[
+						"hid",
+						"hidden"
+					],
+					[
+						"in",
+						"inline"
+					],
+					[
+						"padding",
+						"padding-bottom"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"margint",
+						"margin-bottom"
+					],
+					[
+						"cen",
+						"center"
+					],
+					[
+						"bot",
+						"bottom"
+					],
+					[
+						"border-c",
+						"border-color"
+					],
+					[
+						"b",
+						"bianjiao.png	w:100 h:49"
+					],
+					[
+						"no",
+						"no-repeat"
+					],
+					[
+						"rel",
+						"relative"
+					],
+					[
+						"x",
+						"xueba/"
+					],
+					[
+						"min",
+						"min-width"
+					],
+					[
+						"non",
+						"none"
+					],
+					[
+						"fot",
+						"font-size"
+					],
+					[
+						"ce",
+						"center"
+					],
+					[
+						"blo",
+						"block"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"png",
+						"5.png	w:1372 h:420"
+					],
+					[
+						"bac",
+						"background"
+					],
+					[
+						"swi",
+						"swingX"
+					],
+					[
+						"_sel",
+						"_self"
+					],
+					[
+						"cu",
+						"cursor"
+					],
+					[
+						"win",
+						"wind"
+					],
+					[
+						"o",
+						"offset"
+					],
+					[
+						"pa",
+						"parent"
+					],
+					[
+						"_self",
+						"_selfSnow"
+					],
+					[
+						"sno",
+						"snowFlake"
+					],
+					[
+						"W",
+						"parentWidth"
+					],
+					[
+						"snow",
+						"snowFlake"
+					],
+					[
+						"Snow",
+						"SnowFlake"
+					],
+					[
+						"sn",
+						"SnowFlake"
+					],
+					[
+						"S",
+						"SnowFlake"
+					],
+					[
+						"Sno",
+						"SnowFlake"
+					],
+					[
+						"snowFl",
+						"SnowFlake"
+					],
+					[
+						"type",
+						"typesNum"
+					],
+					[
+						"r",
+						"random"
+					],
+					[
+						"noe",
+						"no-repeat"
+					],
+					[
+						"j",
+						"seajs/"
+					],
+					[
+						"js",
+						"mp3player.js"
+					],
+					[
+						"pla",
+						"play"
+					],
+					[
+						"pl",
+						"player"
+					],
+					[
+						"pro",
+						"prototype"
+					],
+					[
+						"SN",
+						"SnowFlake"
+					],
+					[
+						"hi",
+						"hidden"
+					],
+					[
+						"abs",
+						"absolute"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"ass",
+						"assetPath"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 201.0,
+				"selected_items":
+				[
+					[
+						"sshtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"sshtm",
+						"Set Syntax: HTML"
+					],
+					[
+						"ht",
+						"HTMLPrettify"
+					],
+					[
+						"foma",
+						"Format: Javascript"
+					],
+					[
+						"fom",
+						"Format: Javascript"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"ctt",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"prety",
+						"HTMLPrettify"
+					],
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"ssh",
+						"Set Syntax: HTML"
+					],
+					[
+						"cth",
+						"SublimeHighlight: convert to HTML"
+					],
+					[
+						"cts",
+						"Indentation: Convert to Spaces"
+					],
+					[
 						"ssphp",
 						"Set Syntax: PHP"
+					],
+					[
+						"insert",
+						"Dummy Image: Insert Custom Image"
+					],
+					[
+						"insertt",
+						"Dummy Image: Insert Custom Image"
+					],
+					[
+						"prexy",
+						"Preferences: Prefixr Key Bindings – User"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"sscss",
+						"Set Syntax: CSS"
+					],
+					[
+						":W",
+						":w - Save"
+					],
+					[
+						"ssmar",
+						"Set Syntax: Markdown"
+					],
+					[
+						"snit",
+						"Snippet: CSS - top: 0;"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
 					],
 					[
 						"ss sm",
@@ -218,10 +2373,6 @@
 						"Preferences: Settings - User"
 					],
 					[
-						"ctt",
-						"Indentation: Convert to Tabs"
-					],
-					[
 						"ctta",
 						"Indentation: Convert to Tabs"
 					],
@@ -234,32 +2385,16 @@
 						"Set Syntax: Smarty"
 					],
 					[
-						"ssjs",
-						"Set Syntax: JavaScript"
-					],
-					[
 						"remo",
 						"Package Control: Remove Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"date",
 						"InsertDate: Default"
 					],
 					[
-						"ssh",
-						"Set Syntax: HTML"
-					],
-					[
 						"insa",
 						"InsertDate: Default"
-					],
-					[
-						"foma",
-						"Format: Javascript"
 					],
 					[
 						"svn",
@@ -272,10 +2407,6 @@
 					[
 						"instal",
 						"Package Control: Install Package"
-					],
-					[
-						"sscss",
-						"Set Syntax: CSS"
 					],
 					[
 						"prettyp",
@@ -335,116 +2466,134 @@
 			},
 			"file_history":
 			[
-				"/media/D/Website/jsdom/jquery.js",
-				"/media/D/Website/QTiger/framework/YiiBase.php",
-				"/media/D/Website/char1ee.github.io/slide/javascript.html",
-				"/home/liyongjian/Downloads/jquery-1.10.2.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/vendor/qutil/qutil.js",
+				"/home/liyongjian/Website/mydev/fe/asset/css/plugins/bootstrap-datepicker/tests/assets/qunit.js",
+				"/home/liyongjian/Website/mydev/fe/asset/html/zg_360/html/index.html",
+				"/home/liyongjian/Website/mydev/fe/asset/js/page/360eduindex/home.js",
+				"/home/liyongjian/Website/mydev/fe/asset/html/360eduindex/index.html",
+				"/home/liyongjian/Website/mydev/fe/asset/js/360eduindex/home.js",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/hongbao.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/nmd-r.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/vendor/requirejs/require.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/page/360eduindex/home-r.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/vendor/jquery/jquery.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/nmd.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/page/360eduindex/examCalendar.js",
+				"/home/liyongjian/Website/mydev/fe/output/js/page/home.js",
+				"/home/liyongjian/Website/mydev/fe/output/js/nmd.js",
+				"/home/liyongjian/Website/mydev/node_modules/grunt-contrib-less/node_modules/less/build/require.js",
+				"/home/liyongjian/Website/mydev/node_modules/grunt-contrib-less/node_modules/less/node_modules/request/node_modules/http-signature/node_modules/asn1/lib/ber/writer.js",
+				"/home/liyongjian/Website/mydev/node_modules/grunt-contrib-requirejs/tasks/requirejs.js",
+				"/home/liyongjian/Website/mydev/fe/output/js/page/home-r.js",
+				"/home/liyongjian/Website/mydev/Gruntfile.js",
+				"/home/liyongjian/Website/mydev/node_modules/express/node_modules/connect/node_modules/multiparty/test/fixture/http/encoding/blank.gif.http",
+				"/media/D/Website/2014guokao/index.html",
+				"/home/liyongjian/Website/mydev/fe/asset/css/plugins/flot/jquery.min.js",
+				"/home/liyongjian/Documents/api.md",
+				"/home/liyongjian/Website/mydev/fe/asset/css/plugins/flot/jquery.flot.js",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/sidebar.html",
+				"/home/liyongjian/Website/mydev/node_modules/express/node_modules/connect/lib/middleware/session/cookie.js",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/sidebar.js",
+				"/home/liyongjian/Website/mydev/fe/asset/html/xueba/en.html",
+				"/home/liyongjian/Website/mydev/fe/asset/js/page/xueba/xueba.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/Share/Share.js",
+				"/home/liyongjian/Website/mydev/fe/exam/exam.js",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/帮助.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/02我的红包-各种状态.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/js/carousel.js",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/js/dialog.js",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/01活动主界面.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/css/style.css",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/style.css",
+				"/home/liyongjian/Website/mydev/fe/asset/css/360eduindex/style.css",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/提交个人信息.html",
+				"/media/D/Website/char1ee.github.io/gift/index.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/index.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/红包.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/hongbao.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/help.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/红包状态形式.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/提交个人信息",
+				"/home/liyongjian/Website/mydev/fe/asset/html/love/index.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/h5so/index.html",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/snow/snow.js",
+				"/home/liyongjian/Website/mydev/fe/asset/html/love/index2.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/love/wait.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/_start/start.html",
+				"/home/liyongjian/Website/mydev/fe/asset/css/xueba/style.css",
+				"/home/liyongjian/Website/mydev/sftp-config.json",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/juicer/juicer.js",
+				"/home/liyongjian/Website/mydev/fe/asset/html/moban/index.html",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/handlebars/hbs.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/index.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/360eduindex/juicer/juicer.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/handlebars/index.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/handbar",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/widget/Pin.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/widget/Carousel.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/ejs/ejs.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/360eduindex/examCalendar.js",
+				"/home/liyongjian/Downloads/underscore.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/widget/Tab.js",
+				"/home/liyongjian/Documents/360edu上线脚本",
+				"/home/liyongjian/Website/mydev/fe/asset/js/page/xueba/xueba-r.js",
+				"/home/liyongjian/Website/mydev/fe/asset/css/xueba/style-local.css",
+				"/home/liyongjian/Website/mydev/fe/asset/html/360eduindex/index.qcms",
+				"/home/liyongjian/Website/mydev/fe/asset/html/xueba/zxx.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/xueba/qz.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/xueba/index.html",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/Scroll/Scroll.js",
+				"/home/liyongjian/Website/mydev/_tmp/qz.html",
+				"/home/liyongjian/Website/mydev/fe/asset/js/vendor/DD_belatedPNG/DD_belatedPNG.js",
+				"/home/liyongjian/Website/mydev/fe/asset/css/ratyle/reset.css",
+				"/home/liyongjian/Website/mydev/fe/asset/css/xueba/demo.html",
+				"/home/liyongjian/Website/mydev/fe/asset/js/vendor/qutil/qutil-online.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/widget/Scroll.js",
+				"/home/liyongjian/Website/mydev/fe/asset/css/ratyle/function.less",
+				"/home/liyongjian/Website/mydev/fe/asset/css/plugins/bootstrap-datepicker/tests/assets/qunit-logging.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/share/Share.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/pin.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/widget/pin.js",
+				"/home/liyongjian/Website/mydev/node_modules/express/node_modules/connect/node_modules/multiparty/test/fixture/http/special-chars-in-filename/xp-ie-7.http",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/pin/pin.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/Carousel/Carousel.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/widget/carousel.js",
+				"/home/liyongjian/Website/mydev/node_modules/grunt-contrib-less/node_modules/less/test/less/errors/property-in-root.less",
+				"/home/liyongjian/Website/mydev/package.json",
+				"/home/liyongjian/Website/mydev/fe/asset/html/xueba/qiuzhi.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/xiongchumo/index.html",
+				"/home/liyongjian/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/liyongjian/.config/sublime-text-2/Packages/Prefixr/Default (Linux).sublime-keymap",
+				"/home/liyongjian/Website/mydev/fe/asset/js/xueba/style.css",
+				"/home/liyongjian/Website/mydev/fe/asset/css/ratyle/reset.less",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/widget/wdiget.js",
+				"/home/liyongjian/Website/novaUI/src/core/widget/widget.js",
+				"/home/liyongjian/Website/novaUI/src/core/base/class.js",
+				"/home/liyongjian/Website/novaUI/src/core/base/base.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/widget/class.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/carousel.js",
+				"/home/liyongjian/Website/mydev/fe/asset/html/snow/index.html",
+				"/home/liyongjian/Website/mydev/fe/asset/css/plugins/bootstrap-datepicker/tests/assets/qunit.css",
+				"/home/liyongjian/Website/mydev/fe/asset/js/snow/snow_demo.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/vendor/html5shiv/shiv.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/vendor/requirejs/require.config.js",
+				"/home/liyongjian/Website/mydev/fe/asset/css/xiongchumo/skin.css",
+				"/home/liyongjian/Website/mydev/fe/asset/css/xiongchumo/header.css",
+				"/home/liyongjian/Website/mydev/fe/asset/css/xiongchumo/grid.css",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/mp3player/mp3player.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/snow/1.0",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/mp3player/demo2.html",
+				"/home/liyongjian/Website/mydev/fe/asset/js/vendor/seajs/sea.js",
+				"/home/liyongjian/Website/mydev/fe/asset/js/amd_modules/mp3player/demo.html",
+				"/home/liyongjian/Website/mydev/fe/asset/md/hello.md",
+				"/home/liyongjian/sublime project/open_api_reader.sublime-project",
+				"/home/liyongjian/Website/mydev/docs/html/docs/md/hello.html",
+				"/home/liyongjian/Website/mydev/doc/md/hello.md",
+				"/home/liyongjian/Website/mydev/fe/asset/html/class/index.html",
+				"/home/liyongjian/Website/mydev/fe/asset/html/360eduindex/TMP.html",
 				"/media/D/Website/QTiger/sftp-config.json",
 				"/media/D/Website/QTiger/.gitignore",
-				"/media/D/Website/QTiger/src/assets/__tmp.php",
-				"/media/D/Website/QTiger/src/protected/views/dataType/addData.html",
-				"/media/D/Website/QTiger/src/protected/views/include/footer.html",
-				"/media/D/Website/QTiger/src/protected/config-dist/config-online/server_conf.php",
-				"/media/D/Website/QTiger/src/assets/js/modules/swfupload/2.2/Flash/ExternalCall.as",
-				"/media/D/Website/QTiger/src/protected/controllers/UploadController.php",
-				"/media/D/Website/QTiger/src/protected/views/include/header.html",
-				"/media/D/Website/QTiger/src/protected/controllers/IndexController.php",
-				"/media/D/Website/QTiger/src/protected/controllers/RoleController.php",
-				"/media/D/Website/QTiger/src/protected/components/RootController.php",
-				"/media/D/Website/QTiger/src/assets/test",
-				"/media/D/Website/QTiger/__tmp.html",
-				"/home/liyongjian/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-				"/media/D/Website/QTiger/src/protected/views/user/index.html",
-				"/media/D/Website/QTiger/src/protected/views/index/index.html",
-				"/media/D/Website/QTiger/src/protected/views/include/____template_init.html",
-				"/media/D/Website/QTiger/framework/yii.php",
-				"/media/D/Website/QTiger/src/protected/views/site/msg.html",
-				"/media/D/Website/QTiger/src/protected/views/site/login.html",
-				"/media/D/Website/QTiger/src/protected/views/site/login_2.html",
-				"/media/D/Website/QTiger/src/protected/views/site/index.html",
-				"/media/D/Website/QTiger/src/protected/views/site/errorMsg.html",
-				"/media/D/Website/QTiger/src/protected/views/role/update.html",
-				"/media/D/Website/QTiger/src/protected/views/role/add.html",
-				"/media/D/Website/QTiger/src/protected/views/dataType/list.html",
-				"/media/D/Website/QTiger/src/protected/views/dataType/datalist.html",
-				"/media/D/Website/QTiger/src/protected/views/include/sidebar.html",
-				"/media/D/Website/QTiger/src/protected/views/include/pageheader.html",
-				"/media/D/Website/QTiger/src/assets/metronic/admin/resources/glyphicons_pro/__MACOSX/glyphicons_pro/glyphicons/._png",
-				"/media/D/Website/QTiger/src/assets/metronic/admin/template_content/assets/img/flags/readme.txt",
-				"/media/D/Website/QTiger/src/assets/metronic/admin/template_content/assets/img/logo.png",
-				"/media/D/Website/QTiger/src/protected/views/dataType/create.html",
-				"/media/D/Website/QTiger/src/assets/metronic/admin/template_content/assets/scripts/app.js",
-				"/media/D/Website/QTiger/src/protected/views/dataType/index.html",
-				"/media/D/Website/QTiger/src/protected/views/user/list.html",
-				"/media/D/Website/QTiger/src/assets/metronic/Readme.url",
-				"/media/D/Website/QTiger/src/assets/test.txt",
-				"/media/D/Website/QTiger/src/html/form.html",
-				"/media/D/Website/QTiger/.idea/modules.xml",
-				"/media/D/Website/QTiger/src/assets/test2.html",
-				"/media/D/Website/QTiger/.idea/vcs.xml",
-				"/home/liyongjian/Website/QTiger/sftp-config.json",
-				"/media/D/Website/QTiger/src/index.php",
-				"/home/liyongjian/Website/QTiger/.gitignore",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zhijiao/hqzj.html",
-				"/home/liyongjian/Website/360edu/src/www/front/css/index/new_head.css",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/zhijiao/index.html",
-				"/home/liyongjian/Website/360edu/branches/hao360_edu_1.1/src/www/front/css/index/new_head.css",
-				"/home/liyongjian/Documents/360edu上线脚本",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/sitemap/zhijiao.html",
-				"/home/liyongjian/Website/360edu/sftp-config.json",
-				"/home/liyongjian/Website/360edu/src/www/front/other/hqzj/css/index.css",
-				"/home/liyongjian/Website/360edu/index.html",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zhijiao/navbar.html",
-				"/home/liyongjian/Downloads/index.temp",
-				"/home/liyongjian/hqzj.html",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zhijiao/index.temp",
-				"/home/liyongjian/Website/360edu/src/www/front/other/hqzj/js/index.js",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/common/base.html",
-				"/home/liyongjian/Website/360edu/src/application/views/front/templates_c/c1c4f5e646933273267bce0757a46db2aadd2d21.file.index.html.php",
-				"/home/liyongjian/Website/360edu/config/front/server_conf.php",
-				"/home/liyongjian/Website/360edu/src/www/front/other/hqzj/index.html",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/zhijiao/index2.html",
-				"/home/liyongjian/Website/class/sftp-config.json",
-				"/home/liyongjian/Website/360edu/src/www/front/js/zt/kaoyan/review.js",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_review.html",
-				"/home/liyongjian/Website/360edu/src/www/front/css/reset.css",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zt/kaoyan/kaoyan_review.html",
-				"/home/liyongjian/.config/sublime-text-2/Packages/User/SVN.errors.log",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/english/index.phtml",
-				"/home/liyongjian/.config/awesome/rc.lua",
-				"/home/liyongjian/Website/class/src/www/front/static/asset/css/all.css",
-				"/home/liyongjian/Website/class/src/www/front/static/asset/css/g.css",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/nav_doc_hd.phtml",
-				"/home/liyongjian/Website/class/src/www/front/static/asset/css/header.css",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/account/index.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/build/index.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/course/list.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/course/search.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/index/index.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/medicine/index.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/css.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/subnav.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/gwy/index.phtml",
-				"/home/liyongjian/Website/class/src/www/front/static/asset/css/skin.css",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/js.phtml",
-				"/home/liyongjian/Website/class/src/www/front/static/asset/css/index.css",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/course_category.phtml",
-				"/home/liyongjian/Website/class (copy)/src/www/front/static/resource/css/index.css",
-				"/home/liyongjian/Website/class/ins.sh",
-				"/home/liyongjian/Website/class/src/www/front/static/resource/css/index.css",
-				"/home/liyongjian/Website/class/src/www/front/static/css/index.css",
-				"/home/liyongjian/.wine/system.reg",
-				"/home/liyongjian/.config/sublime-text-2/Packages/User/CSS.sublime-settings",
-				"/home/liyongjian/Website/class/data/store/run.dat",
-				"/home/liyongjian/Website/class/.jshintrc",
-				"/home/liyongjian/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
-				"/home/liyongjian/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
-				"/home/liyongjian/.config/sublime-text-2/Packages/Alignment/Default (Linux).sublime-keymap",
-				"/home/liyongjian/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
-				"/home/liyongjian/.config/sublime-text-2/Packages/Terminal/Base File.sublime-settings",
-				"/home/liyongjian/Website/class/config.php",
-				"/usr/lib/Sublime2/sublime_imfix.c",
-				"/usr/share/applications/sublime.desktop"
+				"/media/D/Website/QTiger/src/assets/__tmp.php"
 			],
 			"find":
 			{
@@ -463,134 +2612,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"12课时名师1对1陪练（互动课程）",
-					"img",
-					"visibility",
-					"	  ",
-					"大图片",
-					"alert",
-					"file_post_name",
-					"            upload_url : \"http://liyongjian.tiger.edu.360.cn/upload/pic\",\n",
-					"upload_complete_function",
-					">",
-					" ",
-					";",
-					"\n",
-					"div",
-					"录入员资料",
-					"请先提交个人资料",
-					"&",
-					"\" ",
-					"fixed",
-					"_1",
-					"a",
-					"{i}",
-					"extendedField",
-					"Radio Buttons",
-					"_1",
-					"1",
-					"Filed",
-					"extendedFiled",
-					"fixed",
-					"_1",
-					" class=\"extension add\" ",
-					" <input  type=\"number\" maxlength=\"8\" ",
-					"<input  type=\"number\" maxlength=\"8\" value=\"6\" min=\"1\" style=\"width:2.5em\">",
-					"<input  type=\"number\" maxlength=\"8\" value=\"1\" min=\"1\" style=\"width:2.5em\">",
-					"showmore",
-					"handleTooltips",
-					"handleResponsiveOnResize",
-					"<button type=\"button\" class=\"btn\">\n                <i class=\"icon-angle-down\"></i>\n                显示更多\n            </button>",
-					"显示更多",
-					"            <br><br>\n            默认值\n            <input type=\"text\" maxlength=\"255\" style=\"width:483px\">\n            <label class=\"inline\"><input type=\"checkbox\">测长</label>",
-					"search",
-					"id=\"search\"",
-					"search",
-					"id=\"search\"",
-					"submitwenda",
-					"searchbox",
-					"class=\"searchbox\"",
-					"#header .le-nav li a",
-					"<!--广告图-->",
-					"src=\"http://p3.qhimg.com/t01e51427cfedc7d602.jpg\"",
-					"学历考试类",
-					"职业资格类",
-					"current_l",
-					"en",
-					"外语培训类",
-					"医药卫生类",
-					"jjmy",
-					"经济贸易类",
-					"财务会计类",
-					"建筑工程类",
-					"content center",
-					"#header .le-nav li a",
-					"#header .le-nav li a:hover",
-					"hreif",
-					"·一级建造师VIP套餐",
-					"style=\"float:left\"",
-					"一级建造师VIP套餐",
-					"float:left",
-					"·一级建造师VIP套餐",
-					"ifm-content",
-					"(<a[^>]*>)\\s*\\n*(.*)\\s*\\n*(<\\/a>)",
-					"<a[^>]*>",
-					"<img src=\"img/",
-					"(<a[^>]*>)\\s*\\n*(.*)\\s*\\n*(<\\/a>)",
-					"(<a[^>]*>)\\s*\\n*",
-					"src=\"img/",
-					"src=\"img/2",
-					"20131018034250468086",
-					"src=\"img/20131018034250468086",
-					"src=\"img/",
-					"img/20131018034250264961.jpg",
-					"(<a[^>]*>)\\s*\\n*(.*)\\s*\\n*(<\\/a>)",
-					"<a[^>]*>\\s*\\n*(.*)\\s*\\n*<\\/a>",
-					"<a[^>]*>\\s*\\n*.*",
-					"<a[^>]*>\\s*\\n*<\\/a>",
-					"<a[^>]*>\\s*\\n*<\\a>",
-					"<a[^>]*>\\s*\\n*[^(<\\/a)]*",
-					"<a[^>]*>\\s*\\n*[^<\\/a]*",
-					"<a[^>]*>\\s*\\n*[^<\\/]*",
-					"<a[^>]*>\\s*\\n*",
-					"<a[^>]*>",
-					"current_ctta",
-					"current_cttd",
-					"current_ctta",
-					"current_ctt",
-					"current_ctta",
-					"lz_ula",
-					"建筑工程类",
-					"lz_ula",
-					"外语培训类",
+					"dayi_border.jpg",
+					"http://p7.qhimg.com/d/inn/790e2628/dayi_border.jpg",
+					"jpg",
+					"../images/et_live/dayi_wangdong.jpg",
+					"../images/et_live/dayi_zhangfeng.jpg",
+					"../images/et_live/dayi_shanqingchui.jpg",
+					"../images/et_live/dayi_suiwenbo.jpg",
+					"jpg",
+					"../images/et_live/dayi_zhengshanghua.jpg",
+					"../images/et_live/xujianfeng_b.jpg",
+					"xujianfeng_b.jpg",
+					"../images/et_live/dayi_arrow.jpg",
+					"jpg",
+					"=\"../images/et_live/dayi_arrow.jpg",
+					"../images/et_live/dayi_arrow.jpg",
+					"jpg",
+					"banner_dayi.jpg",
+					"images",
+					"script",
+					"#>",
+					"<#",
+					"%%",
+					"%%>",
+					"<%% ",
+					"<%%",
+					"%%>",
+					"%>",
+					"<%",
+					"							<% ",
+					"<%",
+					"script",
+					"script\\",
+					"script",
 					"\">",
-					"cwkj",
-					"<li class=\"current_l\">\n					<h1>\n						<dl>\n							<dt>\n								<em>",
-					"<div class=\"current_ctta\" style=\"display:none\">",
-					"<div class=\"current_ctta\">",
-					"\n						  ",
-					"						<div class=\"current_ctta\">\n",
-					"<div class=\"current_ctta\">",
-					"class=\"current_ctta\"",
-					"current_ctta",
-					"class=\"current_ctta\"",
-					"$k=>$item%}",
-					"<li {%if $k neq 0%} style=\"display:none\" {%/if%}>",
-					"li as $k=>$item%}",
-					"\n										",
-					"									<li {%if $k neq 0%} style=\"display:none\" {%/if%}>\n",
-					"<li {%if $k neq 0%} style=\"display:none\" {%/if%}>",
-					".li as $k=>$item%}",
-					"style",
-					"li as $item%}\n									<li {%if $k neq 0%} ",
-					"li as $item%}\n									<li {%if $k neq 0%}",
-					"<li {%if $k neq 0%} style=\"display:none\" {%/if%}>",
-					"as $k",
-					"as $k\\",
-					"as $k",
-					"zxmk.li",
-					"jzgc.zxmk.li",
-					"<span class=\"current_ctt\">\n								<ul>\n									{%foreach $data_hqzj"
+					"onTouchStart",
+					"_hbnew",
+					"_hbc",
+					"clickEvent",
+					"addEventListener",
+					"flag",
+					"tab-nav-li tab-nav-current",
+					"script",
+					"lijinchao",
+					"pcode",
+					"JUMP_URL",
+					"newsapp&mso_app=1",
+					".isFunction",
+					"jQuery.isFunction",
+					"jQuery",
+					"addClass",
+					"cookie('_hbnew')",
+					"_hbnew",
+					"newHb",
+					"expires",
+					"this",
+					"littleHb127",
+					"HTML",
+					"html",
+					"this.el",
+					"this.el ",
+					"stringifyCookieValue",
+					"isFunction",
+					"domain",
+					"monitor",
+					"return",
+					"config",
+					"script",
+					"tmpl",
+					"share",
+					"getJSON",
+					"attr",
+					"zepto",
+					"dialog",
+					"46px",
+					"46",
+					"46px",
+					"yellow",
+					"div",
+					"<table><tr><td style='padding:0;border:0;display:none'></td><td>t</td></tr></table>",
+					"gradient",
+					"span",
+					">\n",
+					"strong",
+					"table",
+					"strong",
+					"placehloder",
+					"-webkit-user-select",
+					"titlebar",
+					"==========================",
+					"('==========================",
+					"view",
+					"scroll",
+					"xueba",
+					"&",
+					"ok",
+					"documentElement",
+					"<!doctype html>\n<html>\n<head>\n	<meta name=\"renderer\" content=\"webkit\">\n	<meta charset=\"utf-8\">\n	<title>Document</title>\n</head>\n<style>\nhtml,body{\n	background: #c6cacf url(\"data:image/gif;base64,R0lGODlhBQAvAIAAAMbKzsbKzyH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QUM3QUM3MUFGMUNEMTFFMUI5QjBEMDZFMEM2RTlCOTgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QUM3QUM3MUJGMUNEMTFFMUI5QjBEMDZFMEM2RTlCOTgiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpBQzdBQzcxOEYxQ0QxMUUxQjlCMEQwNkUwQzZFOUI5OCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpBQzdBQzcxOUYxQ0QxMUUxQjlCMEQwNkUwQzZFOUI5OCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV1NPS0dDPzs3My8rJyMfGxcTDwsHAv769vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2cm5qZmJeWlZSTkpGQj46NjIuKiYiHhoWEg4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRjYmFgX15dXFtaWVhXVlVUU1JRUE9OTUxLSklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsqKSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgEAACH5BAAAAAAALAAAAAAFAC8AAAITjI+py+0Po5xUgouz3rz7D4ZcAQA7\") repeat;\n}\n*{margin: 0; padding: 0;box-sizing:border-box;}\nhtml{\n	font-family: Tahoma,Arial,Helvetica,\\5b8b\\4f53,sans-serif;\n	font-size:14px;\n	line-height:1.5;\n}\nhtml,body{height: 100%;}\n	#timerWrap,\n	#envelopeWrap,\n	#wrap {\n		padding:5px 15px;\n		background: #fff;\n		width: 600px;\n		margin:5px auto 0;\n		box-shadow: 5px 5px 5px #333;\n		border: 1px solid #A9B0B8;\n		box-shadow: 0 0 11px 2px rgba(0, 0, 0, 0.3);\n		-webkit-transition: all .2s;\n	}\n	#timerWrap{\n		width: 300px;\n		height: 300px;\n		position: absolute;\n		top:50%;\n		left: 50%;\n		margin-left: -150px;\n		margin-top: -150px;\n		padding-bottom:30px;\n		text-align: center;\n	}\n	#timerWrap .gift{\n		display: block;\n		width: 200px;\n		height: 200px;\n		margin:20px auto;\n	}\n	#envelopeWrap.hide{\n		display: none;\n	}\n	#wrap{\n		min-height: 98%;\n	}\n	#wrap.hide{\n		opacity: 0;\n		position: absolute;\n	}\n	p {\n		text-indent: 2em;\n	}\n	#letter{\n		/*border:1px solid #f00;*/\n		display: inline;\n	}\n	#letter img {\n		display: inline;\n		vertical-align:text-bottom;\n	}\n	.blink:after{\n		background-color: #000;\n		color: #fff;\n		display: inline-block;\n		margin-bottom: -.12em;\n		margin-left: .4em;\n		min-width: 1px;\n		vertical-align: baseline;\n		width: .02em;\n		content: ' .';\n		-webkit-animation: blink 1s step-end infinite;\n	}\n	#letter .spaceH{\n		height: 50px;\n	}\n	.btnwrap {\n		margin-top:50px;\n		text-align: center;\n		-webkit-animation: btnwrap 1s;\n	}\n	button{\n		cursor: pointer;\n		border:1px solid #cf0;\n		box-shadow:inset 0 1px 1px #76dd53;\n		font-size:18px;\n		color:#fff;\n		text-shadow:1px 1px 1px #666;\n		border:1px solid #0f9b08;\n		border-radius:3px;\n		background:#3bce09;\n		padding:3px 22px;\n		background-image:-webkit-linear-gradient(top, #3bce09, #39be08);\n		background-image:-moz-linear-gradient(top, #3bce09, #39be08);\n		background-image:-o-linear-gradient(top, #3bce09, #39be08);\n		background-image:-ms-linear-gradient(top, #3bce09, #39be08);\n		background-image:linear-gradient(top, #3bce09, #39be08)\n	}\n	button:hover {\n		border-color:#11b308;\n		background:#40d00b;\n		background-image:-webkit-linear-gradient(top, #40d00b, #38c906);\n		background-image:-moz-linear-gradient(top, #40d00b, #38c906);\n		background-image:-o-linear-gradient(top, #40d00b, #38c906);\n		background-image:-ms-linear-gradient(top, #40d00b, #38c906);\n		background-image:linear-gradient(top, #40d00b, #38c906);\n		text-decoration:none;\n		color:#fff;\n	}\n	button#cancel{\n		margin-right:30px;position: relative;\n		-webkit-transition: all .2s;\n	}\n	@-webkit-keyframes blink {\n		0%{opacity: 1;}\n		50% {opacity: 0}\n	}\n	@-webkit-keyframes btnwrap {\n		0%{opacity: 0;}\n		100% {opacity: 1;}\n	}\n</style>\n<body>\n	<div id=\"timerWrap\">\n		<img src=\"http://p6.qhimg.com/t01f50dfa57284f6925.png\" class=\"gift\">\n		还需要<span id=\"timer\"></span>才能打开礼物！\n	</div>\n	<div id=\"envelopeWrap\" class=\"hide\">\n		<button id=\"view\">看信</button>\n	</div>\n	<div id=\"wrap\" class=\"hide\">\n		<div id=\"letter\"></div>\n	</div>\n	<audio preload=\"auto\" loop>\n		<source src=\"syz.ogg\" type=\"audio/ogg\">\n		<source src=\"syz.mp3\" type=\"audio/mpeg\">\n	</audio>\n	<script>\n		var pics = (function () {\n			_pics = {\n				gift: 'http://p6.qhimg.com/t01f50dfa57284f6925.png',\n				tx: 'http://p7.qhimg.com/t013df9539df9598466.gif'\n			}\n			return function (i) {\n				return '<img src=\"' + _pics[i] + '\">';\n			}\n		})();\n		var letter = []\n			.concat('致：'.split('')).concat('<br>')\n			.concat('　　小香子同学'.split('')).concat('<br>')\n			.concat('　　我想你一定收到过情书，但绝对没有收到过如此奇葩的'.split('')).concat(pics('tx'))\n\n		// timer\n		function timerInit(){\n			var newYear = +new Date('2014/01/01 GMT+0800');\n			var oTimer = document.getElementById('timer');\n			var leftTime, leftsecond;\n			var day, hour,minute,second;\n			var now;\n			function addZero(num){\n				return num < 10 ? '0' + num : num;\n			}\n			setTimeout(function timer() {\n				now = Date.now();\n				leftTime = newYear - now;\n				leftsecond = leftTime/1000 | 0;\n				if (newYear - now > 0) {\n					day = leftsecond / (60*60*24) | 0;\n					hour = (leftsecond-day*24*60*60)/3600 | 0;\n					minute = (leftsecond-day*24*60*60-hour*3600)/60 | 0;\n					second = (leftsecond-day*24*60*60-hour*3600-minute*60 ) | 0;\n					oTimer.innerHTML = day + '天' + addZero(hour) + '时' + addZero(minute) + '分' + addZero(second) + '秒';\n					setTimeout(timer, 1000);\n				} else {\n					alert('时间到');\n				}\n			}, 0);\n		};\n		// envelope\n		function envelopeInit () {\n			var oEnvelope = document.getElementById('envelope');\n			var oView = document.getElementById('view');\n			var audio = document.getElementsByTagName('audio')[0];\n			oView.onclick = function () {\n				audio.play();\n				oEnvelope.setAttribute('class' ,'hide');\n				document.getElementById('wrap').setAttribute('class', '');\n				letterInit();\n			}\n		}\n		// letter\n		function letterInit (){\n			var printer = {\n				init : function (param) {\n					this.speed = param.speed === 0?0: param.speed || 100;\n					this.wrap = document.getElementById(param.wrap);\n					this.onBegin = param.onBegin || function(){};\n					this.onEnd = param.onEnd || function(){};\n					this.content = param.content || [];\n					this.hasEnd = true;\n					this.print(this.content);\n					return this;\n				},\n				_print: function() {\n					var _this = this;\n					var i = 0, l = _this.content.length;\n					_this.hasEnd = false;\n					setTimeout(function loop () {\n						_this.wrap.innerHTML += _this.content[i];\n						++i;\n						if(i < l) {\n							setTimeout(loop, _this.speed)\n						} else {\n							_this.hasEnd = true;\n							_this.end();\n						}\n					}, 0);\n					return _this;\n				},\n				print: function (str) {\n					this.onBegin.call(this);\n					this.string += str;\n					this.hasEnd && this._print();\n					return this;\n				},\n				end: function () {\n					this.onEnd.call(this);\n					return this;\n				}\n\n			}\n\n			printer.init({\n				speed:0,\n				wrap: 'letter',\n				content: letter,\n				onBegin: function(){\n					this.wrap.setAttribute('class', 'blink');\n				},\n				onEnd: function () {\n					var _this = this;\n					_this.wrap.innerHTML +=\n						'<div class=\"btnwrap\"><button id=\"cancel\">对不起</button><button id=\"ok\">我愿意</button></div>';\n					_this.wrap.setAttribute('class', '');\n\n					var oCancel = document.getElementById('cancel');\n					var hoveTime = 0;\n					oCancel.addEventListener('mouseover', function () {\n						function random(start, end) {\n							switch (arguments.length) {\n								case 1 :\n									return Math.random() * start  + 1;\n								case 2 :\n									return Math.random() * (end - start + 1) + start;\n								default :\n									return Math.random();\n							}\n						}\n						++hoveTime;\n						switch(hoveTime) {\n							case 3:\n								this.innerHTML = '挖卡卡';\n								break;\n							case 10:\n								this.innerHTML = '放弃吧！';\n								break;\n							 case 19:\n								this.innerHTML = '已经试了20次了，点个我愿意不行啊！！！';\n								break;\n						}\n						this.style.left = (+new Date %2 ?'':'-') + random(100, document.documentElement.scrollWidth/2) + 'px';\n						this.style.top = (+new Date %2 ?'':'-') + random(30, document.documentElement.scrollHeight/4) + 'px';\n					}, false)\n					oCancel.addEventListener('click', function (){\n						this.innerHTML = '我闪！';\n						setTimeout(function () {\n							this.style.display = 'none';\n						}.bind(this), 500)\n					}, false)\n				}\n			});\n		}\n\n		timerInit();\n</script>\n</body>\n</html>",
+					"div",
+					"this",
+					"document.getElementsByTagName('audio')[0]",
+					"letter",
+					"innerHTML",
+					".wrap",
+					"pram",
+					" .btn-1",
+					"btn",
+					"@-webkit-keyframes",
+					"string",
+					"this",
+					"tpl/hbs",
+					"console",
+					"window",
+					"{{",
+					"%>",
+					"{%>",
+					"<%",
+					"tmpl",
+					"{{",
+					"	 ",
+					"   ",
+					"use strtic",
+					"use",
+					"strict",
+					"amd",
+					"define",
+					"defined",
+					"jser",
+					"ejs"
 				],
 				"highlight": false,
 				"in_selection": false,
@@ -598,6 +2747,19 @@
 				"regex": false,
 				"replace_history":
 				[
+					"http://p6.qhimg.com/d/inn/790e2628/dayi_wangdong.jpg",
+					"http://p5.qhimg.com/d/inn/790e2628/dayi_zhangfeng.jpg",
+					"http://p3.qhimg.com/d/inn/790e2628/dayi_shanqingchui.jpg",
+					"http://p6.qhimg.com/d/inn/790e2628/dayi_suiwenbo.jpg",
+					"http://p8.qhimg.com/d/inn/790e2628/dayi_zhengshanghua.jpg",
+					"http://p8.qhimg.com/d/inn/790e2628/xujianfeng_b.jpg",
+					"http://p8.qhimg.com/d/inn/790e2628/dayi_arrow.jpg",
+					"<!--%",
+					"%-->",
+					"%%>",
+					"<%%",
+					"	",
+					" ",
 					"		",
 					" ",
 					"\\1\\2\\3",
@@ -620,6 +2782,14 @@
 				"whole_word": false,
 				"wrap": false
 			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
 			"incremental_find":
 			{
 				"height": 40.0
@@ -651,13 +2821,17 @@
 				]
 			},
 			"menu_visible": true,
+			"output.csslint_result_view":
+			{
+				"height": 124.0
+			},
 			"output.exec":
 			{
-				"height": 142.0
+				"height": 144.0
 			},
 			"output.find_results":
 			{
-				"height": 161.0
+				"height": 283.0
 			},
 			"output.jsconsole_view":
 			{
@@ -671,6 +2845,7 @@
 			{
 				"height": 154.0
 			},
+			"position": "0,0,0,0,0,0,19,958,1198,1920,1200",
 			"replace":
 			{
 				"height": 70.0
@@ -681,6 +2856,382 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"qut",
+						"fe/asset/js/vendor/qutil/qutil.js"
+					],
+					[
+						"qun",
+						"fe/asset/css/plugins/bootstrap-datepicker/tests/assets/qunit.js"
+					],
+					[
+						"_360",
+						"fe/asset/html/zg_360/html/index.html"
+					],
+					[
+						"qu",
+						"fe/asset/js/vendor/qutil/qutil.js"
+					],
+					[
+						"ho",
+						"fe/asset/js/page/360eduindex/home.js"
+					],
+					[
+						"360ed",
+						"fe/asset/js/360eduindex/home.js"
+					],
+					[
+						"hong",
+						"fe/asset/html/h5so/hongbao.js"
+					],
+					[
+						"/js/page/360eduindex/home-r",
+						"fe/asset/js/page/360eduindex/home-r.js"
+					],
+					[
+						"nmd",
+						"fe/asset/js/nmd.js"
+					],
+					[
+						"360edu",
+						"fe/asset/js/page/360eduindex/home.js"
+					],
+					[
+						"home",
+						"fe/asset/js/360eduindex/home.js"
+					],
+					[
+						"vendor/requirejs/require.js",
+						"fe/asset/js/vendor/requirejs/require.js"
+					],
+					[
+						"require",
+						"node_modules/grunt-contrib-less/node_modules/less/build/require.js"
+					],
+					[
+						"/js/nmd.js",
+						"fe/asset/js/nmd.js"
+					],
+					[
+						"360",
+						"fe/asset/html/360eduindex/index.html"
+					],
+					[
+						"hongbao",
+						"fe/asset/html/h5so/hongbao.js"
+					],
+					[
+						"hongb",
+						"fe/asset/html/h5so/hongbao.js"
+					],
+					[
+						"hon",
+						"fe/asset/html/h5so/hongbao.js"
+					],
+					[
+						"requir",
+						"fe/asset/js/vendor/requirejs/require.js"
+					],
+					[
+						"requrejs",
+						"node_modules/grunt-contrib-requirejs/tasks/requirejs.js"
+					],
+					[
+						"draw",
+						"node_modules/grunt-contrib-less/node_modules/less/node_modules/request/node_modules/http-signature/node_modules/asn1/lib/ber/writer.js"
+					],
+					[
+						"hongba",
+						"fe/asset/html/h5so/hongbao.js"
+					],
+					[
+						"js/page/360eduindex/home",
+						"fe/asset/js/page/360eduindex/home.js"
+					],
+					[
+						"blank.git",
+						"node_modules/express/node_modules/connect/node_modules/multiparty/test/fixture/http/encoding/blank.gif.http"
+					],
+					[
+						"grunt",
+						"Gruntfile.js"
+					],
+					[
+						"360edu/",
+						"fe/asset/js/page/360eduindex/home.js"
+					],
+					[
+						"jquery.min",
+						"fe/asset/css/plugins/flot/jquery.min.js"
+					],
+					[
+						"jquery",
+						"fe/asset/js/vendor/jquery/jquery.js"
+					],
+					[
+						"cookie",
+						"node_modules/express/node_modules/connect/lib/middleware/session/cookie.js"
+					],
+					[
+						"en.",
+						"fe/asset/html/xueba/en.html"
+					],
+					[
+						"xueba",
+						"fe/asset/js/page/xueba/xueba.js"
+					],
+					[
+						"shar",
+						"fe/asset/js/amd_modules/Share/Share.js"
+					],
+					[
+						"exam",
+						"fe/exam/exam.js"
+					],
+					[
+						"dia",
+						"fe/asset/html/h5so/js/dialog.js"
+					],
+					[
+						"style",
+						"fe/asset/html/h5so/style.css"
+					],
+					[
+						"style.css",
+						"fe/asset/css/360eduindex/style.css"
+					],
+					[
+						"h5so/",
+						"fe/asset/html/h5so/提交个人信息.html"
+					],
+					[
+						"h5so",
+						"fe/asset/html/h5so/index.html"
+					],
+					[
+						"love",
+						"fe/asset/html/love/index.html"
+					],
+					[
+						"360eduindex/home-r.js",
+						"fe/asset/js/page/360eduindex/home-r.js"
+					],
+					[
+						"gr",
+						"Gruntfile.js"
+					],
+					[
+						"love/",
+						"fe/asset/html/love/index.html"
+					],
+					[
+						"snow",
+						"fe/asset/js/amd_modules/snow/snow.js"
+					],
+					[
+						"xueba/",
+						"fe/asset/css/xueba/style.css"
+					],
+					[
+						"start",
+						"fe/asset/html/_start/start.html"
+					],
+					[
+						"moban",
+						"fe/asset/html/moban/index.html"
+					],
+					[
+						"handbar",
+						"fe/asset/js/amd_modules/handlebars/hbs.js"
+					],
+					[
+						"handb",
+						"fe/asset/js/amd_modules/handbar"
+					],
+					[
+						"360h",
+						"fe/asset/html/360eduindex/index.html"
+					],
+					[
+						"eduhome",
+						"fe/asset/js/360eduindex/home.js"
+					],
+					[
+						"share",
+						"fe/asset/js/amd_modules/Share/Share.js"
+					],
+					[
+						"car",
+						"fe/asset/js/amd_modules/widget/Carousel.js"
+					],
+					[
+						"ejs",
+						"fe/asset/js/amd_modules/ejs/ejs.js"
+					],
+					[
+						"tab",
+						"fe/asset/js/amd_modules/widget/Tab.js"
+					],
+					[
+						"en",
+						"fe/asset/html/xueba/en.html"
+					],
+					[
+						"pin",
+						"fe/asset/js/amd_modules/widget/Pin.js"
+					],
+					[
+						"xue",
+						"fe/asset/js/page/xueba/xueba.js"
+					],
+					[
+						"xub",
+						"fe/asset/js/page/xueba/xueba-r.js"
+					],
+					[
+						"zxx",
+						"fe/asset/html/xueba/zxx.html"
+					],
+					[
+						"qz",
+						"fe/asset/html/xueba/qz.html"
+					],
+					[
+						"nmd.js",
+						"fe/asset/js/nmd.js"
+					],
+					[
+						"360edy",
+						"fe/asset/css/360eduindex/style.css"
+					],
+					[
+						"js/360eduindex/home",
+						"fe/asset/js/360eduindex/home.js"
+					],
+					[
+						"js/nmd.js",
+						"fe/asset/js/nmd.js"
+					],
+					[
+						"qcms",
+						"fe/asset/html/360eduindex/index.qcms"
+					],
+					[
+						"en.htm",
+						"fe/asset/html/xueba/en.html"
+					],
+					[
+						"xueba/s",
+						"fe/asset/css/xueba/style.css"
+					],
+					[
+						"nm",
+						"fe/asset/js/nmd.js"
+					],
+					[
+						"css/ratyle/reset.css",
+						"fe/asset/css/ratyle/reset.css"
+					],
+					[
+						"/js/vendor/dd_belatedpng/dd_belatedpng.js",
+						"fe/asset/js/vendor/DD_belatedPNG/DD_belatedPNG.js"
+					],
+					[
+						"q",
+						"fe/asset/js/vendor/qutil/qutil.js"
+					],
+					[
+						"xuebastyle",
+						"fe/asset/css/xueba/style.css"
+					],
+					[
+						"",
+						"Gruntfile.js"
+					],
+					[
+						"function.",
+						"fe/asset/css/ratyle/function.less"
+					],
+					[
+						"xueba/st",
+						"fe/asset/css/xueba/style.css"
+					],
+					[
+						"xiong",
+						"fe/asset/html/xiongchumo/index.html"
+					],
+					[
+						"fun",
+						"fe/asset/css/ratyle/function.less"
+					],
+					[
+						"reset.",
+						"fe/asset/css/ratyle/reset.css"
+					],
+					[
+						"reset",
+						"fe/asset/css/ratyle/reset.less"
+					],
+					[
+						"cla",
+						"fe/asset/js/amd_modules/widget/class.js"
+					],
+					[
+						"snow/",
+						"fe/asset/html/snow/index.html"
+					],
+					[
+						"require.c",
+						"fe/asset/js/vendor/requirejs/require.config.js"
+					],
+					[
+						"360e",
+						"fe/asset/html/360eduindex/index.html"
+					],
+					[
+						"hea",
+						"fe/asset/css/xiongchumo/header.css"
+					],
+					[
+						"skin",
+						"fe/asset/css/xiongchumo/skin.css"
+					],
+					[
+						"star",
+						"fe/asset/html/_start/start.html"
+					],
+					[
+						"mp3",
+						"fe/asset/js/amd_modules/mp3player/mp3player.js"
+					],
+					[
+						"demo2",
+						"fe/asset/js/amd_modules/mp3player/demo2.html"
+					],
+					[
+						"/require.config.j",
+						"fe/asset/js/vendor/requirejs/require.config.js"
+					],
+					[
+						"snow.html",
+						"fe/asset/html/snow/index.html"
+					],
+					[
+						"hel",
+						"fe/asset/md/hello.md"
+					],
+					[
+						"gru",
+						"Gruntfile.js"
+					],
+					[
+						"he",
+						"fe/asset/md/hello.md"
+					],
+					[
+						"class/",
+						"fe/asset/html/class/index.html"
+					],
 					[
 						"foot",
 						"src/protected/views/include/footer.html"
@@ -782,10 +3333,6 @@
 						"src/protected/views/include/header.html"
 					],
 					[
-						"",
-						"src/application/views/front/tpls/inc/zhijiao/hqzj.html"
-					],
-					[
 						"zhijia",
 						"src/application/views/front/tpls/sitemap/zhijiao.html"
 					],
@@ -820,58 +3367,6 @@
 					[
 						"src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_review.html",
 						"src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_review.html"
-					],
-					[
-						"nav_doc_hd",
-						"src/application/views/front/scripts/include/nav_doc_hd.phtml"
-					],
-					[
-						"front/scripts/course/list.phtml",
-						"src/application/views/front/scripts/course/list.phtml"
-					],
-					[
-						"all.css",
-						"src/www/front/static/asset/css/all.css"
-					],
-					[
-						"css.phtml",
-						"src/application/views/front/scripts/include/css.phtml"
-					],
-					[
-						"head",
-						"src/www/front/static/asset/css/header.css"
-					],
-					[
-						"js.phtml",
-						"src/application/views/front/scripts/include/js.phtml"
-					],
-					[
-						"skin",
-						"src/www/front/static/asset/css/skin.css"
-					],
-					[
-						"account/",
-						"src/application/views/front/scripts/account/index.phtml"
-					],
-					[
-						"hea",
-						"src/www/front/static/asset/css/header.css"
-					],
-					[
-						"index.css",
-						"src/www/front/static/asset/css/index.css"
-					],
-					[
-						"index/index",
-						"src/application/views/front/scripts/index/index.phtml"
-					],
-					[
-						"all.",
-						"src/www/front/static/asset/css/all.css"
-					],
-					[
-						"all",
-						"src/www/front/static/asset/css/all.css"
 					]
 				],
 				"width": 0.0
@@ -882,20 +3377,36 @@
 				"selected_items":
 				[
 					[
-						"",
+						"my",
 						"/home/liyongjian/sublime project/360edu.sublime-project"
 					],
 					[
-						"c",
-						"/home/liyongjian/sublime project/class.sublime-project"
+						"",
+						"/home/liyongjian/sublime project/hongbao.sublime-project"
 					],
 					[
-						"class",
-						"/home/liyongjian/sublime project/class.sublime-project"
+						"hong",
+						"/home/liyongjian/sublime project/hongbao.sublime-project"
 					],
 					[
-						"my",
-						"/home/liyongjian/sublime project/mydev.sublime-project"
+						"ed",
+						"/home/liyongjian/sublime project/360edu.sublime-project"
+					],
+					[
+						"m",
+						"/home/liyongjian/sublime project/hongbao.sublime-project"
+					],
+					[
+						"edu",
+						"/home/liyongjian/sublime project/360edu.sublime-project"
+					],
+					[
+						"e",
+						"/home/liyongjian/sublime project/360edu.sublime-project"
+					],
+					[
+						"cla",
+						"/home/liyongjian/sublime project/class.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -904,836 +3415,19 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 310.0,
-			"status_bar_visible": true
-		},
-		"new_window_width": 1198.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"img",
-						"imgSrc"
-					],
-					[
-						"tr",
-						"trdata"
-					],
-					[
-						"margin",
-						"margin-left"
-					],
-					[
-						"font",
-						"font-size"
-					],
-					[
-						"pre",
-						"preventDefault"
-					],
-					[
-						"sea",
-						"searchbox"
-					],
-					[
-						"ser",
-						"searchbox"
-					],
-					[
-						"fl",
-						"float"
-					],
-					[
-						"inline",
-						"inline"
-					],
-					[
-						"bor",
-						"border"
-					],
-					[
-						"ma",
-						"margin"
-					],
-					[
-						"mar",
-						"margin-right"
-					],
-					[
-						"fon",
-						"font-size"
-					],
-					[
-						"inli",
-						"inline"
-					],
-					[
-						"for",
-						"foreach	foreach …"
-					]
-				]
-			},
-			"buffers":
-			[
-			],
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 392.0,
-				"selected_items":
-				[
-					[
-						"cts",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"ssht",
-						"Set Syntax: HTML"
-					],
-					[
-						"prety",
-						"HTMLPrettify"
-					],
-					[
-						"sssmar",
-						"Set Syntax: Smarty"
-					],
-					[
-						"sshtm",
-						"Set Syntax: HTML"
-					],
-					[
-						"ss",
-						"Set Syntax: HTML"
-					],
-					[
-						"sshtml",
-						"Set Syntax: HTML"
-					],
-					[
-						"pret",
-						"HTMLPrettify"
-					],
-					[
-						"htm",
-						"HTMLPrettify"
-					],
-					[
-						"pretty",
-						"HTMLPrettify"
-					],
-					[
-						"ssphp",
-						"Set Syntax: PHP"
-					],
-					[
-						"sscss",
-						"Set Syntax: CSS"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"date",
-						"InsertDate: Default"
-					],
-					[
-						"ssh",
-						"Set Syntax: HTML"
-					],
-					[
-						"insa",
-						"InsertDate: Default"
-					],
-					[
-						"sssma",
-						"Set Syntax: Smarty"
-					],
-					[
-						"foma",
-						"Format: Javascript"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"svn",
-						"SVN: Checkout…"
-					],
-					[
-						"ssl",
-						"Set Syntax: LESS"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"prettyp",
-						"Preferences: Alignment File Settings – Syntax Specific – User"
-					],
-					[
-						"ssjson",
-						"Set Syntax: JSON"
-					],
-					[
-						":q",
-						"Set Syntax: SQL"
-					],
-					[
-						":w",
-						":w - Save"
-					],
-					[
-						"user",
-						"Preferences: Settings - User"
-					],
-					[
-						"align",
-						"Preferences: Alignment Key Bindings – User"
-					],
-					[
-						"alig",
-						"Preferences: Alignment File Settings – User"
-					],
-					[
-						"ali",
-						"Preferences: Alignment File Settings – Default"
-					],
-					[
-						"defau",
-						"Preferences: Settings - Default"
-					],
-					[
-						"markdown",
-						"Set Syntax: Markdown"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 449.0
-			},
-			"console":
-			{
-				"height": 139.0
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/zt/2014hj/zxx.html",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/zt/2014hj/qz.html",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/exam/navbar.html",
-				"/home/liyongjian/Website/360edu/src/www/front/zt/_2014hj/static/js/xueba.js",
-				"/home/liyongjian/Website/360edu/src/www/front/zt/_2014hj/static/js/nmd.js",
-				"/home/liyongjian/Website/360edu/src/application/controllers/front/ZtController.php",
-				"/home/liyongjian/Website/360edu/src/application/controllers/admin/BaseController.php",
-				"/home/liyongjian/Website/360edu/project/autoload_builder.sh",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/yingyu/tmp.html",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/index/index.html",
-				"/home/liyongjian/Website/360edu/src/www/front/css/yingyu/org.css",
-				"/home/liyongjian/Website/360edu/src/application/views/front/scripts/index/index.phtml",
-				"/home/liyongjian/Website/360edu/src/application/views/front/templates_c/c1c4f5e646933273267bce0757a46db2aadd2d21.file.index.html.php",
-				"/home/liyongjian/Website/360edu/src/application/views/front/templates_c/e0b935c7754ac6d4882ec35a5912189705062236.file.index.html.php",
-				"/home/liyongjian/Website/360edu/sftp-config.json",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/common/base.html",
-				"/home/liyongjian/Documents/360edu上线脚本",
-				"/home/liyongjian/Website/360edu/branches/hao360_edu_1.1/src/application/views/front/tpls/common/base.html",
-				"/home/liyongjian/Website/360edu/branches/hao360_edu_1.1/src/application/views/front/tpls/daxue/211.html",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/zt/kaoyan.html",
-				"/home/liyongjian/Website/360edu/gwy/index2.html",
-				"/home/liyongjian/Website/360edu/src/www/front/monitor.php",
-				"/home/liyongjian/Website/360edu/gwy/360/index.htm",
-				"/home/liyongjian/Website/360edu/gwy/index.html",
-				"/home/liyongjian/Website/360edu/gwy/bijiao.html",
-				"/home/liyongjian/Website/360edu/src/www/front/auto_load.php",
-				"/home/liyongjian/Website/360edu/mydev.zip",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/yingyu/english.html",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/yingyu/index/main.html",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_website.html",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_schedule.html",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_review.html",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_news.html",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_mid_ads.html",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_course.html",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/zt/gongwuyuan.html",
-				"/home/liyongjian/Website/360edu/branches/hao360_edu_1.1/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_news.html",
-				"/home/liyongjian/Website/360edu/branches/hao360_edu_1.1/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_website.html",
-				"/home/liyongjian/Website/360edu/branches/hao360_edu_1.1/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_schedule.html",
-				"/home/liyongjian/Website/360edu/branches/hao360_edu_1.1/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_review.html",
-				"/home/liyongjian/Website/360edu/branches/hao360_edu_1.1/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_mid_ads.html",
-				"/home/liyongjian/Website/360edu/branches/hao360_edu_1.1/src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_course.html",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/yingyu/__tmp.html",
-				"/home/liyongjian/Website/360edu/src/application/controllers/front/YingyuController.php",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/zhijiao/index.html",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zhijiao/hqzj.html",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/sitemap/zhijiao.html",
-				"/home/liyongjian/Website/360edu/src/www/front/css/index/new_head.css",
-				"/home/liyongjian/Website/360edu/branches/hao360_edu_1.1/src/www/front/css/index/new_head.css",
-				"/home/liyongjian/Website/360edu/src/www/front/other/hqzj/css/index.css",
-				"/home/liyongjian/Website/360edu/index.html",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zhijiao/navbar.html",
-				"/home/liyongjian/Downloads/index.temp",
-				"/home/liyongjian/hqzj.html",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zhijiao/index.temp",
-				"/home/liyongjian/Website/360edu/src/www/front/other/hqzj/js/index.js",
-				"/home/liyongjian/Website/360edu/config/front/server_conf.php",
-				"/home/liyongjian/Website/360edu/src/www/front/other/hqzj/index.html",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/zhijiao/index2.html",
-				"/home/liyongjian/Website/class/sftp-config.json",
-				"/home/liyongjian/Website/360edu/src/www/front/js/zt/kaoyan/review.js",
-				"/home/liyongjian/Website/360edu/src/www/front/css/reset.css",
-				"/home/liyongjian/Website/360edu/src/application/views/front/tpls/inc/zt/kaoyan/kaoyan_review.html",
-				"/home/liyongjian/.config/sublime-text-2/Packages/User/SVN.errors.log",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/english/index.phtml",
-				"/home/liyongjian/.config/awesome/rc.lua",
-				"/home/liyongjian/Website/class/src/www/front/static/asset/css/all.css",
-				"/home/liyongjian/Website/class/src/www/front/static/asset/css/g.css",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/nav_doc_hd.phtml",
-				"/home/liyongjian/Website/class/src/www/front/static/asset/css/header.css",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/account/index.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/build/index.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/course/list.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/course/search.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/index/index.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/medicine/index.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/css.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/subnav.phtml",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/gwy/index.phtml",
-				"/home/liyongjian/Website/class/src/www/front/static/asset/css/skin.css",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/js.phtml",
-				"/home/liyongjian/Website/class/src/www/front/static/asset/css/index.css",
-				"/home/liyongjian/Website/class/src/application/views/front/scripts/include/course_category.phtml",
-				"/home/liyongjian/Website/class (copy)/src/www/front/static/resource/css/index.css",
-				"/home/liyongjian/Website/class/ins.sh",
-				"/home/liyongjian/Website/class/src/www/front/static/resource/css/index.css",
-				"/home/liyongjian/Website/class/src/www/front/static/css/index.css",
-				"/home/liyongjian/.wine/system.reg",
-				"/home/liyongjian/.config/sublime-text-2/Packages/User/CSS.sublime-settings",
-				"/home/liyongjian/Website/class/data/store/run.dat",
-				"/home/liyongjian/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-				"/home/liyongjian/Website/class/.jshintrc",
-				"/home/liyongjian/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
-				"/home/liyongjian/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
-				"/home/liyongjian/.config/sublime-text-2/Packages/Alignment/Default (Linux).sublime-keymap",
-				"/home/liyongjian/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
-				"/home/liyongjian/.config/sublime-text-2/Packages/Terminal/Base File.sublime-settings",
-				"/home/liyongjian/Website/class/config.php",
-				"/usr/lib/Sublime2/sublime_imfix.c",
-				"/usr/share/applications/sublime.desktop"
-			],
-			"find":
-			{
-				"height": 38.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-					"",
-					"<open files>",
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": true,
-				"find_history":
-				[
-					"static",
-					"<title>360教育搜索_最安全便捷的学习与课程查询平台</title>",
-					"/home/liyongjian/Website/360edu/src/application/views/front/tpls/common/base.html",
-					"common/base.html",
-					"  ",
-					"	 ",
-					"	  ",
-					"	   ",
-					">\n",
-					"	 ",
-					"	  ",
-					"	   ",
-					"monitor-v1.1.1.min.js",
-					"setUrl",
-					"monitor_js",
-					"monitor.setId",
-					"monitor.setId(['hd',",
-					"monitor_js",
-					"zodiac.dwproxy.loadAdZone()",
-					"zodiac.dwproxy.loadAdZone();",
-					"monitor.setUrl",
-					"monitor_js",
-					"monitor-v1.1.1.min.js",
-					"   ",
-					"monitor-v1.1.1.min.js",
-					"monitor_js",
-					"monitor-v1.1.1.min.js",
-					"monito",
-					"monitor-v1.1.1.min.js",
-					"qhimg.com/js/monitor",
-					"<script src=\" http://h1.qhimg.com/js/monitor-v1.1.1.min.js\" ></script>",
-					"<div class=\"related\">\n				<ul class=\"text\">",
-					"地方省市公务员教材",
-					"http://open.union.360.cn/go?bid=2012316481&qihoo_id=36080&url=http%3A%2F%2Fwww.gjgwy.org%2F201304%2F5569.html&sign=78f54d8f9c",
-					"./images/教材中心短信广告.jpg",
-					"jpg",
-					"=\"./images/教材中心短信广告.jpg",
-					"./images/教材中心短信广告.jpg",
-					"教材中心短信广告",
-					"<img src=\"./images/教材中心短信广告.jpg\" style=\"margin-top:10px;\">",
-					"教材中心短信广告",
-					"<img src=\"./images/qrcode_for_gjgwy.jpg\">",
-					"\">\n",
-					"./images/qrcode_for_gjgwy.jpg",
-					"<img src=\"./images/qrcode_for_gjgwy.jpg\">",
-					"<img src=\"./images/gwyscs_logo_9060.jpg\">",
-					"中心",
-					"<img src=\"./images/gwy_logo_9060.jpg\">",
-					"./images/备考教材.jpg",
-					"<div id=\"slide",
-					"<div id=\"eduWebsite\" class=\"edu-website\">",
-					" <div class=\"review\"",
-					"<div class=\"side-left\">",
-					" <div class=\"hot-area gclearfix\" id=\"M-course\">",
-					"<h2>国家公务员</h2>",
-					"什么是公务员“凡进必考”制度？",
-					"===========================",
-					"div class=\"mid-banner\" id=\"M-banner\">",
-					"======================",
-					"===========================",
-					"<div id=\"eduWebsite\"",
-					"<div id=\"eduWebsite\" class=\"edu-website\" id=\"M-edu-website\">",
-					"<div class=\"schedule gclearfix\">",
-					"class=\"review\" style=\"",
-					"class=\"review\" style=\"height:368px;",
-					"<div class=\"college\" style=\"background-color:#fff;\">",
-					"<div class=\"hot-area gclearfix\" id=\"M-course\">",
-					"2014年国家公务员考试_国考资讯_国考课程_国考资料",
-					"saved",
-					"<!-- saved from url=(0033)http://edu.360.cn/exam/gongwuyuan -->",
-					"http://tiger.edu.360.cn/data/get/id/30",
-					"img_url",
-					"少儿英语",
-					"托福",
-					"http://tiger.edu.360.cn/data/get/id/1",
-					"考研英语",
-					"<?php $qcmsData",
-					"$trdata['link']",
-					"imgSrc",
-					"trdata",
-					";",
-					"; ",
-					"trdata",
-					"$trdata => $i",
-					"trdata['title']",
-					"data",
-					"<?php $qcmsData",
-					"<ul class=\"J-childen ",
-					"<ul class=\"J-childen on\">",
-					"item",
-					"右侧",
-					"<ul class=\"text\">",
-					"{%foreach $data_english.oral_eng_word as $item%}\n                    {%if $item@index gt 9%}\n                        {%break%}\n                    {%/if%}\n                    <li class=\"gclearfix {%if $item@index lt 3%}top{%/if%}\"><span>{%if $item@index eq 9%}10{%else%}0{%$item@index+1%}{%/if%}</span><a href=\"{%$item.url%}\" title=\"{%$item.title%}\">{%$item.title%}</a></li>\n                {%/foreach%}",
-					"<div class=\"image\">",
-					"echo ",
-					"{%$item",
-					"{%foreach",
-					"{%*",
-					" {%foreach",
-					"{%foreach",
-					"{%foreach $data_xdf.gre as $item%}\n                        {%if $item@index gt 9%}\n                            {%break%}\n                        {%/if%}\n                        <li><a href=\"{%$item.url%}\" title=\"{%$item.title%}\">{%$item.title%}</a></li>\n                    {%/foreach%}",
-					"{%foreach $data_xdf.toefl as $item%}\n                        {%if $item@index gt 9%}\n                            {%break%}\n                        {%/if%}\n                        <li><a href=\"{%$item.url%}\" title=\"{%$item.title%}\">{%$item.title%}</a></li>\n                    {%/foreach%}",
-					"(\\{\\%\\*[^\\*\\%\\}]*\\*\\%\\})",
-					"\\{\\%\\*[^\\*\\%\\}]*\\*\\%\\}",
-					"\\{\\%\\*",
-					"{\\%\\*",
-					"{%\\*",
-					"{%\\*[^\\*%}]*\\*%}",
-					"{%*[^*%}]*%}",
-					"{%*",
-					"\" ",
-					"http://edu.360.cn",
-					"{%*",
-					"{%*第一个TAB内容*%}",
-					" ",
-					"===",
-					"<a class=\"arrow arrow-right\"></a>",
-					"<div class=\"recommand-section\" id=\"M-recommand\">",
-					"<div id=\"navBar\">",
-					"迈迪德语翻译",
-					"<!--GMAT end-->",
-					"<div class=\"xdf\">",
-					"<!--导航开始 -->",
-					"slide",
-					"http://www.hjenglish.com/new/p538280",
-					"http://www.hjenglish.com/new/p543757",
-					"slide",
-					"-->"
-				],
-				"highlight": false,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": true,
-				"replace_history":
-				[
-					"		",
-					"	",
-					"		",
-					"http://p8.qhimg.com/t01fc05660311f3521f.jpg",
-					"<!-- \\1 -->",
-					" ",
-					"",
-					" ",
-					"&\\n",
-					"\\1\\2\\3",
-					"<img src=\"/other/hqzj/img/",
-					"\\1\\2\\3",
-					"src=\"/other/hqzj/img/",
-					"\\1\\2\\3",
-					"<a[^>]*>(.*)<\\/a>",
-					"<a[^>]*>\\1<\\/a>",
-					"<a[^>]*>$1<\\/a>",
-					"$1",
-					"\\1",
-					"<div class=\"current_ctta\" style=\"display:none\">",
-					"<\\/a>",
-					"\\1"
-				],
-				"reverse": false,
-				"show_context": false,
-				"use_buffer2": false,
-				"whole_word": false,
-				"wrap": false
-			},
-			"groups":
-			[
-				{
-					"sheets":
-					[
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 40.0
-			},
-			"input":
-			{
-				"height": 40.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.csslint_result_view":
-			{
-				"height": 124.0
-			},
-			"output.exec":
-			{
-				"height": 142.0
-			},
-			"output.find_results":
-			{
-				"height": 402.0
-			},
-			"output.jsconsole_view":
-			{
-				"height": 0.0
-			},
-			"output.jshint_view":
-			{
-				"height": 154.0
-			},
-			"output.sftp":
-			{
-				"height": 112.0
-			},
-			"position": "0,0,0,0,0,0,969,1198,1917,1200,1920",
-			"replace":
-			{
-				"height": 70.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"zxx",
-						"src/application/views/front/tpls/zt/2014hj/zxx.html"
-					],
-					[
-						"nmd",
-						"src/www/front/zt/_2014hj/static/js/nmd.js"
-					],
-					[
-						"zt",
-						"src/application/controllers/front/ZtController.php"
-					],
-					[
-						"auto",
-						"project/autoload_builder.sh"
-					],
-					[
-						"croller",
-						"src/application/controllers/admin/BaseController.php"
-					],
-					[
-						"application/viewv",
-						"src/application/views/front/tpls/inc/exam/navbar.html"
-					],
-					[
-						"src/application/views/front/tpls/yingyu/tmp.html",
-						"src/application/views/front/tpls/yingyu/tmp.html"
-					],
-					[
-						"yinyu/",
-						"src/www/front/css/yingyu/org.css"
-					],
-					[
-						"index/",
-						"src/application/views/front/scripts/index/index.phtml"
-					],
-					[
-						"base",
-						"src/application/views/front/tpls/common/base.html"
-					],
-					[
-						"monitor",
-						"src/www/front/monitor.php"
-					],
-					[
-						"src/application/views/front/tpls/inc/yingyu/index/main.html",
-						"src/application/views/front/tpls/inc/yingyu/index/main.html"
-					],
-					[
-						"english",
-						"src/application/views/front/tpls/yingyu/english.html"
-					],
-					[
-						"gwy",
-						"gwy/index2.html"
-					],
-					[
-						"gongwu",
-						"src/application/views/front/tpls/zt/gongwuyuan.html"
-					],
-					[
-						"inc/zt/gongwuyuan/gongwuyuan_schedule.html",
-						"src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_schedule.html"
-					],
-					[
-						"inc/zt",
-						"src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_course.html"
-					],
-					[
-						"englist",
-						"src/application/views/front/tpls/yingyu/english.html"
-					],
-					[
-						"tmp",
-						"src/application/views/front/tpls/yingyu/tmp.html"
-					],
-					[
-						"yinyu",
-						"src/application/controllers/front/YingyuController.php"
-					],
-					[
-						"zhi",
-						"src/application/views/front/tpls/sitemap/zhijiao.html"
-					],
-					[
-						"",
-						"src/application/views/front/tpls/inc/zhijiao/hqzj.html"
-					],
-					[
-						"zhijia",
-						"src/application/views/front/tpls/sitemap/zhijiao.html"
-					],
-					[
-						"new_head.css",
-						"src/www/front/css/index/new_head.css"
-					],
-					[
-						"index",
-						"src/www/front/other/hqzj/css/index.css"
-					],
-					[
-						"hq",
-						"src/application/views/front/tpls/inc/zhijiao/hqzj.html"
-					],
-					[
-						"hqz",
-						"src/application/views/front/tpls/inc/zhijiao/hqzj.html"
-					],
-					[
-						"src/application/views/front/tpls/inc/zhijiao/",
-						"src/application/views/front/tpls/inc/zhijiao/hqzj.html"
-					],
-					[
-						"index.js",
-						"src/www/front/other/hqzj/js/index.js"
-					],
-					[
-						"inc/zhijiao/hqzj.html",
-						"src/application/views/front/tpls/inc/zhijiao/hqzj.html"
-					],
-					[
-						"base.htm",
-						"src/application/views/front/tpls/common/base.html"
-					],
-					[
-						"src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_review.html",
-						"src/application/views/front/tpls/inc/zt/gongwuyuan/gongwuyuan_review.html"
-					],
-					[
-						"nav_doc_hd",
-						"src/application/views/front/scripts/include/nav_doc_hd.phtml"
-					],
-					[
-						"front/scripts/course/list.phtml",
-						"src/application/views/front/scripts/course/list.phtml"
-					],
-					[
-						"all.css",
-						"src/www/front/static/asset/css/all.css"
-					],
-					[
-						"css.phtml",
-						"src/application/views/front/scripts/include/css.phtml"
-					],
-					[
-						"head",
-						"src/www/front/static/asset/css/header.css"
-					],
-					[
-						"header",
-						"src/www/front/static/asset/css/header.css"
-					],
-					[
-						"js.phtml",
-						"src/application/views/front/scripts/include/js.phtml"
-					],
-					[
-						"skin",
-						"src/www/front/static/asset/css/skin.css"
-					],
-					[
-						"account/",
-						"src/application/views/front/scripts/account/index.phtml"
-					],
-					[
-						"hea",
-						"src/www/front/static/asset/css/header.css"
-					],
-					[
-						"index.css",
-						"src/www/front/static/asset/css/index.css"
-					],
-					[
-						"index/index",
-						"src/application/views/front/scripts/index/index.phtml"
-					],
-					[
-						"all.",
-						"src/www/front/static/asset/css/all.css"
-					],
-					[
-						"all",
-						"src/www/front/static/asset/css/all.css"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"selected_items":
-				[
-					[
-						"",
-						"/home/liyongjian/sublime project/mydev.sublime-project"
-					],
-					[
-						"my",
-						"/home/liyongjian/sublime project/mydev.sublime-project"
-					],
-					[
-						"ny",
-						"/home/liyongjian/sublime project/mydev.sublime-project"
-					],
-					[
-						"q",
-						"/home/liyongjian/sublime project/QTiger.sublime-project"
-					],
-					[
-						"dev",
-						"/home/liyongjian/sublime project/mydev.sublime-project"
-					]
-				],
-				"width": 380.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 245.0,
+			"side_bar_width": 291.0,
 			"status_bar_visible": true,
-			"window_id": 26,
-			"workspace_name": "/home/liyongjian/sublime project/360edu.sublime-project"
+			"window_id": 48,
+			"workspace_name": "/home/liyongjian/sublime project/mydev.sublime-project"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
-			"/home/liyongjian/sublime project/360edu.sublime-project",
 			"/home/liyongjian/sublime project/mydev.sublime-project",
+			"/home/liyongjian/sublime project/360edu.sublime-project",
+			"/home/liyongjian/sublime project/hongbao.sublime-project",
 			"/home/liyongjian/sublime project/QTiger.sublime-project",
 			"/home/liyongjian/sublime project/open_api_reader.sublime-project",
 			"/home/liyongjian/sublime project/class.sublime-project"
