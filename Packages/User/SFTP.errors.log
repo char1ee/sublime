@@ -1,0 +1,33 @@
+2014-03-30 13:56:05
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 15, in run_with_except_hook
+  File "./sftp/threads.py", line 113, in handler
+  File "./sftp/commands.py", line 332, in run
+  File "./sftp/commands.py", line 480, in do_operation
+  File "./sftp/file_transfer.py", line 34, in handler
+  File "./sftp/sftp_transport.py", line 604, in put
+  File "./sftp/file_transfer.py", line 364, in handle_put_dirs
+  File "./sftp/sftp_transport.py", line 310, in cd
+NotFoundError: Folder not found
+2014-03-30 13:56:50
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 15, in run_with_except_hook
+  File "./sftp/threads.py", line 113, in handler
+  File "./sftp/commands.py", line 332, in run
+  File "./sftp/commands.py", line 480, in do_operation
+  File "./sftp/file_transfer.py", line 34, in handler
+  File "./sftp/sftp_transport.py", line 604, in put
+  File "./sftp/file_transfer.py", line 364, in handle_put_dirs
+  File "./sftp/sftp_transport.py", line 310, in cd
+NotFoundError: Folder not found
+2014-03-30 13:56:59
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 15, in run_with_except_hook
+  File "./sftp/threads.py", line 113, in handler
+  File "./sftp/commands.py", line 332, in run
+  File "./sftp/commands.py", line 480, in do_operation
+  File "./sftp/file_transfer.py", line 34, in handler
+  File "./sftp/sftp_transport.py", line 604, in put
+  File "./sftp/file_transfer.py", line 364, in handle_put_dirs
+  File "./sftp/sftp_transport.py", line 310, in cd
+NotFoundError: Folder not found

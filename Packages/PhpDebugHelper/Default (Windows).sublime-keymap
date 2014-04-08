@@ -1,0 +1,6 @@
+[
+	{ "keys": ["f1"], "command": "php_debug_helper", "args": {"cmd": "prepend", "function": "var_dump"} },
+	{ "keys": ["f2"], "command": "php_debug_helper", "args": {"cmd": "append", "function": "var_dump"} },
+	{ "keys": ["f3"], "command": "php_debug_helper", "args": {"cmd": "clear", "function": ["var_dump", "print_r"]} },
+	{ "keys": ["shift+f3"], "command": "php_debug_helper", "args": {"cmd": "show", "function": ["var_dump"]} }
+]
